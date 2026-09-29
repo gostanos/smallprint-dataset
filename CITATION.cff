@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, with the release date."
+type: dataset
+title: "Small Print record of MCP server, skill and plugin small print"
+abstract: >-
+  A nightly record of the published tool descriptions, schemas and instructions of MCP servers,
+  agent skills and plugins, released as metadata only: entry identities, version strings and
+  publish dates, content hashes, tool counts, per-change metadata with the grading rule that
+  matched, per-day change counts, advisory identifiers matched to version ranges, install counts
+  with their source, and the record's hash chain. It holds no third-party text.
+authors:
+  - name: "EmberStack LLC"
+    website: "https://smallprint.dev"
+version: "2026.09.29"
+date-released: 2026-09-29
+url: "https://smallprint.dev"
+repository-code: "https://github.com/gostanos/smallprint-dataset"
+license: CC-BY-4.0
+keywords:
+  - "model context protocol"
+  - "MCP servers"
+  - "agent skills"
+  - "plugins"
+  - "software supply chain"
+  - "security advisories"
+  - "content hashes"
