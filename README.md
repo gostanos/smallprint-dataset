@@ -4,17 +4,11 @@ Small Print (https://smallprint.dev) reads the text that MCP servers, agent skil
 
 This dataset is the metadata of that record. It lists every entry, every version with its fingerprint and tool count, every recorded change with its grade and the rule that set it, per-day change counts, the advisories matched to entries with their version ranges, and the nightly hash chain that lets anyone check that recorded fingerprints were not changed later. It holds no third-party text: no tool descriptions, schemas, instruction files, READMEs, advisory summaries or diffs. To read what a change actually said, follow the entry's `page_url` to its page on smallprint.dev.
 
-- Release: 2026-09-30 (version 2026.09.30). The earlier release, 2026-09-29, stays in its own folder; see "What changed since 2026-09-29" below.
+- Release: 2026-09-30 (version 2026.09.30).
 - Exported: 2026-09-30 at 23:19:48 UTC, from the live record, inside one read-only transaction, so every file describes the same moment.
 - Publisher: EmberStack LLC, Small Print. Licence: CC BY 4.0 (see "Licence" below).
 
-## What changed since 2026-09-29
-
-The release of 2026-09-29 was exported before two faults in the record were fixed (on 29 and 30 September 2026). Use this release instead.
-
-- About 1,415 ordinary malicious npm and PyPI packages had been made into entries because a public malware feed named them, although nothing showed them to be MCP servers, skills or plugins. They are hidden from the record now, so they and the advisories that only name them are not in this release.
-- When a release was read after a later one, it had sometimes been compared with an older version as well as with the one just before it, so one change was recorded more than once. 12,301 such extra comparisons were deleted, and each version is now compared only with the version before it.
-- Changes in whether a registry still lists an entry (field `source.presence`) stay in `changes.csv.gz`, but they are no longer counted as changes to the small print, which matches the live site.
+Use the newest release. Earlier releases stay in their own folders for reference.
 
 ## Files in this release
 
@@ -109,7 +103,7 @@ Summaries, details, references and Small Print's own explanations are left out.
 | `version_range` | The affected versions, as the advisory states them: a range such as `<0.1.16`, a list of versions, or `*` when it names every version. |
 | `matched_at` | When Small Print made the match. |
 
-1,471 of the 1,625 advisories are matched to at least one of 344 entries. Advisories whose only matches are packages hidden from the record (see "What changed since 2026-09-29") are left out, so this file holds fewer advisories than the 4,230 reports smallprint.dev counts on record. An advisory can be matched to the wrong entry, for example where two packages share a name; each match can be disputed from the entry's page.
+1,471 of the 1,625 advisories are matched to at least one of 344 entries. Advisories whose only matches are packages hidden from the record are left out, so this file holds fewer advisories than the 4,230 reports smallprint.dev counts on record. An advisory can be matched to the wrong entry, for example where two packages share a name; each match can be disputed from the entry's page.
 
 ### record_chain.csv
 
