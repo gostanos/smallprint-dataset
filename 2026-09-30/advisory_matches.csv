@@ -1,0 +1,2156 @@
+advisory_id,entry,version_range,matched_at
+CVE-2025-10619,github:sequa-ai/sequa-mcp,"1.0.0, 1.0.1, 1.0.2, 1.0.3, 1.0.4, 1.0.5, 1.0.6, 1.0.7, 1.0.8, 1.0.9, 1.0.10, 1.0.11, 1.0.12, 1.0.13",2026-09-03T03:35:01.070Z
+CVE-2025-4143,github:cloudflare/workers-oauth-provider,<0.0.5,2026-09-03T03:35:01.041Z
+CVE-2025-5273,npm:mcp-markdownify-server,<=0.0.1,2026-09-30T06:42:14.003Z
+CVE-2025-5276,npm:mcp-markdownify-server,<=0.0.1,2026-09-30T06:42:14.112Z
+CVE-2025-5277,github:alexei-led/aws-mcp-server,<1.3.0,2026-09-03T03:35:01.043Z
+CVE-2025-58337,pypi:doris-mcp-server,<0.6.0,2026-09-03T03:37:55.790Z
+CVE-2025-6514,npm:mcp-remote,>=0.0.5 <0.1.16,2026-09-03T03:34:40.686Z
+CVE-2025-65513,npm:mcp-fetch-server,<=1.0.2,2026-09-03T04:04:14.711Z
+CVE-2025-66335,pypi:doris-mcp-server,>=0.1.0 <0.6.1,2026-09-03T03:37:55.787Z
+CVE-2025-66336,pypi:doris-mcp-server,<0.6.1,2026-09-03T03:35:07.929Z
+CVE-2025-8943,npm:flowise,<=3.0.5,2026-09-03T03:35:01.062Z
+CVE-2026-0755,npm:gemini-mcp-tool,>=1.1.2 <1.1.6,2026-09-03T04:04:14.414Z
+CVE-2026-100868,github:penpot/penpot,<2.18.0,2026-09-28T06:02:36.183Z
+CVE-2026-100868,npm:@penpot/mcp,<=2.15.4,2026-09-28T06:02:36.186Z
+CVE-2026-10280,github:horizon921/mcpilot,0.1.0,2026-09-03T03:35:07.921Z
+CVE-2026-102806,github:openclaw/openclaw,<2026.9.5,2026-09-30T06:45:35.129Z
+CVE-2026-102807,github:openclaw/openclaw,<2026.9.4,2026-09-30T06:45:35.137Z
+CVE-2026-13524,github:cherryhq/cherry-studio,"1.9.0, 1.9.1, 1.9.2, 1.9.3, 1.9.4, 1.9.5, 1.9.6",2026-09-03T03:35:07.934Z
+CVE-2026-14748,github:aianytime/awesome-mcp-server,a884bb51bcd99e08e14fd712c749d55d9d9a13ab,2026-09-03T03:35:07.936Z
+CVE-2026-15193,github:aidanpark/openclaw-android,"0.1, 0.2, 0.3, 0.4.0",2026-09-03T03:36:06.341Z
+CVE-2026-1721,github:cloudflare/agents,<0.3.10,2026-09-03T03:35:01.098Z
+CVE-2026-17433,github:nanocoai/nanoclaw,"2.0.0, 2.0.1, 2.0.2, 2.0.3, 2.0.4, 2.0.5, 2.0.6, 2.0.7, 2.0.8, 2.0.9, 2.0.10, 2.0.11, 2.0.12, 2.0.13, 2.0.14, 2.0.15, 2.0.16, 2.0.17, 2.0.18, 2.0.19, 2.0.20, 2.0.21, 2.0.22, 2.0.23, 2.0.24, 2.0.25, 2.0.26, 2.0.27, 2.0.28, 2.0.29, 2.0.30, 2.0.31, 2.0.32, 2.0.33, 2.0.34, 2.0.35, 2.0.36, 2.0.37, 2.0.38, 2.0.39, 2.0.40, 2.0.41, 2.0.42, 2.0.43, 2.0.44, 2.0.45, 2.0.46, 2.0.47, 2.0.48, 2.0.49, 2.0.50, 2.0.51, 2.0.52, 2.0.53, 2.0.54, 2.0.55, 2.0.56, 2.0.57, 2.0.58, 2.0.59, 2.0.60, 2.0.61, 2.0.62, 2.0.63, 2.0.64",2026-09-03T03:35:13.359Z
+CVE-2026-17457,github:mf-yang/openclaw-cn,"0.2.0, 0.2.1",2026-09-03T03:36:06.404Z
+CVE-2026-17458,github:mf-yang/openclaw-cn,"0.2.0, 0.2.1",2026-09-03T03:36:06.405Z
+CVE-2026-19006,github:mf-yang/openclaw-cn,2026.2.5,2026-09-03T03:36:06.408Z
+CVE-2026-19007,github:mf-yang/openclaw-cn,"0.2.0, 0.2.1",2026-09-03T03:36:06.408Z
+CVE-2026-19008,github:mf-yang/openclaw-cn,"0.2.0, 0.2.1",2026-09-03T03:36:06.409Z
+CVE-2026-25905,pypi:mcp-run-python,<=0.0.22,2026-09-03T03:35:01.096Z
+CVE-2026-26118,npm:@azure/mcp,>=2.0.0-beta.1 <2.0.0-beta.17 || >=1.0.0 <1.0.2,2026-09-04T05:41:39.515Z
+CVE-2026-26118,pypi:msmcp-azure,>=2.0.0b14 <2.0.0b17,2026-09-04T05:41:39.517Z
+CVE-2026-5029,github:formulahendry/mcp-server-code-runner,<=*,2026-09-03T03:35:07.907Z
+CVE-2026-5323,github:priyankark/a11y-mcp,"1.0.0, 1.0.1, 1.0.2, 1.0.3, 1.0.4, 1.0.5",2026-09-03T03:35:07.868Z
+CVE-2026-57860,github:tailcallhq/forgecode,2.11.1,2026-09-03T03:35:13.348Z
+CVE-2026-58168,github:hkuds/deeptutor,<1.4.10,2026-09-03T03:35:07.934Z
+CVE-2026-5833,github:awwaiid/mcp-server-taskwarrior,"1.0.0, 1.0.1",2026-09-03T03:35:07.880Z
+CVE-2026-58446,github:presenton/presenton,<0.8.8-beta,2026-09-03T03:35:07.935Z
+CVE-2026-59563,github:zscaler/zscaler-mcp-server,>=0.7.0 <0.7.2,2026-09-29T06:04:47.790Z
+CVE-2026-6011,npm:openclaw,<2026.1.29,2026-09-04T05:41:55.208Z
+CVE-2026-6130,github:chatboxai/chatbox,"1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.0",2026-09-03T03:34:54.064Z
+CVE-2026-61459,github:flux159/mcp-server-kubernetes,<3.9.0,2026-09-03T03:35:13.330Z
+CVE-2026-66005,github:janhq/jan,<=0.8.4,2026-09-03T03:35:13.357Z
+CVE-2026-66418,github:tugcantopaloglu/openclaw-dashboard,3.0.0,2026-09-03T03:36:06.406Z
+CVE-2026-66421,github:tugcantopaloglu/openclaw-dashboard,1.1.0,2026-09-03T03:36:06.407Z
+CVE-2026-7221,github:tencentcloudbase/cloudbase-mcp,"2.0, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, 2.11, 2.12, 2.13, 2.14, 2.15, 2.16, 2.17.0",2026-09-03T03:35:07.892Z
+CVE-2026-72846,github:lightdash/lightdash,<1.146.4,2026-09-03T03:35:13.380Z
+CVE-2026-7417,github:algovate/xhs-mcp,0.8.11,2026-09-03T03:35:07.893Z
+CVE-2026-75149,github:marimo-team/marimo,<0.23.15,2026-09-03T03:35:13.377Z
+CVE-2026-7729,github:pixelsock/directus-mcp,1.0.0,2026-09-03T03:35:07.893Z
+CVE-2026-81095,github:timescale/pg-aiguide,<=0.5.0,2026-09-03T03:35:19.761Z
+CVE-2026-81099,github:timescale/tiger-slack,<23faf7ee7e7f73e5ea4f67e627c1aca94bba1f09,2026-09-03T03:35:19.766Z
+CVE-2026-81102,github:dropbox/mcp-server-dash,<84567b74e3c72e42d5e50ee07c56864613f519c2,2026-09-03T03:35:19.767Z
+CVE-2026-81735,github:bytedance/ui-tars-desktop,<c2ad42e3eb9b27830db41a3e6f51ca7179d9b168,2026-09-03T03:35:19.768Z
+CVE-2026-85666,github:ogx-ai/ogx,<=1.3.1,2026-09-05T05:43:18.731Z
+CVE-2026-86122,github:rowboatlabs/rowboat,<=0.9.1,2026-09-06T05:43:10.615Z
+CVE-2026-90617,github:gh05tcrew/pentestagent,cf882dabea3ed91cef016cdd115e5426315665a2,2026-09-14T06:00:58.955Z
+CVE-2026-91835,github:openclaw/clawscan,"0.1.0, 0.1.1, 0.1.2, 0.1.3, 0.1.4, 0.1.5, 0.1.6",2026-09-16T06:00:06.801Z
+CVE-2026-91836,github:openclaw/clawscan,"0.1.0, 0.1.1, 0.1.2, 0.1.3, 0.1.4, 0.1.5, 0.1.6",2026-09-16T06:00:06.811Z
+CVE-2026-93965,github:aiyiyi121/sxdevops,"1.0, 1.1",2026-09-21T05:59:54.306Z
+GHSA-224w-vfr9-h35c,github:openclaw/openclaw,>=2026.5.1 <2026.7.1,2026-09-26T06:00:31.641Z
+GHSA-22cj-m4wf-fv2c,pypi:praisonai,>=3.8.1 <4.6.59,2026-09-27T12:05:58.555Z
+GHSA-22cv-9jv2-6m62,github:flipped-aurora/gin-vue-admin,= 2.9.1,2026-09-03T03:35:07.927Z
+GHSA-22qr-rp27-j9wm,github:penpot/penpot,<2.15.0,2026-09-03T03:35:13.339Z
+GHSA-22qr-rp27-j9wm,npm:@penpot/mcp,<2.15.0,2026-09-28T13:23:18.982Z
+GHSA-22rg-qv4f-2j3p,pypi:infogram-bot,>=1.0.0 <=1.0.0 || >=1.2.0 <=1.2.0 || >=1.2.1 <=1.2.1 || >=1.3.0 <=1.3.0 || >=1.4.0 <=1.4.0 || >=1.5.0 <=1.5.0 || >=1.6.0 <=1.6.0 || >=1.6.1 <=1.6.1 || >=1.7.0 <=1.7.0 || >=1.8.0 <=1.8.0 || >=1.9.0 <=1.9.0,2026-09-03T03:38:08.595Z
+GHSA-22v4-33m3-8p7m,github:openclaw/openclaw,>=2026.4.10 <2026.7.1,2026-09-26T06:00:31.563Z
+GHSA-232v-j27c-5pp6,github:mcpjam/inspector,<= 1.4.2,2026-09-03T03:35:01.095Z
+GHSA-2364-jh4q-m9vm,npm:flowise,<3.1.3,2026-09-03T03:37:56.664Z
+GHSA-238w-f66p-w349,pypi:hermes-agent,<0.15.0,2026-09-04T05:42:54.213Z
+GHSA-24mc-g4xr-4395,github:cursor/cursor,<1.3,2026-09-03T03:35:01.058Z
+GHSA-24vr-rprv-67rf,github:openclaw/openclaw,<2026.4.29,2026-09-03T03:36:06.304Z
+GHSA-24vr-rprv-67rf,npm:openclaw,<2026.4.29,2026-09-04T05:41:44.987Z
+GHSA-25gx-x37c-7pph,github:openclaw/openclaw,<2026.2.21,2026-09-03T03:35:40.220Z
+GHSA-25gx-x37c-7pph,npm:openclaw,<2026.2.21,2026-09-04T05:41:45.103Z
+GHSA-25pw-4h6w-qwvm,github:openclaw/openclaw,<2026.2.26,2026-09-03T03:35:40.164Z
+GHSA-25pw-4h6w-qwvm,npm:openclaw,<2026.2.26,2026-09-04T05:41:45.203Z
+GHSA-25wv-8phj-8p7r,github:openclaw/openclaw,<2026.4.4,2026-09-03T03:35:52.423Z
+GHSA-25wv-8phj-8p7r,npm:openclaw,<2026.4.4,2026-09-04T05:41:45.306Z
+GHSA-275c-xpvc-jgfw,github:openclaw/openclaw,<2026.4.22,2026-09-03T03:36:06.271Z
+GHSA-275c-xpvc-jgfw,npm:openclaw,<2026.4.22,2026-09-04T05:41:45.406Z
+GHSA-2763-cj5r-c79m,pypi:praisonai,<4.5.121,2026-09-27T12:05:58.674Z
+GHSA-2767-2q9v-9326,github:openclaw/openclaw,<2026.4.12,2026-09-03T03:35:59.085Z
+GHSA-2767-2q9v-9326,npm:openclaw,<2026.4.12,2026-09-04T05:41:45.506Z
+GHSA-27cr-4p5m-74rj,github:openclaw/openclaw,<2026.2.24,2026-09-03T03:35:40.191Z
+GHSA-27cr-4p5m-74rj,npm:openclaw,<2026.2.24,2026-09-04T05:41:45.611Z
+GHSA-27m7-ffhq-jqrm,github:kapilduraphe/mcp-watch,<= 0.1.2,2026-09-03T03:34:54.039Z
+GHSA-2858-xg23-26fp,npm:openclaw,>=2026.2.13 <2026.3.2,2026-09-04T05:41:45.713Z
+GHSA-28f3-pmhh-qxcm,pypi:claudedashbord,>=0.1.0 <=0.1.0 || >=0.1.1 <=0.1.1 || >=0.1.2 <=0.1.2 || >=0.1.3 <=0.1.3,2026-09-27T12:06:55.414Z
+GHSA-28g4-38q8-3cwc,npm:flowise,<3.1.0,2026-09-03T03:37:56.706Z
+GHSA-28g4-38q8-3cwc,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.706Z
+GHSA-2956-977x-2w3r,pypi:flyto-core,<2.26.7,2026-09-27T12:05:53.754Z
+GHSA-29w3-p9w9-wc47,pypi:praisonai,<4.6.61,2026-09-27T12:05:58.787Z
+GHSA-2c7f-fxww-6w6c,github:eat-pray-ai/yutu,<0.10.9-dev1,2026-09-18T06:00:10.050Z
+GHSA-2cf7-hpwf-47h9,github:czlonkowski/n8n-mcp,<2.57.4,2026-09-03T03:35:13.343Z
+GHSA-2cf7-hpwf-47h9,npm:n8n-mcp,<2.57.4,2026-09-04T05:41:39.605Z
+GHSA-2ch6-x3g4-7759,npm:openclaw,<2026.2.23,2026-09-04T05:41:45.815Z
+GHSA-2cq5-mf3v-mx44,github:openclaw/openclaw,>=2026.2.23 <2026.4.12,2026-09-03T03:35:59.092Z
+GHSA-2cq5-mf3v-mx44,npm:openclaw,>=2026.2.23 <2026.4.12,2026-09-04T05:41:45.916Z
+GHSA-2f7j-rp58-mr42,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:35:52.327Z
+GHSA-2f7j-rp58-mr42,npm:openclaw,<2026.4.2,2026-09-04T05:41:46.013Z
+GHSA-2fgq-7j6h-9rm4,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.161Z
+GHSA-2fgq-7j6h-9rm4,npm:openclaw,<2026.2.22,2026-09-04T05:41:46.107Z
+GHSA-2fmp-9rvw-hc96,npm:network-ai,<5.12.2,2026-09-21T05:58:53.387Z
+GHSA-2g3w-cpc4-chr4,pypi:praisonai,<4.5.128,2026-09-27T12:05:58.896Z
+GHSA-2gvc-4f3c-2855,github:openclaw/openclaw,<2026.4.15,2026-09-03T03:35:59.133Z
+GHSA-2h44-8472-frjj,github:zereight/gitlab-mcp,">= 0.0.1, < 2.1.27",2026-09-16T05:59:45.576Z
+GHSA-2h44-8472-frjj,npm:@zereight/mcp-gitlab,>=0.0.1 <2.1.27,2026-09-16T05:58:47.787Z
+GHSA-2hfg-4fh4-qp7f,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:35:59.180Z
+GHSA-2hfg-4fh4-qp7f,npm:openclaw,<2026.5.18,2026-09-04T05:41:46.200Z
+GHSA-2hh7-c75g-qj2r,github:openclaw/openclaw,<2026.4.22,2026-09-03T03:35:59.141Z
+GHSA-2hh7-c75g-qj2r,npm:openclaw,<2026.4.22,2026-09-04T05:41:46.341Z
+GHSA-2hm8-rqrm-xfjq,npm:openclaw,<2026.2.19,2026-09-04T05:41:46.452Z
+GHSA-2j8v-hwgc-x698,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:35:59.194Z
+GHSA-2jch-qc96-9f5g,npm:flowise,<=1.4.3,2026-09-04T05:43:32.205Z
+GHSA-2jgc-f764-c5r2,pypi:praisonai,<4.6.58,2026-09-27T12:05:59.013Z
+GHSA-2jjv-qf24-vfm4,github:anthropics/claude-code,<1.0.39,2026-09-03T03:35:26.358Z
+GHSA-2mc2-g238-722j,npm:openclaw,<2026.2.19,2026-09-04T05:41:46.558Z
+GHSA-2mgq-7rfg-rwpj,github:611711dark/mcp_calculate_server,<0.1.1,2026-09-03T03:35:07.914Z
+GHSA-2pr2-hcv6-7gwv,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:46.508Z
+GHSA-2pr2-hcv6-7gwv,npm:openclaw,<2026.3.28,2026-09-04T05:41:46.647Z
+GHSA-2q4w-x8h2-2fvh,npm:flowise,<=1.8.2,2026-09-04T05:43:32.369Z
+GHSA-2q7j-2vhx-56g8,github:openclaw/openclaw,<2026.6.9,2026-09-03T03:36:06.344Z
+GHSA-2qj5-gwg2-xwc4,github:openclaw/openclaw,<2026.2.15,2026-09-03T03:35:33.776Z
+GHSA-2qj5-gwg2-xwc4,npm:openclaw,<2026.2.15,2026-09-04T05:41:46.757Z
+GHSA-2qqc-p94c-hxwh,npm:flowise,<3.1.0,2026-09-03T03:37:56.731Z
+GHSA-2qrv-rc5x-2g2h,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:35:52.280Z
+GHSA-2qrv-rc5x-2g2h,npm:openclaw,<2026.4.2,2026-09-04T05:41:46.852Z
+GHSA-2r2p-4cgf-hv7h,npm:engramx,<2.0.2,2026-09-27T12:05:58.297Z
+GHSA-2r68-g678-7qr3,pypi:mcp-memory-service,<10.65.3,2026-09-30T06:42:15.823Z
+GHSA-2rcg-mm5h-xchx,pypi:praisonaiagents,<1.6.59,2026-09-28T05:59:29.473Z
+GHSA-2rgf-hm63-5qph,github:openclaw/openclaw,<2026.2.21,2026-09-03T03:35:40.187Z
+GHSA-2rgf-hm63-5qph,npm:openclaw,<2026.2.21,2026-09-04T05:41:46.955Z
+GHSA-2rqg-gjgv-84jm,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:46.476Z
+GHSA-2rqg-gjgv-84jm,npm:openclaw,<2026.3.11,2026-09-04T05:41:47.130Z
+GHSA-2v2f-mvfg-ph56,github:pipeboard-co/meta-ads-mcp,<1.0.115,2026-09-16T05:59:45.536Z
+GHSA-2v2f-mvfg-ph56,pypi:meta-ads-mcp,<1.0.115,2026-09-30T06:42:15.492Z
+GHSA-2v5f-5r6w-p67r,github:modelcontextprotocol/registry,<1.7.9,2026-09-03T03:35:07.912Z
+GHSA-2w79-r9g8-wmcr,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.408Z
+GHSA-2w79-r9g8-wmcr,npm:openclaw,<2026.3.31,2026-09-04T05:41:47.260Z
+GHSA-2ww6-868g-2c56,github:openclaw/openclaw,<2026.2.23,2026-09-03T03:35:40.198Z
+GHSA-2ww6-868g-2c56,npm:openclaw,<2026.2.23,2026-09-04T05:41:47.359Z
+GHSA-2x4x-cc5g-qmmg,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:46.502Z
+GHSA-2x4x-cc5g-qmmg,npm:openclaw,<2026.3.28,2026-09-04T05:41:47.458Z
+GHSA-2x8m-83vc-6wv4,npm:flowise,<3.1.0,2026-09-03T03:37:56.713Z
+GHSA-2x8m-83vc-6wv4,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.713Z
+GHSA-2x93-h3hg-2xfp,github:openclaw/openclaw,>=2026.4.14 <2026.5.26,2026-09-03T03:36:06.400Z
+GHSA-2xcp-x87w-q377,github:openclaw/openclaw,<2026.4.20,2026-09-03T03:35:59.156Z
+GHSA-2xcp-x87w-q377,npm:openclaw,<2026.4.20,2026-09-04T05:41:47.556Z
+GHSA-2xgv-5cv2-47vv,pypi:praisonai,<4.5.128,2026-09-27T12:05:59.118Z
+GHSA-2xhg-73j7-rrgx,github:contentful/contentful-mcp-server,<1.7.19,2026-09-16T05:59:45.477Z
+GHSA-2xj6-xx86-cwwc,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.497Z
+GHSA-3298-56p6-rpw2,github:openclaw/openclaw,<2026.3.24,2026-09-03T03:35:46.579Z
+GHSA-3298-56p6-rpw2,npm:openclaw,<2026.3.24,2026-09-04T05:41:47.669Z
+GHSA-32vr-5gcf-3pw2,pypi:praisonai,<4.5.115,2026-09-27T12:05:59.250Z
+GHSA-33f5-2c5q-wgwj,github:modelcontextprotocol/rust-sdk,<2.0.0,2026-09-17T05:59:58.532Z
+GHSA-33hm-cq8r-wc49,github:openclaw/openclaw,<2026.2.24,2026-09-03T03:35:40.184Z
+GHSA-33hm-cq8r-wc49,npm:openclaw,<2026.2.24,2026-09-04T05:41:47.767Z
+GHSA-33qv-c5qm-799v,pypi:hermes-agent,<0.15.0,2026-09-03T03:38:12.381Z
+GHSA-33rq-m5x2-fvgf,github:openclaw/openclaw,>=2026.1.29 <2026.2.1,2026-09-03T03:35:33.798Z
+GHSA-33rq-m5x2-fvgf,npm:openclaw,>=2026.1.29 <2026.2.1,2026-09-04T05:41:47.867Z
+GHSA-345p-7cg4-v4c7,github:modelcontextprotocol/typescript-sdk,">= 1.10.0, < 1.26.0",2026-09-03T03:34:54.049Z
+GHSA-34mr-7r3m-gfg7,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:36:06.403Z
+GHSA-353c-v8x9-v7c3,github:quantgeekdev/mcp-framework,<0.2.22,2026-09-03T03:34:54.066Z
+GHSA-353c-v8x9-v7c3,npm:mcp-framework,<0.2.22,2026-09-04T05:41:40.886Z
+GHSA-354r-7mfh-7rh2,github:openclaw/openclaw,<2026.2.25,2026-09-03T03:35:40.186Z
+GHSA-354r-7mfh-7rh2,npm:openclaw,<2026.2.25,2026-09-04T05:41:47.985Z
+GHSA-356g-m7rx-7pm3,github:openclaw/openclaw,>=2026.7.1-2 <2026.8.1,2026-09-26T06:00:31.046Z
+GHSA-35g6-rrw3-v6xc,npm:flowise,>=3.0.7 <3.0.8,2026-09-03T03:37:56.756Z
+GHSA-35w5-pcw4-jx94,pypi:praisonaiagents,<1.6.59,2026-09-28T05:59:29.601Z
+GHSA-3643-7v76-5cj2,pypi:praisonai,>=2.4.1 <4.6.34,2026-09-27T12:05:59.359Z
+GHSA-36h3-7c54-j27r,github:openclaw/openclaw,<2026.2.25,2026-09-03T03:35:40.214Z
+GHSA-36h3-7c54-j27r,npm:openclaw,<2026.2.25,2026-09-04T05:41:48.178Z
+GHSA-3769-jgqc-cxm7,npm:flowise,<3.1.3,2026-09-03T03:37:56.654Z
+GHSA-3769-jgqc-cxm7,npm:flowise-components,<3.1.3,2026-09-03T03:37:56.655Z
+GHSA-37gc-85xm-2ww6,github:openclaw/openclaw,<2026.2.15,2026-09-03T03:35:33.783Z
+GHSA-37gc-85xm-2ww6,npm:openclaw,<2026.2.15,2026-09-04T05:41:48.300Z
+GHSA-37h2-6p4f-mp3q,pypi:serena-agent,<1.5.2,2026-09-27T12:05:52.172Z
+GHSA-37v6-fxx8-xjmx,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.345Z
+GHSA-37v6-fxx8-xjmx,npm:openclaw,<2026.3.31,2026-09-04T05:41:48.411Z
+GHSA-392f-ggf5-fp3c,npm:openclaw,<2026.3.1,2026-09-04T05:41:48.526Z
+GHSA-39hf-qg99-f4qv,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.242Z
+GHSA-39j3-6x3x-8rcr,github:heymrun/heym,<0.0.109,2026-09-27T12:07:04.941Z
+GHSA-39mp-545q-w789,github:openclaw/openclaw,<2026.3.24,2026-09-03T03:35:46.551Z
+GHSA-39mp-545q-w789,npm:openclaw,<2026.3.24,2026-09-04T05:41:48.607Z
+GHSA-39pp-xp36-q6mg,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.559Z
+GHSA-39pp-xp36-q6mg,npm:openclaw,<2026.3.22,2026-09-04T05:41:48.807Z
+GHSA-3c4r-6p77-xwr7,pypi:praisonai,<4.5.128,2026-09-27T12:05:59.487Z
+GHSA-3c6h-g97w-fg78,github:openclaw/openclaw,>=2026.2.22-2 <2026.2.23,2026-09-03T03:35:33.789Z
+GHSA-3c6h-g97w-fg78,npm:openclaw,<2026.2.23,2026-09-04T05:41:48.925Z
+GHSA-3c6j-hq33-3jv4,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:35:59.185Z
+GHSA-3c6j-hq33-3jv4,npm:openclaw,<2026.5.18,2026-09-04T05:41:48.998Z
+GHSA-3ch2-jxxc-v4xf,github:akoskm/create-mcp-server-stdio,<0.0.13,2026-09-03T03:35:01.064Z
+GHSA-3cj3-hqcr-g934,github:cline/cline,<3.0.30,2026-09-03T03:35:13.323Z
+GHSA-3cvx-236h-m9fj,github:openclaw/openclaw,<2026.2.21,2026-09-03T03:35:40.192Z
+GHSA-3cvx-236h-m9fj,npm:openclaw,<2026.2.21,2026-09-04T05:41:49.127Z
+GHSA-3cw3-5vxw-g2h3,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.332Z
+GHSA-3cw3-5vxw-g2h3,npm:openclaw,<2026.3.28,2026-09-04T05:41:49.228Z
+GHSA-3fp5-v549-9v66,github:openclaw/openclaw,<2026.6.9,2026-09-03T03:36:06.349Z
+GHSA-3fqr-4cg8-h96q,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.761Z
+GHSA-3fqr-4cg8-h96q,npm:clawdbot,<=2026.1.24-3,2026-09-04T05:41:49.358Z
+GHSA-3fqr-4cg8-h96q,npm:openclaw,<2026.2.14,2026-09-04T05:41:49.354Z
+GHSA-3fv3-6p2v-gxwj,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:52.425Z
+GHSA-3fv3-6p2v-gxwj,npm:openclaw,<2026.4.8,2026-09-04T05:41:49.457Z
+GHSA-3g4j-r53p-22wx,npm:flowise,>=3.0.5 <3.0.6,2026-09-03T03:37:56.750Z
+GHSA-3gcm-f6qx-ff7p,github:flowiseai/flowise,= 3.0.5,2026-09-03T03:35:01.072Z
+GHSA-3gcm-f6qx-ff7p,npm:flowise,>=3.0.5 <3.0.6,2026-09-03T03:37:56.766Z
+GHSA-3h2q-j2v4-6w5r,npm:openclaw,<2026.3.7,2026-09-04T05:41:49.568Z
+GHSA-3h52-cx59-c456,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.543Z
+GHSA-3h52-cx59-c456,npm:openclaw,<2026.3.28,2026-09-04T05:41:49.665Z
+GHSA-3hcm-ggvf-rch5,github:openclaw/openclaw,<2026.2.2,2026-09-03T03:35:33.813Z
+GHSA-3hcm-ggvf-rch5,npm:openclaw,<2026.2.2,2026-09-04T05:41:49.816Z
+GHSA-3hjv-c53m-58jj,npm:flowise,<3.1.0,2026-09-03T03:37:56.696Z
+GHSA-3hjv-c53m-58jj,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.697Z
+GHSA-3jx4-q2m7-r496,npm:openclaw,<2026.2.25,2026-09-04T05:41:49.925Z
+GHSA-3m3q-x3gj-f79x,npm:@clawdbot/voice-call,<=2026.1.24,2026-09-05T05:41:20.648Z
+GHSA-3m3q-x3gj-f79x,npm:@openclaw/voice-call,<2026.2.3,2026-09-05T05:41:20.642Z
+GHSA-3mq7-q27j-mq7q,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:30.877Z
+GHSA-3p2m-h2v6-g9mx,github:mobile-next/mobile-mcp,<0.0.49,2026-09-03T03:35:01.110Z
+GHSA-3p2m-h2v6-g9mx,npm:@mobilenext/mobile-mcp,<0.0.49,2026-09-30T06:44:55.788Z
+GHSA-3pm9-5j7m-59vc,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.394Z
+GHSA-3pm9-5j7m-59vc,npm:openclaw,<2026.3.31,2026-09-04T05:41:50.030Z
+GHSA-3pmr-x9g8-m55r,github:openclaw/openclaw,>=2026.6.6 <2026.6.9,2026-09-03T03:36:06.352Z
+GHSA-3prp-9gf7-4rxx,npm:flowise,<3.1.0,2026-09-03T03:37:56.703Z
+GHSA-3pvh-63gf-j9mw,github:langbot-app/langbot,<= 4.10.7,2026-09-03T03:35:13.379Z
+GHSA-3pvj-jv98-qhjq,npm:chrome-devtools-mcp,>=0.20.0 <1.1.0,2026-09-27T12:06:21.205Z
+GHSA-3pxq-f3cp-jmxp,github:openclaw/openclaw,<2026.3.2,2026-09-03T03:35:33.844Z
+GHSA-3pxq-f3cp-jmxp,npm:openclaw,<2026.3.2,2026-09-04T05:41:50.126Z
+GHSA-3q26-f695-pp76,github:cyanheads/git-mcp-server,<2.1.5,2026-09-03T03:35:01.052Z
+GHSA-3q26-f695-pp76,npm:@cyanheads/git-mcp-server,<2.1.5,2026-09-03T03:22:31.943Z
+GHSA-3q42-xmxv-9vfr,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.383Z
+GHSA-3q42-xmxv-9vfr,npm:openclaw,<2026.3.28,2026-09-04T05:41:50.247Z
+GHSA-3q6h-q26c-838m,pypi:xayoub-xctxteam,>=0.1.0 <=0.1.0,2026-09-03T03:38:08.633Z
+GHSA-3qhf-m339-9g5v,github:modelcontextprotocol/python-sdk,<1.9.4,2026-09-03T03:34:54.030Z
+GHSA-3qpv-xf3v-mm45,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.322Z
+GHSA-3qpv-xf3v-mm45,npm:openclaw,<2026.3.31,2026-09-04T05:41:50.359Z
+GHSA-3r68-hf9h-887v,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.265Z
+GHSA-3r68-x3xc-rxpg,github:bx33661/wireshark-mcp,<= 1.1.5,2026-09-03T03:35:07.907Z
+GHSA-3r68-x3xc-rxpg,pypi:wireshark-mcp,<=1.1.5,2026-09-27T12:05:56.613Z
+GHSA-3rwf-2g6p-c2f9,github:anthropics/claude-code,">= 1.2581.0, < 1.4304.0",2026-09-03T03:35:26.385Z
+GHSA-3vvq-q2qc-7rmp,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:59.060Z
+GHSA-3vvq-q2qc-7rmp,npm:openclaw,<2026.4.8,2026-09-04T05:41:51.456Z
+GHSA-3w6x-gv34-mqpf,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.532Z
+GHSA-3w6x-gv34-mqpf,npm:openclaw,<2026.3.22,2026-09-04T05:41:51.539Z
+GHSA-3wmg-66hp-xhv9,npm:autotel-mcp,"0.1.14, 10.0.1, 11.0.1, 13.0.1, 14.0.1, 15.0.2, 16.0.1, 17.0.2, 18.0.1, 19.0.1, 2.0.1, 20.0.1, 21.1.1, 22.0.1, 23.0.1, 24.0.1, 25.0.1, 26.0.2, 27.0.1, 28.0.3, 29.0.1, 3.0.1, 4.0.1, 5.0.1, 6.0.1, 7.0.1, 8.0.1, 9.0.1",2026-09-16T05:58:50.295Z
+GHSA-3wqp-prf6-2m72,github:openclaw/openclaw,<2026.5.6,2026-09-03T03:36:06.284Z
+GHSA-3wqp-prf6-2m72,npm:openclaw,<2026.5.6,2026-09-04T05:41:51.788Z
+GHSA-3x3x-h76w-hp98,github:openclaw/openclaw,<2026.2.19,2026-09-03T03:35:40.174Z
+GHSA-3x3x-h76w-hp98,npm:openclaw,<2026.2.19,2026-09-04T05:41:51.880Z
+GHSA-3x77-wg38-92r3,github:sonirico/mcp-shell,<0.6.0,2026-09-03T03:35:13.384Z
+GHSA-3x84-qq85-fj65,github:openclaw/openclaw,<2026.6.6,2026-09-03T03:36:06.359Z
+GHSA-3xfw-4pmr-4xc5,github:openclaw/openclaw,<2026.2.21,2026-09-03T03:35:40.179Z
+GHSA-3xfw-4pmr-4xc5,npm:openclaw,<2026.2.21,2026-09-04T05:41:51.978Z
+GHSA-3xm7-qw7j-qc8v,github:ondata/ckan-mcp-server,<0.4.106,2026-09-03T03:35:01.106Z
+GHSA-3xm7-qw7j-qc8v,npm:@aborruso/ckan-mcp-server,<0.4.85,2026-09-12T06:10:56.325Z
+GHSA-3xv9-89fm-7h4r,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.411Z
+GHSA-3xv9-89fm-7h4r,npm:openclaw,<2026.3.31,2026-09-04T05:41:52.088Z
+GHSA-42mx-vp8m-j7qh,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.351Z
+GHSA-42mx-vp8m-j7qh,npm:openclaw,<2026.3.28,2026-09-04T05:41:52.211Z
+GHSA-43m4-p3rv-c4v8,github:lstm-kirigaya/openmcp-client,<0.1.12,2026-09-03T03:35:01.063Z
+GHSA-43x4-g22p-3hrq,github:openclaw/openclaw,<2026.2.21,2026-09-03T03:35:40.206Z
+GHSA-43x4-g22p-3hrq,npm:openclaw,<2026.2.21,2026-09-04T05:41:52.311Z
+GHSA-44c2-3rw4-5gvh,pypi:praisonaiagents,<1.5.95,2026-09-28T05:59:29.771Z
+GHSA-454m-4vm6-842f,github:samanhappy/mcphub,<1.0.31,2026-09-03T03:35:19.775Z
+GHSA-4564-pvr2-qq4h,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.786Z
+GHSA-4564-pvr2-qq4h,npm:openclaw,<2026.2.14,2026-09-04T05:41:52.434Z
+GHSA-4575-fh42-7848,github:cursor/cursor,<2.0,2026-09-03T03:35:01.082Z
+GHSA-4596-2p6p-28cv,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.564Z
+GHSA-45cg-2683-gfmq,github:openclaw/openclaw,<2026.2.21,2026-09-03T03:35:40.166Z
+GHSA-45cg-2683-gfmq,npm:openclaw,<2026.2.21,2026-09-04T05:41:52.518Z
+GHSA-45gf-fjxp-cjpq,github:pipeboard-co/meta-ads-mcp,<1.0.115,2026-09-16T05:59:45.546Z
+GHSA-45gf-fjxp-cjpq,pypi:meta-ads-mcp,<1.0.115,2026-09-30T06:42:15.596Z
+GHSA-45qj-4xq3-3c45,github:zcaceres/markdownify-mcp,<0.0.2,2026-09-03T03:34:54.037Z
+GHSA-4685-c5cp-vp95,github:openclaw/openclaw,<2026.2.19,2026-09-03T03:35:40.153Z
+GHSA-4685-c5cp-vp95,npm:openclaw,<2026.2.19,2026-09-04T05:41:52.626Z
+GHSA-469r-xxvx-62x3,npm:@yongot/canary-mcp-test,>=3.0.0 <=3.0.0 || >=2.0.0 <=2.0.0 || >=4.0.0 <=4.0.0,2026-09-09T05:43:42.825Z
+GHSA-46gc-mwh4-cc5r,github:docker/mcp-gateway,<0.28.0,2026-09-03T03:35:01.086Z
+GHSA-46jp-xr2h-fw7h,github:team-telnyx/telnyx-node,<=6.83.0,2026-09-03T03:35:19.765Z
+GHSA-474h-prjg-mmw3,npm:openclaw,<2026.3.2,2026-09-04T05:41:52.749Z
+GHSA-47q7-97xp-m272,github:openclaw/openclaw,<2026.2.13,2026-09-03T03:35:33.817Z
+GHSA-47q7-97xp-m272,npm:openclaw,<2026.2.13,2026-09-04T05:41:52.853Z
+GHSA-4869-x4pr-q22x,pypi:praisonai,<4.6.59,2026-09-27T12:05:59.653Z
+GHSA-4869-x4pr-q22x,pypi:praisonaiagents,<1.6.59,2026-09-27T12:05:59.678Z
+GHSA-489g-7rxv-6c8q,github:sooperset/mcp-atlassian,">= 0.17.0, < 0.22.0",2026-09-15T06:01:19.065Z
+GHSA-48gp-hx8w-wjvm,github:openclaw/clawhub,<8c2de6c506bb4efabe3f0c2ffb8370b9e23d4650,2026-09-27T12:07:17.883Z
+GHSA-48m6-ch88-55mj,npm:flowise,<3.1.0,2026-09-03T03:37:56.721Z
+GHSA-48vw-m3qc-wr99,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.540Z
+GHSA-48vw-m3qc-wr99,npm:openclaw,<2026.3.22,2026-09-04T05:41:52.927Z
+GHSA-48wf-g7cp-gr3m,github:openclaw/openclaw,<2026.2.23,2026-09-03T03:35:40.148Z
+GHSA-48wf-g7cp-gr3m,npm:openclaw,<2026.2.23,2026-09-04T05:41:53.041Z
+GHSA-48x2-6pr9-2jjf,npm:network-ai,<5.12.2,2026-09-21T05:58:53.493Z
+GHSA-48x4-mx8f-gr4h,npm:flowise,<=1.8.2,2026-09-04T05:43:33.123Z
+GHSA-49cg-279w-m73x,github:openclaw/openclaw,<2026.4.12,2026-09-03T03:35:59.114Z
+GHSA-49cg-279w-m73x,npm:openclaw,<2026.4.12,2026-09-04T05:41:53.171Z
+GHSA-49m4-vp58-wgc9,github:sepinetam/mcp-for-stata,<1.19.0,2026-09-22T05:59:06.263Z
+GHSA-49m4-vp58-wgc9,pypi:stata-mcp,<1.19.0,2026-09-27T12:05:57.843Z
+GHSA-49m9-pgww-9vq6,github:n8n-io/n8n,<1.123.32,2026-09-03T03:35:07.895Z
+GHSA-49mq-fc6q-3h46,github:ooples/token-optimizer-mcp,<5.1.0,2026-09-29T06:04:47.807Z
+GHSA-49mq-fc6q-3h46,npm:@ooples/token-optimizer-mcp,<5.1.0,2026-09-06T05:41:11.351Z
+GHSA-49xv-9743-pw8w,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.360Z
+GHSA-4c7q-g7xf-5628,github:openclaw/clawhub,<8c2de6c506bb4efabe3f0c2ffb8370b9e23d4650,2026-09-27T12:07:17.871Z
+GHSA-4cqv-h74h-93j4,npm:openclaw,<2026.2.22,2026-09-04T05:41:53.317Z
+GHSA-4f8g-77mw-3rxc,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:59.062Z
+GHSA-4f8g-77mw-3rxc,npm:openclaw,<2026.4.8,2026-09-04T05:41:53.422Z
+GHSA-4fgq-fpq9-mr3g,github:anthropics/claude-code,<1.0.111,2026-09-03T03:35:26.361Z
+GHSA-4fr9-3x69-36wv,npm:flowise,<3.0.8,2026-09-03T03:37:56.763Z
+GHSA-4g58-43jr-6738,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.363Z
+GHSA-4g5x-2jfc-xm98,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.417Z
+GHSA-4g5x-2jfc-xm98,npm:openclaw,<2026.3.31,2026-09-04T05:41:53.531Z
+GHSA-4gc7-qcvf-38wg,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.168Z
+GHSA-4gc7-qcvf-38wg,npm:openclaw,<2026.2.22,2026-09-04T05:41:53.671Z
+GHSA-4gc8-885f-qj36,github:samanhappy/mcphub,<1.0.29,2026-09-03T03:35:19.773Z
+GHSA-4ggg-h7ph-26qr,github:czlonkowski/n8n-mcp,<2.47.4,2026-09-03T03:34:54.062Z
+GHSA-4ggg-h7ph-26qr,npm:n8n-mcp,<2.47.4,2026-09-04T05:41:39.718Z
+GHSA-4hf8-5mjm-rfgq,github:dtwang/line-desktop-mcp,<1.1.2,2026-09-03T03:35:07.927Z
+GHSA-4hg8-92x6-h2f3,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.762Z
+GHSA-4hg8-92x6-h2f3,npm:openclaw,<2026.2.14,2026-09-04T05:41:53.761Z
+GHSA-4hmj-39m8-jwc7,github:openclaw/openclaw,>=2026.2.13 <=2026.3.24,2026-09-03T03:35:46.560Z
+GHSA-4hmj-39m8-jwc7,npm:openclaw,>=2026.2.13 <2026.3.28,2026-09-04T05:41:53.866Z
+GHSA-4hpg-mp64-x7xq,github:openclaw/openclaw,<2026.4.25,2026-09-03T03:36:06.318Z
+GHSA-4hpg-mp64-x7xq,npm:openclaw,<2026.4.25,2026-09-04T05:41:53.954Z
+GHSA-4hwr-97q3-37w2,github:cursor/cursor,<2025.09.17-25b418f,2026-09-03T03:35:01.082Z
+GHSA-4hwv-rj92-h7rp,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.596Z
+GHSA-4j8x-x6v7-w9rq,npm:flowise,<3.1.3,2026-09-03T03:37:56.632Z
+GHSA-4j8x-x6v7-w9rq,npm:flowise-components,<3.1.3,2026-09-03T03:37:56.632Z
+GHSA-4jpm-cgx2-8h37,npm:flowise,<3.1.0,2026-09-03T03:37:56.719Z
+GHSA-4jpw-hj22-2xmc,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:40.237Z
+GHSA-4jpw-hj22-2xmc,npm:openclaw,<2026.3.11,2026-09-04T05:41:54.082Z
+GHSA-4m3v-q747-pc6h,github:openclaw/openclaw,<2026.4.24,2026-09-03T03:35:59.197Z
+GHSA-4m3v-q747-pc6h,npm:openclaw,<2026.4.24,2026-09-04T05:41:54.182Z
+GHSA-4mr5-g6f9-cfrh,pypi:praisonai,<4.6.40,2026-09-27T12:05:59.819Z
+GHSA-4mr5-g6f9-cfrh,pypi:praisonaiagents,<1.6.40,2026-09-27T12:05:59.817Z
+GHSA-4p4f-fc8q-84m3,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:35:52.406Z
+GHSA-4p4f-fc8q-84m3,npm:openclaw,<2026.4.2,2026-09-04T05:41:54.317Z
+GHSA-4p62-hqp5-g644,pypi:stata-mcp,<1.17.3,2026-09-27T12:05:57.943Z
+GHSA-4pcc-j6m6-wcwx,github:danny-avila/librechat,<0.8.4-rc1,2026-09-03T03:34:54.071Z
+GHSA-4pcv-mg8v-vrgf,pypi:praisonaiagents,<1.6.61,2026-09-28T05:59:30.035Z
+GHSA-4ph2-f6pf-79wv,pypi:praisonai,<4.5.113,2026-09-27T12:05:59.932Z
+GHSA-4pqj-3c56-5fqq,github:openclaw/openclaw,<2026.5.28,2026-09-03T03:36:06.340Z
+GHSA-4pqm-j46f-795x,pypi:hermes-agent,<0.16.0,2026-09-04T05:42:54.470Z
+GHSA-4q92-rfm6-2cqx,github:anthropics/claude-code,<2.1.7,2026-09-03T03:35:26.374Z
+GHSA-4qwc-c7g9-4xcw,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.534Z
+GHSA-4qwc-c7g9-4xcw,npm:openclaw,<2026.3.22,2026-09-04T05:41:54.428Z
+GHSA-4r25-35qc-fr6j,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.169Z
+GHSA-4rj2-gpmh-qq5x,github:openclaw/openclaw,<2026.2.1,2026-09-03T03:35:33.796Z
+GHSA-4rj2-gpmh-qq5x,npm:openclaw,<2026.2.2,2026-09-04T05:41:54.578Z
+GHSA-4rqq-w8v4-7p47,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.176Z
+GHSA-4rqq-w8v4-7p47,npm:openclaw,<2026.2.22,2026-09-04T05:41:54.686Z
+GHSA-4rx4-4r3x-6534,pypi:praisonai,<4.5.113,2026-09-27T12:06:00.055Z
+GHSA-4vp2-6q8c-pvq2,github:anthropics/claude-code,">= 2.1.59, < 2.1.128",2026-09-03T03:35:26.390Z
+GHSA-4vrv-93c7-m92j,npm:snyk,<1.1064.0,2026-09-03T03:31:21.093Z
+GHSA-4w7m-58cg-cmff,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:40.234Z
+GHSA-4w7m-58cg-cmff,npm:openclaw,<2026.3.11,2026-09-04T05:41:54.765Z
+GHSA-4wr3-f4p3-5wjh,pypi:praisonai,<4.5.128,2026-09-27T12:06:00.174Z
+GHSA-4wvr-f35r-f8w4,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.399Z
+GHSA-4x6g-3cmx-w76r,npm:snyk,<1.1064.0,2026-09-03T03:31:21.095Z
+GHSA-4xqg-gf5c-ghwq,github:flux159/mcp-server-kubernetes,<3.5.0,2026-09-03T03:34:54.065Z
+GHSA-4xqg-gf5c-ghwq,npm:mcp-server-kubernetes,<3.5.0,2026-09-04T05:41:42.269Z
+GHSA-4xwj-mcc7-x7x5,github:openclaw/openclaw,<2026.6.1,2026-09-03T03:36:06.375Z
+GHSA-525j-hqq2-66r4,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.124Z
+GHSA-525j-hqq2-66r4,npm:openclaw,<2026.4.10,2026-09-04T05:41:54.888Z
+GHSA-527m-976r-jf79,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.112Z
+GHSA-527m-976r-jf79,npm:openclaw,<2026.4.10,2026-09-04T05:41:54.996Z
+GHSA-52fh-8v99-63c2,npm:flowise,<3.1.3,2026-09-03T03:37:56.638Z
+GHSA-52fh-8v99-63c2,npm:flowise-components,<3.1.3,2026-09-03T03:37:56.639Z
+GHSA-52jp-gj8w-j6xh,github:modelcontextprotocol/ruby-sdk,<0.23.0,2026-09-03T03:34:54.084Z
+GHSA-52q4-3xjc-6778,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.519Z
+GHSA-52q4-3xjc-6778,npm:openclaw,<2026.3.28,2026-09-04T05:41:55.088Z
+GHSA-52xj-c9p8-78cv,github:openclaw/openclaw,>=2026.5.20 <2026.6.6,2026-09-03T03:36:06.356Z
+GHSA-534w-2vm4-89xr,npm:openclaw,<2026.2.24,2026-09-04T05:41:55.367Z
+GHSA-536q-mj95-h29h,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.122Z
+GHSA-536q-mj95-h29h,npm:openclaw,<2026.4.10,2026-09-04T05:41:55.465Z
+GHSA-53vx-pmqw-863c,github:openclaw/openclaw,<2026.4.14,2026-09-03T03:35:59.087Z
+GHSA-53vx-pmqw-863c,npm:openclaw,<2026.4.14,2026-09-04T05:41:55.573Z
+GHSA-54j7-grvr-9xwg,github:srmorete/adb-mcp,<= 0.1.0,2026-09-03T03:35:01.073Z
+GHSA-552p-8f74-6x7q,github:marcelroozekrans/roslyn-codelens-mcp,">= 0.0.9, < 1.17.0",2026-09-03T03:35:07.918Z
+GHSA-553v-f69r-656j,github:openclaw/openclaw,>=2026.2.22 <2026.2.25,2026-09-03T03:35:40.202Z
+GHSA-553v-f69r-656j,npm:openclaw,>=2026.2.22 <2026.2.25,2026-09-04T05:41:55.649Z
+GHSA-55cf-xx38-4p9p,github:openclaw/openclaw,<2026.4.22,2026-09-03T03:35:59.157Z
+GHSA-55cf-xx38-4p9p,npm:openclaw,<2026.4.22,2026-09-04T05:41:55.748Z
+GHSA-5648-rgj9-v224,npm:@zereight/mcp-gitlab,<2.1.30,2026-09-16T05:58:47.880Z
+GHSA-56c3-vfp2-5qqj,github:czlonkowski/n8n-mcp,">= 2.47.4, < 2.47.14",2026-09-03T03:35:07.897Z
+GHSA-56c3-vfp2-5qqj,npm:n8n-mcp,>=2.47.4 <2.47.14,2026-09-04T05:41:39.826Z
+GHSA-56f2-hvwg-5743,npm:openclaw,<2026.2.2,2026-09-04T05:41:55.936Z
+GHSA-56pc-6hvp-4gv4,github:openclaw/openclaw,<2026.2.17,2026-09-03T03:35:33.831Z
+GHSA-56pc-6hvp-4gv4,npm:openclaw,<2026.2.17,2026-09-04T05:41:56.033Z
+GHSA-57gh-m6rq-54cf,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.366Z
+GHSA-57gh-m6rq-54cf,npm:openclaw,<2026.3.31,2026-09-04T05:41:56.134Z
+GHSA-57r2-h2wj-g887,github:openclaw/openclaw,<2026.4.20,2026-09-03T03:35:59.153Z
+GHSA-57r2-h2wj-g887,npm:openclaw,<2026.4.20,2026-09-04T05:41:56.223Z
+GHSA-5847-rm3g-23mw,npm:openclaw,<2026.2.22,2026-09-04T05:41:56.347Z
+GHSA-58q2-7r52-jq62,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.371Z
+GHSA-58q2-7r52-jq62,npm:openclaw,<2026.3.31,2026-09-04T05:41:56.417Z
+GHSA-59fh-9f3p-7m39,npm:flowise,<3.1.2,2026-09-03T03:37:56.667Z
+GHSA-59r2-82p8-c56v,github:blinkospace/blinko,<1.8.4,2026-09-03T03:35:01.106Z
+GHSA-5c6w-wwfq-7qqm,pypi:praisonai,<4.6.40,2026-09-27T12:06:00.290Z
+GHSA-5c6w-wwfq-7qqm,pypi:praisonaiagents,<1.6.40,2026-09-27T12:06:00.289Z
+GHSA-5cgr-j3jf-jw3v,github:modelcontextprotocol/servers,<2025.9.25,2026-09-03T03:34:54.043Z
+GHSA-5cgr-j3jf-jw3v,pypi:mcp-server-git,<2025.9.25,2026-09-03T03:48:19.176Z
+GHSA-5cj2-3jr2-5h77,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:36:06.320Z
+GHSA-5cj2-3jr2-5h77,npm:openclaw,<2026.4.2,2026-09-04T05:41:56.561Z
+GHSA-5cph-wvm9-45gj,npm:flowise,<2.1.4,2026-09-04T05:43:33.573Z
+GHSA-5cwg-9f6j-9jvx,github:anthropics/claude-code,<2.1.75,2026-09-03T03:35:26.381Z
+GHSA-5cxw-77wg-jrf3,pypi:praisonai,<4.6.40,2026-09-27T12:06:00.404Z
+GHSA-5cxw-77wg-jrf3,pypi:praisonaiagents,<1.6.40,2026-09-27T12:06:00.403Z
+GHSA-5f53-522j-j454,npm:flowise,<3.0.13,2026-09-03T03:37:56.737Z
+GHSA-5f9p-f3w2-fwch,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.150Z
+GHSA-5f9p-f3w2-fwch,npm:openclaw,<2026.2.22,2026-09-04T05:41:56.658Z
+GHSA-5fc7-f62m-8983,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:52.421Z
+GHSA-5fc7-f62m-8983,npm:openclaw,<2026.4.8,2026-09-04T05:41:56.807Z
+GHSA-5fw2-mwhh-9947,npm:flowise,<3.1.0,2026-09-03T03:37:56.700Z
+GHSA-5fwv-rrvp-8xvr,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.024Z
+GHSA-5ghc-98wh-gwwf,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.177Z
+GHSA-5ghc-98wh-gwwf,npm:openclaw,<2026.2.22,2026-09-04T05:41:56.905Z
+GHSA-5gj7-jf77-q2q2,github:openclaw/openclaw,<2026.2.24,2026-09-03T03:35:40.167Z
+GHSA-5gj7-jf77-q2q2,npm:openclaw,<2026.2.24,2026-09-04T05:41:57.011Z
+GHSA-5gjc-grvm-m88j,github:openclaw/openclaw,>=2026.4.5 <2026.4.10,2026-09-03T03:35:59.104Z
+GHSA-5gjc-grvm-m88j,npm:openclaw,>=2026.4.5 <2026.4.10,2026-09-04T05:41:57.131Z
+GHSA-5h2c-8v84-qpvr,npm:openclaw,<2026.2.22,2026-09-04T05:41:57.250Z
+GHSA-5h2w-qmfp-ggp6,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.335Z
+GHSA-5h2w-qmfp-ggp6,npm:openclaw,<2026.3.28,2026-09-04T05:41:57.369Z
+GHSA-5h3f-885m-v22w,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:52.430Z
+GHSA-5h3f-885m-v22w,npm:openclaw,<2026.4.8,2026-09-04T05:41:57.466Z
+GHSA-5h3g-6xhh-rg6p,github:openclaw/openclaw,<2026.4.22,2026-09-03T03:35:59.137Z
+GHSA-5h3g-6xhh-rg6p,npm:openclaw,<2026.4.22,2026-09-04T05:41:57.575Z
+GHSA-5h9v-837x-m97r,npm:flowise,<3.1.2,2026-09-03T03:37:56.674Z
+GHSA-5hff-46vh-rxmw,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:35:52.290Z
+GHSA-5hff-46vh-rxmw,npm:openclaw,<2026.4.2,2026-09-04T05:41:57.675Z
+GHSA-5hhx-v7f6-x7gv,github:anthropics/claude-code,<1.0.39,2026-09-03T03:35:26.364Z
+GHSA-5hpf-p8fw-j349,github:nanbingxyz/5ire,<= 0.15.2,2026-09-03T03:34:54.046Z
+GHSA-5j27-v2pw-cj9m,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.525Z
+GHSA-5j57-84cx-r295,github:openclaw/openclaw,<2026.8.11,2026-09-23T05:47:55.945Z
+GHSA-5jj4-m8c9-gwcq,github:openclaw/clawhub,<8c2de6c506bb4efabe3f0c2ffb8370b9e23d4650,2026-09-27T12:07:17.906Z
+GHSA-5jvj-hxmh-6h6j,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.567Z
+GHSA-5jvj-hxmh-6h6j,npm:openclaw,<2026.3.25,2026-09-04T05:41:57.765Z
+GHSA-5m4g-88rg-69pj,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.331Z
+GHSA-5m9r-p9g7-679c,github:openclaw/openclaw,<2026.3.12,2026-09-03T03:35:46.498Z
+GHSA-5m9r-p9g7-679c,npm:openclaw,<2026.3.12,2026-09-04T05:41:57.876Z
+GHSA-5mrc-77hj-xjxv,github:openclaw/openclaw,>=2026.3.28 <2026.8.1,2026-09-26T06:00:31.297Z
+GHSA-5mx2-2mgw-x8rm,github:openclaw/openclaw,<2026.2.21,2026-09-03T03:35:40.224Z
+GHSA-5mx2-2mgw-x8rm,npm:openclaw,<2026.2.21,2026-09-04T05:41:57.968Z
+GHSA-5p5x-5294-qhp3,github:anthropics/claude-code,<1.3834.0,2026-09-03T03:35:26.386Z
+GHSA-5p6w-wmh3-frfr,github:openclaw/openclaw,>=2026.2.25 <2026.5.26,2026-09-03T03:36:06.390Z
+GHSA-5p9g-j988-pcwv,github:modelcontextprotocol/ruby-sdk,<0.23.0,2026-09-03T03:34:54.084Z
+GHSA-5q2p-3jg8-2m98,npm:@samanhappy/mcphub,<=0.9.10,2026-09-12T06:10:57.190Z
+GHSA-5qhv-x9j4-c3vm,github:mobile-next/mobile-mcp,<0.0.50,2026-09-03T03:35:07.876Z
+GHSA-5qhv-x9j4-c3vm,npm:@mobilenext/mobile-mcp,<0.0.50,2026-09-30T06:44:55.783Z
+GHSA-5qw8-f2g9-ff29,pypi:praisonai,>=4.5.112 <4.6.59,2026-09-27T12:06:00.508Z
+GHSA-5r34-2g38-6569,pypi:praisonaiagents,<1.6.58,2026-09-28T05:59:30.372Z
+GHSA-5r8f-96gm-5j6g,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.372Z
+GHSA-5r8f-96gm-5j6g,npm:openclaw,<2026.3.28,2026-09-04T05:41:58.077Z
+GHSA-5rx7-34fw-64qg,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:30.888Z
+GHSA-5v6x-rfc3-7qfr,github:openclaw/openclaw,<2026.2.21,2026-09-03T03:35:33.836Z
+GHSA-5v6x-rfc3-7qfr,npm:openclaw,<2026.2.21,2026-09-04T05:41:58.188Z
+GHSA-5w57-2ccq-8w95,github:alfonsograziano/node-code-sandbox-mcp,<1.3.0,2026-09-03T03:34:54.031Z
+GHSA-5w57-2ccq-8w95,npm:node-code-sandbox-mcp,<1.3.0,2026-09-20T08:35:52.288Z
+GHSA-5wcw-8jjv-m286,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:33.835Z
+GHSA-5wcw-8jjv-m286,npm:openclaw,<2026.3.11,2026-09-04T05:41:58.292Z
+GHSA-5wf4-jqxh-8gm3,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.371Z
+GHSA-5wj5-87vq-39xm,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:59.069Z
+GHSA-5wj5-87vq-39xm,npm:openclaw,<2026.4.8,2026-09-04T05:41:58.360Z
+GHSA-5wxp-qjgq-fx6m,npm:flowise,<3.1.2,2026-09-03T03:37:56.688Z
+GHSA-5x6q-wg56-rxg8,github:openclaw/openclaw,>=2026.7.2 <2026.9.2,2026-09-26T06:00:31.035Z
+GHSA-5xfq-5mr7-426q,github:openclaw/openclaw,<2026.2.12,2026-09-03T03:35:33.823Z
+GHSA-5xfq-5mr7-426q,npm:openclaw,<2026.2.12,2026-09-04T05:41:58.522Z
+GHSA-5xvg-pmgg-3mxr,npm:flowise,<3.1.3,2026-09-03T03:37:56.611Z
+GHSA-5xvg-pmgg-3mxr,npm:flowise-components,<3.1.3,2026-09-03T03:37:56.612Z
+GHSA-5xx3-j724-wmx5,npm:@wonderwhy-er/desktop-commander,<=0.2.37,2026-09-03T03:32:18.154Z
+GHSA-62f6-mrcj-v8h5,github:openclaw/openclaw,<2026.2.21,2026-09-03T03:35:40.131Z
+GHSA-62f6-mrcj-v8h5,npm:openclaw,<2026.2.21,2026-09-04T05:41:58.621Z
+GHSA-62qm-6fjj-6g23,github:openclaw/openclaw,>=2026.4.5 <2026.8.1,2026-09-26T06:00:30.912Z
+GHSA-6336-qqw9-v6x6,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.330Z
+GHSA-6336-qqw9-v6x6,npm:openclaw,<2026.3.31,2026-09-04T05:41:58.728Z
+GHSA-63f5-hhc7-cx6p,github:openclaw/openclaw,<2026.3.13,2026-09-03T03:35:46.473Z
+GHSA-63f5-hhc7-cx6p,npm:openclaw,<2026.3.13,2026-09-04T05:41:58.823Z
+GHSA-63gr-g7jc-v8rg,npm:@agenticmail/mcp,<0.9.27,2026-09-27T12:05:57.352Z
+GHSA-63mg-xp9j-jfcm,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:46.503Z
+GHSA-63mg-xp9j-jfcm,npm:openclaw,<2026.3.28,2026-09-04T05:41:58.944Z
+GHSA-63v4-w882-g4x2,pypi:praisonai,>=4.5.2 <4.6.59,2026-09-27T12:06:00.688Z
+GHSA-647h-p824-99w7,npm:@grackle-ai/mcp,<0.70.2,2026-09-16T05:58:50.772Z
+GHSA-64qx-vpxx-mvqf,github:openclaw/openclaw,<2026.2.12,2026-09-03T03:35:33.806Z
+GHSA-64qx-vpxx-mvqf,npm:openclaw,<2026.2.12,2026-09-04T05:41:59.080Z
+GHSA-6529-c226-h328,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.348Z
+GHSA-659f-22xc-98f2,npm:openclaw,<2026.2.22,2026-09-04T05:41:59.194Z
+GHSA-65h7-9wrw-629c,github:agentfront/frontmcp,<1.5.0,2026-09-16T05:59:45.515Z
+GHSA-65h7-9wrw-629c,github:agentfront/mcp-from-openapi,<2.5.0,2026-09-16T05:59:45.516Z
+GHSA-65h7-9wrw-629c,npm:@frontmcp/adapters,>=1.2.1 <1.5.0,2026-09-12T06:10:54.523Z
+GHSA-65h7-9wrw-629c,npm:frontmcp,>=1.2.1 <1.5.0,2026-09-12T06:10:54.526Z
+GHSA-65h7-9wrw-629c,npm:mcp-from-openapi,>=2.3.0 <2.5.0,2026-09-12T06:10:54.521Z
+GHSA-65h8-27jh-q8wv,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.528Z
+GHSA-65h8-27jh-q8wv,npm:openclaw,<2026.3.22,2026-09-04T05:41:59.306Z
+GHSA-65hm-pwj5-73pw,github:executeautomation/mcp-database-server,<= 1.1.0,2026-09-03T03:35:01.069Z
+GHSA-66f2-xxgm-f6xp,npm:flowise,<=1.4.3,2026-09-04T05:43:34.130Z
+GHSA-66hm-hxq3-5pfh,github:openclaw/openclaw,>=2026.3.28 <2026.8.1,2026-09-26T06:00:31.057Z
+GHSA-66m2-gx93-v996,github:anthropics/claude-code,<1.0.120,2026-09-03T03:35:26.362Z
+GHSA-66q4-vfjg-2qhh,github:anthropics/claude-code,<2.0.57,2026-09-03T03:35:26.372Z
+GHSA-66r7-m7xm-v49h,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.097Z
+GHSA-66r7-m7xm-v49h,npm:openclaw,<2026.4.10,2026-09-04T05:41:59.413Z
+GHSA-67mf-f936-ppxf,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:59.053Z
+GHSA-67mf-f936-ppxf,npm:openclaw,<2026.4.8,2026-09-04T05:41:59.513Z
+GHSA-67q9-58vj-32qx,github:tencent/weknora,<0.3.0,2026-09-03T03:35:01.101Z
+GHSA-68f8-9mhj-h2mp,github:openclaw/openclaw,<2026.3.24,2026-09-03T03:35:46.549Z
+GHSA-68f8-9mhj-h2mp,npm:openclaw,<2026.3.24,2026-09-04T05:41:59.612Z
+GHSA-68v4-hmwv-f43h,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.336Z
+GHSA-68v4-hmwv-f43h,npm:openclaw,<2026.3.31,2026-09-04T05:41:59.691Z
+GHSA-68x5-xx89-w9mm,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:52.427Z
+GHSA-68x5-xx89-w9mm,npm:openclaw,<2026.4.8,2026-09-04T05:41:59.821Z
+GHSA-68xw-r643-9p5w,github:openclaw/openclaw,<2026.5.6,2026-09-03T03:36:06.302Z
+GHSA-68xw-r643-9p5w,npm:openclaw,<2026.5.6,2026-09-04T05:41:59.922Z
+GHSA-6933-jpx5-q87q,npm:flowise,>=2.2.7-patch.1 <3.0.6,2026-09-03T03:37:56.763Z
+GHSA-693f-pf34-72c5,pypi:praisonai,<1.5.113,2026-09-27T12:06:00.839Z
+GHSA-694p-3fxc-m92h,npm:@aiondadotcom/mcp-ssh,<1.1.0,2026-09-12T06:10:59.392Z
+GHSA-698f-qxc2-w6p4,pypi:cdktn-provider-azurerm,>=17.0.0 <=17.0.0,2026-09-03T03:38:08.624Z
+GHSA-69jq-qr7w-j7qh,npm:flowise,<=2.2.6,2026-09-04T05:43:34.374Z
+GHSA-6c4r-g249-wv3c,github:openclaw/openclaw,<2026.4.26,2026-09-03T03:35:59.199Z
+GHSA-6c4r-g249-wv3c,npm:openclaw,<2026.4.26,2026-09-04T05:42:00.043Z
+GHSA-6c5x-3h35-vvw2,github:nhost/nhost,<1.41.0,2026-09-03T03:35:07.866Z
+GHSA-6c9j-x93c-rw6j,npm:openclaw,<2026.2.19,2026-09-04T05:42:00.154Z
+GHSA-6cr4-ccf3-x7h4,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.532Z
+GHSA-6cvf-cfch-4g7m,github:samanhappy/mcphub,<1.0.32,2026-09-03T03:35:19.774Z
+GHSA-6f5r-5672-72j7,github:andrea9293/mcp-documentation-server,">= 1.13.0, < 1.13.1",2026-09-18T06:00:10.028Z
+GHSA-6f6j-wx9w-ff4j,github:openclaw/openclaw,>=2026.2.26 <2026.3.1,2026-09-03T03:35:40.156Z
+GHSA-6f6j-wx9w-ff4j,npm:openclaw,>=2026.2.26 <2026.3.1,2026-09-04T05:42:00.314Z
+GHSA-6f6r-m9pv-67jw,github:joshuayoes/ios-simulator-mcp,<1.3.3,2026-09-03T03:34:54.008Z
+GHSA-6f6r-m9pv-67jw,npm:ios-simulator-mcp,<1.3.3,2026-09-04T05:41:44.001Z
+GHSA-6f7g-v4pp-r667,npm:flowise,<3.1.0,2026-09-03T03:37:56.709Z
+GHSA-6f9w-9hf2-5rg3,github:ondata/ckan-mcp-server,<0.4.112,2026-09-03T03:35:13.372Z
+GHSA-6f9w-9hf2-5rg3,npm:@aborruso/ckan-mcp-server,<0.4.112,2026-09-12T06:10:56.524Z
+GHSA-6fgp-m6q4-j3q5,pypi:mcp-run-python,<=0.0.22,2026-09-03T03:37:56.004Z
+GHSA-6fvr-66p3-3qj4,github:openclaw/openclaw,<2026.5.20,2026-09-03T03:35:59.183Z
+GHSA-6fvr-66p3-3qj4,npm:openclaw,<2026.5.20,2026-09-04T05:42:00.412Z
+GHSA-6fw7-3q8r-m5vj,npm:flowise,<3.1.2,2026-09-03T03:37:56.691Z
+GHSA-6g25-pc82-vfwp,github:openclaw/openclaw,2026.2.21,2026-09-03T03:35:46.586Z
+GHSA-6g25-pc82-vfwp,npm:openclaw,<2026.2.25,2026-09-04T05:42:00.505Z
+GHSA-6g6r-q6gw-w8fg,pypi:praisonai,<4.6.58,2026-09-27T12:06:00.958Z
+GHSA-6gr2-qh89-hxwm,github:apify/apify-mcp-server,<0.10.11,2026-09-03T03:35:13.376Z
+GHSA-6gr2-qh89-hxwm,npm:@apify/actors-mcp-server,<0.10.11,2026-09-04T05:41:41.180Z
+GHSA-6h9p-93hq-q7h6,pypi:praisonaiagents,<1.6.59,2026-09-28T05:59:30.495Z
+GHSA-6hf3-mhgc-cm65,github:openclaw/openclaw,<2026.2.15,2026-09-03T03:35:33.779Z
+GHSA-6hf3-mhgc-cm65,npm:openclaw,<2026.2.15,2026-09-04T05:42:00.618Z
+GHSA-6hwc-9h8r-3vmf,npm:snyk,<1.1297.3,2026-09-03T03:31:21.090Z
+GHSA-6j27-pc5c-m8w8,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.142Z
+GHSA-6j27-pc5c-m8w8,npm:openclaw,<2026.2.22,2026-09-03T03:48:20.215Z
+GHSA-6jcq-6546-qrrw,pypi:praisonai,>=4.5.110 <4.6.61,2026-09-27T12:06:01.116Z
+GHSA-6jx8-rcjx-vmwf,github:sunwood-ai-labs/github-kanban-mcp-server,= 0.3.0,2026-09-03T03:34:54.032Z
+GHSA-6mgf-v5j7-45cr,github:openclaw/openclaw,<2026.3.7,2026-09-03T03:35:40.231Z
+GHSA-6mgf-v5j7-45cr,npm:openclaw,<2026.3.7,2026-09-04T05:42:00.806Z
+GHSA-6mqc-jqh6-x8fc,github:openclaw/openclaw,<2026.3.23,2026-09-03T03:35:46.535Z
+GHSA-6mqc-jqh6-x8fc,npm:openclaw,<2026.3.23,2026-09-04T05:42:00.923Z
+GHSA-6mx4-4h42-r8vh,github:flux159/mcp-server-kubernetes,<3.7.0,2026-09-03T03:34:54.072Z
+GHSA-6mx4-4h42-r8vh,npm:mcp-server-kubernetes,<3.7.0,2026-09-04T05:41:42.363Z
+GHSA-6p8r-6m93-557f,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.317Z
+GHSA-6p8r-6m93-557f,npm:openclaw,<2026.3.31,2026-09-04T05:42:01.032Z
+GHSA-6pcv-j4jx-m4vx,npm:flowise,<3.1.0,2026-09-03T03:37:56.734Z
+GHSA-6pfc-6m7w-m8fx,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.395Z
+GHSA-6pfc-6m7w-m8fx,npm:openclaw,<2026.3.28,2026-09-04T05:42:01.129Z
+GHSA-6q9c-m9fr-865m,github:safedep/vet,<1.12.5,2026-09-03T03:35:01.074Z
+GHSA-6r77-hqx7-7vw8,npm:flowise,<3.1.0,2026-09-03T03:37:56.711Z
+GHSA-6r77-hqx7-7vw8,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.711Z
+GHSA-6rcp-vxwf-3mfp,github:openclaw/openclaw,<2026.2.24,2026-09-03T03:35:40.212Z
+GHSA-6rcp-vxwf-3mfp,npm:openclaw,<2026.2.24,2026-09-04T05:42:01.231Z
+GHSA-6rmh-7xcm-cpxj,pypi:praisonai,>=2.5.6 <4.6.34,2026-09-27T12:06:01.255Z
+GHSA-6rmx-gvvg-vh6j,npm:openclaw,<2026.3.7,2026-09-04T05:42:01.338Z
+GHSA-6vh2-h83c-9294,pypi:praisonaiagents,<1.5.90,2026-09-28T05:59:30.728Z
+GHSA-6vh2-wg4h-4vwj,npm:flowise,<3.1.3,2026-09-03T03:37:56.646Z
+GHSA-6vmq-24h2-pj7j,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.396Z
+GHSA-6vqg-rgpm-qvf9,github:danny-avila/librechat,<0.8.4,2026-09-03T03:35:07.922Z
+GHSA-6wp6-22x5-rr3w,npm:flowise,<1.8.1,2026-09-04T05:43:34.912Z
+GHSA-6x2m-hqfw-hvpj,npm:openclaw,<2026.2.23,2026-09-04T05:42:01.443Z
+GHSA-6x2m-p4xp-wg22,npm:network-ai,<5.12.2,2026-09-21T05:58:53.594Z
+GHSA-6xg4-82hv-cp6f,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.293Z
+GHSA-6xg4-82hv-cp6f,npm:openclaw,<2026.3.28,2026-09-04T05:42:01.532Z
+GHSA-6xpv-wwr5-265h,github:openclaw/openclaw,>=2026.5.28 <2026.8.1,2026-09-26T06:00:30.991Z
+GHSA-724r-v4wf-mqc5,github:openclaw/openclaw,>=2026.2.12 <2026.5.26,2026-09-03T03:36:06.389Z
+GHSA-728h-4mwj-f2p4,npm:flowise,<3.1.2,2026-09-03T03:37:56.676Z
+GHSA-72f3-6w86-7rv3,github:arikusi/deepseek-mcp-server,">= 1.4.2, < 1.8.0",2026-09-03T03:35:13.329Z
+GHSA-72f3-6w86-7rv3,npm:@arikusi/deepseek-mcp-server,>=1.4.2 <1.8.0,2026-09-03T03:22:32.185Z
+GHSA-72fm-whvq-jghf,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.252Z
+GHSA-72fw-cqh5-f324,github:openclaw/openclaw,<2026.4.29,2026-09-03T03:36:06.301Z
+GHSA-72fw-cqh5-f324,npm:openclaw,<2026.4.29,2026-09-04T05:42:01.629Z
+GHSA-72p2-79fg-pvph,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.342Z
+GHSA-72q8-jcmc-97wx,github:openclaw/openclaw,<2026.4.20,2026-09-03T03:35:59.146Z
+GHSA-72q8-jcmc-97wx,npm:openclaw,<2026.4.20,2026-09-04T05:42:01.719Z
+GHSA-736r-jwj6-4w23,github:openclaw/openclaw,>=2026.4.5 <2026.4.10,2026-09-03T03:35:59.074Z
+GHSA-736r-jwj6-4w23,npm:openclaw,>=2026.4.5 <2026.4.10,2026-09-04T05:42:01.871Z
+GHSA-73cv-556c-w3g6,github:startreedata/mcp-pinot,<3.1.0,2026-09-03T03:34:54.074Z
+GHSA-73cv-556c-w3g6,pypi:mcp-pinot-server,<3.1.0,2026-09-04T05:43:42.753Z
+GHSA-73hc-m4hx-79pj,pypi:mcp-memory-service,<10.21.0,2026-09-30T06:42:15.938Z
+GHSA-7437-7hg8-frrw,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:59.057Z
+GHSA-7437-7hg8-frrw,npm:openclaw,<2026.4.8,2026-09-04T05:42:01.968Z
+GHSA-743h-jr5x-mpcr,github:jovancoding/network-ai,<5.15.1,2026-09-03T03:35:26.395Z
+GHSA-7488-6r32-c95q,github:berriai/litellm,<1.84.0,2026-09-03T03:35:13.320Z
+GHSA-74gc-hg2m-79p9,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.193Z
+GHSA-74hp-mggr-hv58,github:sonirico/mcp-shell,<0.6.0,2026-09-03T03:35:13.385Z
+GHSA-74wf-h43j-vvmj,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.565Z
+GHSA-74wf-h43j-vvmj,npm:openclaw,<2026.3.22,2026-09-04T05:42:02.076Z
+GHSA-75hx-xj24-mqrw,npm:n8n-mcp,<2.47.6,2026-09-04T05:41:39.923Z
+GHSA-766v-q9x3-g744,pypi:praisonaiagents,<1.5.115,2026-09-28T05:59:30.821Z
+GHSA-767m-xrhc-fxm7,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.356Z
+GHSA-767m-xrhc-fxm7,npm:openclaw,<2026.3.28,2026-09-04T05:42:02.220Z
+GHSA-7683-3w9x-ch42,github:modelcontextprotocol/ruby-sdk,<0.23.0,2026-09-03T03:34:54.083Z
+GHSA-76pc-mqxp-3rq5,github:ooples/token-optimizer-mcp,<5.1.0,2026-09-29T06:04:47.806Z
+GHSA-76pc-mqxp-3rq5,npm:@ooples/token-optimizer-mcp,<5.1.0,2026-09-06T05:41:11.456Z
+GHSA-76pr-5669-3xf5,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.508Z
+GHSA-77hf-7fqf-f227,github:openclaw/openclaw,<2026.3.2,2026-09-03T03:35:40.204Z
+GHSA-77hf-7fqf-f227,npm:openclaw,<2026.3.2,2026-09-04T05:42:02.311Z
+GHSA-77pv-3w4q-vrj5,github:openclaw/openclaw,<2026.4.27,2026-09-03T03:36:06.282Z
+GHSA-77pv-3w4q-vrj5,npm:openclaw,<2026.4.27,2026-09-04T05:42:02.433Z
+GHSA-77q5-rr5v-x43q,github:openclaw/openclaw,<2026.5.7,2026-09-03T03:36:06.293Z
+GHSA-77q5-rr5v-x43q,npm:openclaw,<2026.5.7,2026-09-04T05:42:02.526Z
+GHSA-77w2-crqv-cmv3,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.575Z
+GHSA-77w2-crqv-cmv3,npm:openclaw,<2026.3.28,2026-09-04T05:42:02.642Z
+GHSA-782p-5fr5-7fj8,npm:openclaw,<2026.2.3,2026-09-04T05:42:02.751Z
+GHSA-7835-87q9-rgvv,github:anthropics/claude-code,">= 2.1.38, < 2.1.163",2026-09-03T03:35:26.391Z
+GHSA-787m-xjf4-8gx6,npm:claude-channel-discord,>=9.9.9 <=9.9.9,2026-09-06T05:42:57.292Z
+GHSA-78h3-63c4-5fqc,github:tencent/weknora,<0.2.5,2026-09-03T03:35:01.092Z
+GHSA-78pr-c5x5-jggc,npm:flowise,<3.1.2,2026-09-03T03:37:56.678Z
+GHSA-78r8-wwqv-r299,pypi:praisonai,<4.6.40,2026-09-27T12:06:01.385Z
+GHSA-78x9-fhhx-v2g6,github:ondata/ckan-mcp-server,<0.4.112,2026-09-03T03:35:13.374Z
+GHSA-78x9-fhhx-v2g6,npm:@aborruso/ckan-mcp-server,<0.4.112,2026-09-12T06:10:56.635Z
+GHSA-792q-qw95-f446,github:openclaw/openclaw,<2026.2.25,2026-09-03T03:35:40.210Z
+GHSA-792q-qw95-f446,npm:openclaw,<2026.2.25,2026-09-04T05:42:02.838Z
+GHSA-7944-7c6r-55vv,npm:flowise,>=3.0.5 <3.0.6,2026-09-03T03:37:56.769Z
+GHSA-794r-5rp2-fpg8,pypi:flyto-core,<2.26.3,2026-09-27T12:05:53.924Z
+GHSA-796m-2973-wc5q,npm:openclaw,<2026.2.23,2026-09-04T05:42:02.961Z
+GHSA-798p-78g2-v556,github:ondata/ckan-mcp-server,@aborruso/ckan-mcp-server,2026-09-22T05:59:06.274Z
+GHSA-798p-78g2-v556,npm:@aborruso/ckan-mcp-server,<0.4.108,2026-09-23T05:46:48.515Z
+GHSA-79wm-x847-7cvg,github:davila7/claude-code-templates,<1.29.4,2026-09-03T03:35:26.394Z
+GHSA-7cp7-87pj-p32v,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.158Z
+GHSA-7cv4-gfx4-2c3v,npm:autotel-mcp-instrumentation,"29.0.2, 30.0.5, 31.0.1, 32.0.1, 33.0.2, 34.0.1",2026-09-12T06:10:58.322Z
+GHSA-7f4q-9rqh-x36p,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.173Z
+GHSA-7f4q-9rqh-x36p,npm:openclaw,<2026.2.22,2026-09-04T05:42:03.208Z
+GHSA-7f8r-222p-6f5g,github:modelcontextprotocol/inspector,<0.14.1,2026-09-03T03:34:47.175Z
+GHSA-7f8r-222p-6f5g,npm:@modelcontextprotocol/inspector,<0.14.1,2026-09-03T03:48:18.966Z
+GHSA-7fcc-cw49-xm78,github:openclaw/openclaw,<2026.2.19,2026-09-03T03:35:40.157Z
+GHSA-7fcc-cw49-xm78,npm:openclaw,<2026.2.19,2026-09-04T05:42:03.306Z
+GHSA-7ff8-xjh3-mgh6,npm:openclaw,<2026.2.23,2026-09-04T05:42:03.459Z
+GHSA-7fv4-fmmc-86g2,github:siteboon/claudecodeui,<1.24.0,2026-09-03T03:35:26.377Z
+GHSA-7g3p-92qq-8wvh,pypi:praisonaiagents,<1.6.58,2026-09-28T05:59:31.004Z
+GHSA-7g73-99r4-m4mj,npm:flowise,<3.1.2,2026-09-03T03:37:56.681Z
+GHSA-7g8c-cfr3-vqqr,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.098Z
+GHSA-7g8c-cfr3-vqqr,npm:openclaw,<2026.4.10,2026-09-04T05:42:03.574Z
+GHSA-7ggg-pvrf-458v,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.397Z
+GHSA-7ggg-pvrf-458v,npm:openclaw,<2026.3.31,2026-09-04T05:42:03.671Z
+GHSA-7gq6-vvhp-97f4,npm:@yongot/canary-mcp-isolation,>=1.0.1 <=1.0.1,2026-09-09T05:43:42.831Z
+GHSA-7h7g-x2px-94hj,github:openclaw/openclaw,<2026.3.12,2026-09-03T03:35:46.480Z
+GHSA-7h7g-x2px-94hj,npm:openclaw,<2026.3.12,2026-09-04T05:42:03.760Z
+GHSA-7hgr-7h44-33w2,npm:camofox-mcp,<1.13.2,2026-09-15T06:00:01.056Z
+GHSA-7hxm-f538-3xp6,github:openclaw/openclaw,<2026.5.7,2026-09-03T03:35:59.179Z
+GHSA-7hxm-f538-3xp6,npm:openclaw,<2026.5.7,2026-09-04T05:42:03.860Z
+GHSA-7j2f-xc8p-fjmq,pypi:praisonaiagents,<1.5.128,2026-09-28T05:59:31.162Z
+GHSA-7j65-65cr-6644,npm:flowise,<3.1.2,2026-09-03T03:37:56.673Z
+GHSA-7jfq-rmfm-29wp,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:30.865Z
+GHSA-7jj9-4qqq-4xc4,github:verygoodplugins/whatsapp-mcp,<0.2.1,2026-09-03T03:34:54.081Z
+GHSA-7jm2-g593-4qrc,github:openclaw/openclaw,<2026.4.20,2026-09-03T03:35:07.906Z
+GHSA-7jm2-g593-4qrc,npm:openclaw,<2026.4.20,2026-09-04T05:42:03.957Z
+GHSA-7jp6-r74r-995q,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.071Z
+GHSA-7jp6-r74r-995q,npm:openclaw,<2026.4.10,2026-09-04T05:42:04.082Z
+GHSA-7jx5-9fjg-hp4m,github:openclaw/openclaw,<2026.2.23,2026-09-03T03:35:40.226Z
+GHSA-7jx5-9fjg-hp4m,npm:openclaw,<2026.2.23,2026-09-04T05:42:04.179Z
+GHSA-7jx6-764p-fgg9,github:openclaw/openclaw,>=2026.5.14-beta.1 <2026.5.27,2026-09-03T03:36:06.386Z
+GHSA-7m52-jw36-44r3,github:modelcontextprotocol/php-sdk,">= 0.5.0, < 0.7.1",2026-09-03T03:34:54.089Z
+GHSA-7m86-6729-5w7h,pypi:marketing-mcp,>=0.1.0 <=0.1.0,2026-09-18T05:59:58.149Z
+GHSA-7mv8-j34q-vp7q,github:anthropics/claude-code,<2.0.31,2026-09-03T03:35:26.365Z
+GHSA-7q2j-c4q5-rm27,github:openclaw/openclaw,">= 2026.2.6-0, < 2026.2.14",2026-09-03T03:35:33.763Z
+GHSA-7q2j-c4q5-rm27,npm:openclaw,>=2026.2.6-0 <2026.2.14,2026-09-04T05:42:04.283Z
+GHSA-7qf6-h84j-8fq4,npm:openclaw,<2026.2.26,2026-09-04T05:42:04.545Z
+GHSA-7qw2-w5rc-37x2,pypi:praisonai,>=4.5.87 <4.6.61,2026-09-27T12:06:01.506Z
+GHSA-7r34-79r5-rcc9,github:sooperset/mcp-atlassian,<0.17.0,2026-09-03T03:34:54.053Z
+GHSA-7r4h-vmj9-wg42,npm:flowise,<3.0.5,2026-09-03T03:37:56.761Z
+GHSA-7rcp-mxpq-72pj,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.819Z
+GHSA-7rcp-mxpq-72pj,npm:openclaw,<2026.2.14,2026-09-04T05:42:04.646Z
+GHSA-7rgr-72hp-9wp3,npm:flowise,<3.0.5,2026-09-03T03:37:56.758Z
+GHSA-7vrr-rp4x-4g76,github:openclaw/openclaw,>=2026.5.20 <2026.6.9,2026-09-03T03:36:06.355Z
+GHSA-7vwx-582j-j332,github:openclaw/openclaw,<=2026.1.30,2026-09-03T03:35:33.822Z
+GHSA-7vwx-582j-j332,npm:openclaw,<2026.2.1,2026-09-04T05:42:04.777Z
+GHSA-7w4v-g4m6-j88v,github:openclaw/openclaw,<2026.5.12,2026-09-03T03:36:06.396Z
+GHSA-7wv4-cc7p-jhxc,github:openclaw/openclaw,<2026.4.9,2026-09-03T03:35:59.093Z
+GHSA-7wv4-cc7p-jhxc,npm:openclaw,<2026.4.9,2026-09-04T05:42:04.891Z
+GHSA-7ww9-85pg-cv4x,pypi:praisonai,>=4.6.34 <4.6.58,2026-09-27T12:06:01.640Z
+GHSA-7xgw-6qf3-7w59,github:dbt-labs/dbt-mcp,<1.17.1,2026-09-03T03:34:54.079Z
+GHSA-7xgw-6qf3-7w59,pypi:dbt-mcp,<1.17.1,2026-09-30T06:42:17.007Z
+GHSA-7xhj-55q9-pc3m,github:openclaw/openclaw,>=2.0.0-beta3 <2026.2.14,2026-09-03T03:35:33.794Z
+GHSA-7xhj-55q9-pc3m,npm:openclaw,>=2.0.0-beta3 <2026.2.14,2026-09-04T05:42:05.005Z
+GHSA-7xmq-g46g-f8pv,npm:openclaw,<2026.3.1,2026-09-04T05:42:05.109Z
+GHSA-7xr2-q9vf-x4r5,github:openclaw/openclaw,<=2026.2.22,2026-09-03T03:35:46.533Z
+GHSA-7xr2-q9vf-x4r5,npm:openclaw,<=2026.2.22,2026-09-04T05:42:05.262Z
+GHSA-82g8-464f-2mv7,npm:openclaw,<2026.2.21,2026-09-04T05:42:05.363Z
+GHSA-82qx-6vj7-p8m2,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.109Z
+GHSA-82qx-6vj7-p8m2,npm:openclaw,<2026.4.10,2026-09-04T05:42:05.462Z
+GHSA-8372-7vhw-cm6q,github:openclaw/openclaw,<2026.4.14,2026-09-03T03:35:59.088Z
+GHSA-8372-7vhw-cm6q,npm:openclaw,<2026.4.14,2026-09-04T05:42:05.582Z
+GHSA-83f3-hh45-vfw9,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:35:46.588Z
+GHSA-83f3-hh45-vfw9,npm:openclaw,<2026.4.2,2026-09-04T05:42:05.716Z
+GHSA-83w9-h5wv-j9xm,github:openclaw/openclaw,<2026.5.27,2026-09-03T03:36:06.291Z
+GHSA-83w9-h5wv-j9xm,npm:openclaw,<2026.5.27,2026-09-04T05:42:05.804Z
+GHSA-83x6-42hr-jc76,github:ondata/ckan-mcp-server,<0.4.112,2026-09-03T03:35:13.373Z
+GHSA-83x6-42hr-jc76,npm:@aborruso/ckan-mcp-server,<0.4.112,2026-09-12T06:10:56.757Z
+GHSA-8444-4fhq-fxpq,pypi:praisonai,<4.6.40,2026-09-27T12:06:01.731Z
+GHSA-844j-xrrq-wgh4,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.566Z
+GHSA-844j-xrrq-wgh4,npm:openclaw,<2026.3.22,2026-09-04T05:42:05.914Z
+GHSA-8466-62v8-x2vr,pypi:index-forum,>=2.5.4 <=2.5.4,2026-09-18T05:59:58.124Z
+GHSA-846p-hgpv-vphc,npm:openclaw,<2026.4.2,2026-09-04T05:42:06.068Z
+GHSA-84hp-mqvj-3p8h,pypi:mcp-memory-service,<10.67.1,2026-09-30T06:42:16.076Z
+GHSA-8527-3cch-95gf,github:nanbingxyz/5ire,">= 0.13.2, < 0.14.0",2026-09-03T03:34:54.035Z
+GHSA-8579-rgg5-ph2m,pypi:praisonai,>=4.5.2 <4.6.59,2026-09-27T12:06:01.864Z
+GHSA-858c-qxvx-rg9v,npm:flowise,<=1.4.3,2026-09-04T05:43:35.752Z
+GHSA-8689-gm9g-jgr6,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.402Z
+GHSA-8689-gm9g-jgr6,npm:openclaw,<2026.3.28,2026-09-04T05:42:06.269Z
+GHSA-86hp-qxqp-w9wv,npm:mcp-server-semgrep,<1.0.1,2026-09-12T06:10:59.168Z
+GHSA-86qc-r5v2-v6x6,pypi:praisonai,<4.6.40,2026-09-27T12:06:01.970Z
+GHSA-877v-w3f5-3pcq,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.415Z
+GHSA-877v-w3f5-3pcq,npm:openclaw,<2026.3.31,2026-09-04T05:42:07.026Z
+GHSA-8883-9w57-vwv6,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.561Z
+GHSA-8883-9w57-vwv6,npm:openclaw,<2026.3.22,2026-09-04T05:42:07.228Z
+GHSA-88pr-878c-24wf,npm:flowise,<3.1.3,2026-09-03T03:37:56.634Z
+GHSA-88pr-878c-24wf,npm:flowise-components,<3.1.3,2026-09-03T03:37:56.634Z
+GHSA-88q9-cmp2-c2vq,pypi:oxidize-pdf,<0.5.0,2026-09-27T12:05:56.311Z
+GHSA-892r-p3jq-jp24,pypi:praisonai,>=4.2.1 <4.6.59,2026-09-27T12:06:02.097Z
+GHSA-8938-r7c6-54vq,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.080Z
+GHSA-89cw-7452-cfrf,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.585Z
+GHSA-89r3-6x4j-v7wf,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.324Z
+GHSA-89r3-6x4j-v7wf,npm:openclaw,<2026.3.31,2026-09-04T05:42:07.342Z
+GHSA-89vp-x53w-74fx,github:modelcontextprotocol/rust-sdk,<1.4.0,2026-09-03T03:34:54.069Z
+GHSA-89vp-x53w-74fx,npm:dynoxide,>=0.9.3 <0.9.13,2026-09-04T05:41:42.178Z
+GHSA-89xv-2j6f-qhc8,github:modelcontextprotocol/go-sdk,<1.4.1,2026-09-03T03:35:01.107Z
+GHSA-8c59-hr4w-qg69,github:openclaw/openclaw,<2026.5.3,2026-09-03T03:36:06.323Z
+GHSA-8c59-hr4w-qg69,npm:openclaw,<2026.5.3,2026-09-04T05:42:07.446Z
+GHSA-8c63-r789-xrrf,github:zenhive/mpp,>=0.14.0 <0.16.2 || >=82df569c898be1137189e3648e1edb4af6363651 <7270edc1dcfb58250cc5ee812876609206564165,2026-09-23T05:47:43.027Z
+GHSA-8ccj-p46r-jwqq,pypi:praisonai,<4.6.61,2026-09-27T12:06:02.204Z
+GHSA-8cp7-rp8r-mg77,npm:openclaw,>=2026.1.20 <2026.2.19,2026-09-04T05:42:07.569Z
+GHSA-8f46-3xx3-8c9m,github:openclaw/openclaw,<2026.6.5,2026-09-03T03:36:06.402Z
+GHSA-8f47-4rh3-x44m,npm:flowise,<=3.0.12,2026-09-03T03:37:56.693Z
+GHSA-8f4v-xfm9-3244,pypi:praisonaiagents,<1.5.128,2026-09-28T05:59:31.333Z
+GHSA-8fmp-37rc-p5g7,github:openclaw/openclaw,<2026.2.21,2026-09-03T03:35:33.841Z
+GHSA-8fmp-37rc-p5g7,npm:openclaw,<2026.2.21,2026-09-04T05:42:07.949Z
+GHSA-8frj-8q3m-xhgm,pypi:praisonai,<4.5.128,2026-09-27T12:06:02.404Z
+GHSA-8g75-q649-6pv6,github:openclaw/openclaw,<2026.3.8,2026-09-03T03:35:46.487Z
+GHSA-8g75-q649-6pv6,npm:openclaw,<2026.3.8,2026-09-04T05:42:08.049Z
+GHSA-8g7g-hmwm-6rv2,npm:n8n-mcp,<2.50.1,2026-09-04T05:41:40.035Z
+GHSA-8gj2-2cvc-6xx7,npm:flowise,<3.1.4,2026-09-03T03:37:56.617Z
+GHSA-8hjw-25cg-g52h,pypi:praisonaiagents,>=1.5.128 <1.6.58,2026-09-28T05:59:31.449Z
+GHSA-8hmm-4crw-vm2c,github:musistudio/claude-code-router,<1.0.34,2026-09-03T03:35:26.354Z
+GHSA-8j2w-6fmm-m587,github:openclaw/openclaw,<2026.2.26,2026-09-03T03:35:40.189Z
+GHSA-8j2w-6fmm-m587,npm:openclaw,<2026.2.26,2026-09-04T05:42:08.152Z
+GHSA-8j37-5w68-wj2g,github:openclaw/openclaw,<2026.5.7,2026-09-03T03:36:06.328Z
+GHSA-8j37-5w68-wj2g,npm:openclaw,<2026.5.7,2026-09-04T05:42:08.238Z
+GHSA-8j63-96wh-wh3j,github:1panel-dev/1panel,<2.0.6,2026-09-03T03:35:01.057Z
+GHSA-8jhh-jcqg-mj5p,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:46.492Z
+GHSA-8jhh-jcqg-mj5p,npm:openclaw,<2026.3.11,2026-09-04T05:42:08.387Z
+GHSA-8jpq-5h99-ff5r,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.765Z
+GHSA-8jpq-5h99-ff5r,npm:openclaw,<2026.2.14,2026-09-04T05:42:08.490Z
+GHSA-8jr5-6gvj-rfpf,github:yoda-digital/mcp-gitlab-server,<0.6.0,2026-09-03T03:35:07.916Z
+GHSA-8jr5-6gvj-rfpf,npm:@yoda.digital/gitlab-mcp-server,<0.6.0,2026-09-16T05:58:51.783Z
+GHSA-8jx2-rhfh-q928,github:coding-solo/godot-mcp,<0.1.1,2026-09-03T03:34:54.050Z
+GHSA-8jx2-rhfh-q928,npm:@coding-solo/godot-mcp,<0.1.1,2026-09-12T06:10:56.041Z
+GHSA-8jxr-pr72-r468,github:modelcontextprotocol/java-sdk,<1.0.0,2026-09-03T03:34:54.060Z
+GHSA-8m9v-xpgf-g99m,npm:openclaw,<2026.3.1,2026-09-04T05:42:08.590Z
+GHSA-8mf7-vv8w-hjr2,npm:openclaw,<2026.2.22,2026-09-04T05:42:08.715Z
+GHSA-8mg9-j9cf-54cj,github:openclaw/openclaw,<2026.4.25,2026-09-03T03:36:06.315Z
+GHSA-8mg9-j9cf-54cj,npm:openclaw,<2026.4.25,2026-09-04T05:42:08.810Z
+GHSA-8mh7-phf8-xgfm,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.771Z
+GHSA-8mh7-phf8-xgfm,npm:openclaw,<2026.2.14,2026-09-04T05:42:08.912Z
+GHSA-8mvx-p2r9-r375,github:openclaw/openclaw,<2026.3.2,2026-09-03T03:35:40.123Z
+GHSA-8mvx-p2r9-r375,npm:openclaw,<2026.3.2,2026-09-04T05:42:09.807Z
+GHSA-8q49-2h5h-434x,npm:@frontmcp/adapters,<1.5.6,2026-09-05T05:41:22.204Z
+GHSA-8q5r-mmjf-575q,github:anthropics/claude-code-action,<1.0.74,2026-09-03T03:35:13.345Z
+GHSA-8qf9-62x2-82pp,npm:chrome-devtools-mcp,>=0.24.0 <1.1.0,2026-09-27T12:06:21.302Z
+GHSA-8r8h-6vcc-xhrv,npm:flowise,<3.1.3,2026-09-03T03:37:56.636Z
+GHSA-8rgw-6xp9-2fg3,github:microsoft/playwright,<0.0.40,2026-09-03T03:35:01.090Z
+GHSA-8rgw-6xp9-2fg3,npm:@playwright/mcp,<0.0.40,2026-09-27T12:05:52.811Z
+GHSA-8rh7-6779-cjqq,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:46.589Z
+GHSA-8rh7-6779-cjqq,npm:openclaw,<2026.3.28,2026-09-04T05:42:09.917Z
+GHSA-8v95-qqcm-qp9h,github:openclaw/openclaw,>=2026.1.20 <2026.5.27,2026-09-03T03:36:06.388Z
+GHSA-8vh3-g2qg-2h2c,github:cbcoutinho/nextcloud-mcp-server,<0.117.2,2026-09-03T03:35:13.386Z
+GHSA-8vh3-g2qg-2h2c,pypi:nextcloud-mcp-server,<0.117.2,2026-09-30T06:42:16.793Z
+GHSA-8vvx-qvq9-5948,npm:flowise,<=2.2.7,2026-09-04T05:43:36.218Z
+GHSA-8w9j-hc3g-3g7f,pypi:praisonai,<4.5.90,2026-09-27T12:06:02.520Z
+GHSA-8wg3-5mcm-fjq8,github:openclaw/openclaw,<2026.5.27,2026-09-03T03:35:59.190Z
+GHSA-8wg3-5mcm-fjq8,npm:openclaw,<2026.5.27,2026-09-04T05:42:10.017Z
+GHSA-8wx6-g25r-2943,github:openpanel-dev/openpanel,<=bad75bddc74d12d36cfb843f4531d3b830a8d994,2026-09-20T06:00:02.373Z
+GHSA-8x8f-54wf-vv92,pypi:praisonai,<4.5.139,2026-09-27T12:06:02.649Z
+GHSA-8x8f-54wf-vv92,pypi:praisonaiagents,<1.5.140,2026-09-27T12:06:02.647Z
+GHSA-8xr5-732g-84px,github:cherryhq/cherry-studio,">= 1.2.5, < 1.5.2",2026-09-03T03:35:01.059Z
+GHSA-8xxh-v4vc-qvm4,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.411Z
+GHSA-92jp-89mq-4374,github:openclaw/openclaw,>=2026.2.21 <2026.4.10,2026-09-03T03:35:59.115Z
+GHSA-92jp-89mq-4374,npm:openclaw,>=2026.2.21 <2026.4.10,2026-09-04T05:42:10.084Z
+GHSA-939r-rj45-g2rj,github:openclaw/openclaw,<2026.4.9,2026-09-03T03:35:59.106Z
+GHSA-939r-rj45-g2rj,npm:openclaw,<2026.4.9,2026-09-04T05:42:10.272Z
+GHSA-93rg-2xm5-2p9v,github:openclaw/openclaw,<2026.4.22,2026-09-03T03:35:59.148Z
+GHSA-93rg-2xm5-2p9v,npm:openclaw,<2026.4.22,2026-09-04T05:42:10.348Z
+GHSA-93xr-jvm3-jpch,npm:@yongot/canary-mcp-test-2,*,2026-09-11T05:46:07.221Z
+GHSA-93xw-j965-9mx3,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.324Z
+GHSA-943q-mwmv-hhvh,npm:openclaw,<2026.2.14,2026-09-04T05:42:10.479Z
+GHSA-94pw-c6m8-p9p9,github:openclaw/openclaw,<2026.3.24,2026-09-03T03:35:46.552Z
+GHSA-94pw-c6m8-p9p9,npm:openclaw,<2026.3.24,2026-09-04T05:42:10.581Z
+GHSA-9528-x887-j2fp,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:46.506Z
+GHSA-9528-x887-j2fp,npm:openclaw,<2026.3.28,2026-09-04T05:42:10.692Z
+GHSA-9558-q4f9-324f,github:openclaw/clawhub,<8c2de6c506bb4efabe3f0c2ffb8370b9e23d4650,2026-09-27T12:07:17.917Z
+GHSA-95c3-6vvw-4mrq,github:modelcontextprotocol/registry,<1.7.6,2026-09-03T03:35:07.913Z
+GHSA-95f6-rfpg-c3w8,npm:@enderfga/claw-orchestrator,<3.7.1,2026-09-12T06:10:57.794Z
+GHSA-964p-j4gg-mhwc,npm:flowise,<3.0.8,2026-09-03T03:37:56.762Z
+GHSA-97rm-xj73-33jh,github:yosefhayim/ebay-mcp,<= 1.7.2,2026-09-03T03:35:01.099Z
+GHSA-985f-72mj-8gf7,github:openclaw/openclaw,<2026.4.25,2026-09-03T03:36:06.332Z
+GHSA-985f-72mj-8gf7,npm:openclaw,<2026.4.25,2026-09-04T05:42:10.771Z
+GHSA-9868-vxmx-w862,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.140Z
+GHSA-9868-vxmx-w862,npm:openclaw,<2026.2.22,2026-09-03T03:48:19.961Z
+GHSA-98ch-45wp-ch47,github:openclaw/openclaw,<b57b680c0c34de907d57f60c38fb358e82aef8f7,2026-09-03T03:35:46.514Z
+GHSA-98ch-45wp-ch47,npm:openclaw,<2026.4.2,2026-09-04T05:42:10.983Z
+GHSA-98f9-fqg5-hvq5,github:mervinpraison/praisonai,<4.5.97,2026-09-03T03:35:07.874Z
+GHSA-98f9-fqg5-hvq5,pypi:praisonai,<4.5.97,2026-09-27T12:06:19.219Z
+GHSA-98hh-7ghg-x6rq,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.303Z
+GHSA-98hh-7ghg-x6rq,npm:openclaw,<2026.3.28,2026-09-04T05:42:11.123Z
+GHSA-9969-8g9h-rxwm,github:openclaw/openclaw,<2026.6.6,2026-09-03T03:36:06.363Z
+GHSA-99f9-j8r3-p853,pypi:hermes-agent,<0.16.0,2026-09-04T05:42:54.578Z
+GHSA-99g3-w8gr-x37c,pypi:praisonai,>=2.7.2 <4.5.128,2026-09-27T12:06:03.515Z
+GHSA-99pg-hqvx-r4gf,npm:flowise,>=3.0.5 <3.0.6,2026-09-03T03:37:56.765Z
+GHSA-99qw-6mr3-36qr,github:openclaw/openclaw,<2026.3.12,2026-09-03T03:35:46.486Z
+GHSA-99qw-6mr3-36qr,npm:openclaw,<2026.3.12,2026-09-04T05:42:11.221Z
+GHSA-9c3v-684m-579c,github:openclaw/openclaw,<2026.6.5,2026-09-03T03:36:06.373Z
+GHSA-9c3v-684m-579c,npm:openclaw,<2026.6.5,2026-09-04T05:42:11.298Z
+GHSA-9c4c-g95m-c8cp,npm:flowise,<=2.2.7,2026-09-04T05:43:36.603Z
+GHSA-9c83-rr99-vfwj,github:bitbonsai/mcpvault,<0.11.5,2026-09-16T05:59:45.570Z
+GHSA-9cq8-3v94-434g,pypi:praisonai,<4.5.90,2026-09-27T12:06:03.636Z
+GHSA-9cr9-25q5-8prj,pypi:praisonai,<4.6.40,2026-09-27T12:06:03.745Z
+GHSA-9f4w-67g7-mqwv,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.296Z
+GHSA-9f4w-67g7-mqwv,npm:openclaw,<2026.3.31,2026-09-04T05:42:11.447Z
+GHSA-9f65-56v6-gxw7,github:anthropics/claude-code,>= 0.2.116 < 1.0.24,2026-09-03T03:35:26.346Z
+GHSA-9f72-qcpw-2hxc,npm:openclaw,<2026.2.24,2026-09-04T05:42:11.564Z
+GHSA-9f86-pvv5-rxfw,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.181Z
+GHSA-9g45-5xwm-f3wc,github:modelcontextprotocol/rust-sdk,<2.1.0,2026-09-17T05:59:58.551Z
+GHSA-9g6v-r3xf-673q,github:siyuan-note/siyuan,>=3.8.0 <3.8.4,2026-09-27T12:07:04.922Z
+GHSA-9gfj-28hw-jchp,github:knowns-dev/knowns,<0.30.0,2026-09-08T05:44:13.965Z
+GHSA-9gm9-c8mq-vq7m,pypi:praisonai,>=4.5.15 <4.5.69,2026-09-27T12:06:03.861Z
+GHSA-9gp8-hjxr-6f34,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.308Z
+GHSA-9gp8-hjxr-6f34,npm:openclaw,<2026.3.31,2026-09-04T05:42:11.675Z
+GHSA-9gw6-46qc-99vr,github:pipeboard-co/meta-ads-mcp,<1.0.109,2026-09-03T03:34:54.087Z
+GHSA-9gw6-46qc-99vr,pypi:meta-ads-mcp,<1.0.109,2026-09-30T06:42:15.685Z
+GHSA-9h52-p55h-vw2f,github:modelcontextprotocol/python-sdk,<1.23.0,2026-09-03T03:34:54.041Z
+GHSA-9hgc-g3w5-67cm,pypi:mcp-contextforge-gateway,<1.0.3,2026-09-30T06:42:17.456Z
+GHSA-9hjh-fr4f-gxc4,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.574Z
+GHSA-9hjh-fr4f-gxc4,npm:openclaw,<=2026.3.24,2026-09-04T05:42:11.765Z
+GHSA-9hrv-gvrv-6gf2,npm:flowise,<3.1.0,2026-09-03T03:37:56.725Z
+GHSA-9hrv-gvrv-6gf2,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.726Z
+GHSA-9jch-j9qf-vqfw,github:langgenius/dify,<= 1.9.1,2026-09-03T03:35:01.078Z
+GHSA-9jpj-g8vv-j5mf,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:35:46.515Z
+GHSA-9jpj-g8vv-j5mf,npm:openclaw,<2026.4.2,2026-09-04T05:42:11.935Z
+GHSA-9mm9-rqhj-j5mx,npm:repomix,<1.14.1,2026-09-22T05:58:21.918Z
+GHSA-9mph-4f7v-fmvh,npm:openclaw,<2026.2.22,2026-09-04T05:42:12.085Z
+GHSA-9mqq-jqxf-grvw,github:mervinpraison/praisonai,<4.6.34,2026-09-03T03:35:07.899Z
+GHSA-9mqq-jqxf-grvw,pypi:praisonai,<4.6.34,2026-09-27T12:06:03.975Z
+GHSA-9p38-94jf-hgjj,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:33.843Z
+GHSA-9p38-94jf-hgjj,npm:openclaw,<2026.2.22,2026-09-04T05:42:12.189Z
+GHSA-9p3r-hh9g-5cmg,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.283Z
+GHSA-9p3r-hh9g-5cmg,npm:openclaw,<2026.3.31,2026-09-04T05:42:12.314Z
+GHSA-9p6m-2872-xm7x,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.479Z
+GHSA-9p93-7j67-5pc2,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.518Z
+GHSA-9p93-7j67-5pc2,npm:openclaw,<=2026.3.24,2026-09-04T05:42:12.396Z
+GHSA-9pj6-vhgr-3mwh,github:modelcontextprotocol/rust-sdk,<2.0.0,2026-09-17T05:59:58.542Z
+GHSA-9q28-ghcr-c4x3,pypi:praisonai,<4.6.37,2026-09-27T12:06:04.121Z
+GHSA-9q2p-vc84-2rwm,npm:openclaw,<2026.3.7,2026-09-04T05:42:12.529Z
+GHSA-9q36-67vc-rrwg,github:openclaw/openclaw,<2026.3.7,2026-09-03T03:35:40.230Z
+GHSA-9q36-67vc-rrwg,npm:openclaw,<2026.3.7,2026-09-04T05:42:12.665Z
+GHSA-9q7h-wgfw-p378,github:dayuanjiang/next-ai-draw-io,<0.4.15,2026-09-03T03:35:07.889Z
+GHSA-9q7v-8mr7-g23p,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.301Z
+GHSA-9q7v-8mr7-g23p,npm:openclaw,<2026.3.31,2026-09-04T05:42:12.761Z
+GHSA-9qhq-v63v-fv3j,pypi:praisonai,<4.5.149,2026-09-27T12:06:04.241Z
+GHSA-9rvc-vf7m-pgm2,npm:flowise,<3.1.2,2026-09-03T03:37:56.683Z
+GHSA-9v8j-9c9g-w66c,github:openclaw/openclaw,<2026.5.12,2026-09-03T03:36:06.331Z
+GHSA-9v8j-9c9g-w66c,npm:openclaw,<2026.5.12,2026-09-04T05:42:12.843Z
+GHSA-9vq7-9h42-j88h,npm:@samanhappy/mcphub,<0.11.0,2026-09-12T06:10:57.323Z
+GHSA-9vvh-2768-c8vp,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:46.452Z
+GHSA-9vvh-2768-c8vp,npm:openclaw,<2026.3.11,2026-09-04T05:42:12.941Z
+GHSA-9wc7-mj3f-74xv,npm:flowise,<3.1.0,2026-09-03T03:37:56.722Z
+GHSA-9wc7-mj3f-74xv,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.723Z
+GHSA-9wqx-g2cw-vc7r,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.555Z
+GHSA-9wqx-g2cw-vc7r,npm:openclaw,<=2026.3.24,2026-09-04T05:42:13.074Z
+GHSA-9wx9-prgc-gmjr,github:samanhappy/mcphub,<1.0.32,2026-09-03T03:35:19.779Z
+GHSA-9x88-f7rh-4c83,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.514Z
+GHSA-9xwc-hfwc-8w59,pypi:mcp-server-git,<2025.12.18,2026-09-03T03:38:10.597Z
+GHSA-c226-q6fx-6j6c,github:openclaw/openclaw,<2026.5.6,2026-09-03T03:36:06.329Z
+GHSA-c226-q6fx-6j6c,npm:openclaw,<2026.5.6,2026-09-04T05:42:13.184Z
+GHSA-c28g-vh7m-fm7v,github:openclaw/openclaw,<2026.4.21,2026-09-03T03:35:59.143Z
+GHSA-c28g-vh7m-fm7v,npm:openclaw,<2026.4.21,2026-09-04T05:42:13.256Z
+GHSA-c29c-2q9c-pc86,github:openclaw/openclaw,<2026.5.3,2026-09-03T03:35:59.195Z
+GHSA-c29c-2q9c-pc86,npm:openclaw,<2026.5.3,2026-09-04T05:42:13.379Z
+GHSA-c2c9-mfw7-p8hw,npm:flowise,<3.1.2,2026-09-03T03:37:56.666Z
+GHSA-c37p-4qqg-3p76,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.825Z
+GHSA-c37p-4qqg-3p76,npm:openclaw,<2026.2.14,2026-09-04T05:42:13.486Z
+GHSA-c4hm-4h84-2cf3,github:ruvnet/ruflo,<3.16.3,2026-09-03T03:35:26.392Z
+GHSA-c4m7-2gwp-vw76,pypi:ouroboros-ai,<0.39.0,2026-09-27T12:05:58.051Z
+GHSA-c4qg-j8jg-42q5,github:openclaw/openclaw,<2026.4.20,2026-09-03T03:35:59.142Z
+GHSA-c4qg-j8jg-42q5,npm:openclaw,<2026.4.20,2026-09-04T05:42:13.615Z
+GHSA-c4qm-58hj-j6pj,github:openclaw/openclaw,<2026.4.14,2026-09-03T03:35:59.078Z
+GHSA-c4qm-58hj-j6pj,npm:openclaw,<2026.4.14,2026-09-04T05:42:13.715Z
+GHSA-c5px-58j2-7fqp,github:elyin/gemini-bridge,">= 1.0.0, < 1.3.1",2026-09-03T03:35:13.361Z
+GHSA-c5r6-m4mr-8q5j,github:vmoranv/jshookmcp,= 0.3.1,2026-09-03T03:35:13.369Z
+GHSA-c5r6-m4mr-8q5j,npm:@jshookmcp/jshook,>=0.3.1 <0.3.2,2026-09-03T03:32:57.891Z
+GHSA-c6hr-w26q-c636,github:openclaw/openclaw,<2026.2.19,2026-09-03T03:35:33.842Z
+GHSA-c6hr-w26q-c636,npm:openclaw,<2026.2.19,2026-09-04T05:42:13.805Z
+GHSA-c6xh-wv4j-ppv5,npm:flowise,<3.1.3,2026-09-03T03:37:56.648Z
+GHSA-c73c-x77g-854r,github:gitlawb/openclaude,<0.5.1,2026-09-03T03:35:07.922Z
+GHSA-c92r-f3rr-q49h,github:ash-project/ash_ai,>=0.8.0 <1.0.0 || >=c94f0b17fbe252f68755ba512678586164ba6139 <28af68d73134df0b8fb3aa6ab03e8fd795b07c21,2026-09-03T03:35:19.770Z
+GHSA-c969-5x3p-vq3v,pypi:praisonaiagents,<1.6.59,2026-09-28T05:59:31.584Z
+GHSA-c9gw-hvqq-f33r,github:flowiseai/flowise,<3.1.0,2026-09-03T03:35:07.890Z
+GHSA-c9gw-hvqq-f33r,npm:flowise,<3.1.0,2026-09-03T03:37:56.734Z
+GHSA-c9gw-hvqq-f33r,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.734Z
+GHSA-c9h3-5p7r-mrjh,github:openclaw/openclaw,>=2026.4.7 <2026.4.10,2026-09-03T03:35:59.095Z
+GHSA-c9h3-5p7r-mrjh,npm:openclaw,>=2026.4.7 <2026.4.10,2026-09-04T05:42:13.905Z
+GHSA-c9hr-64h3-gxpc,pypi:flyto-core,<2.26.7,2026-09-27T12:05:54.027Z
+GHSA-cc2g-gq8c-r332,npm:grok-faf-mcp,<1.5.3,2026-09-27T12:05:57.468Z
+GHSA-cc4f-hjpj-g9p8,npm:flowise,<3.1.0,2026-09-03T03:37:56.732Z
+GHSA-cc5h-2pwp-pvcc,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.446Z
+GHSA-ccg8-46r6-9qgj,github:openclaw/openclaw,<2026.2.24,2026-09-03T03:35:40.181Z
+GHSA-ccg8-46r6-9qgj,npm:openclaw,<2026.2.24,2026-09-04T05:42:14.002Z
+GHSA-ccwh-wwpp-6wg5,github:openclaw/openclaw,<2026.5.26,2026-09-03T03:36:06.334Z
+GHSA-ccwh-wwpp-6wg5,npm:openclaw,<2026.5.26,2026-09-04T05:42:14.095Z
+GHSA-ccx3-fw7q-rr2r,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:52.429Z
+GHSA-ccx3-fw7q-rr2r,npm:openclaw,<2026.4.8,2026-09-04T05:42:14.213Z
+GHSA-cf2p-f286-mphf,github:openclaw/openclaw,<2026.6.5,2026-09-03T03:36:06.371Z
+GHSA-cf95-m4jv-59rc,github:openclaw/openclaw,>=2026.7.1 <2026.8.1,2026-09-26T06:00:31.136Z
+GHSA-cfg2-mxfj-j6pw,pypi:praisonai,<4.5.128,2026-09-27T12:06:04.361Z
+GHSA-cfh6-vr3j-qc3g,pypi:praisonai,<4.5.97,2026-09-27T12:06:04.470Z
+GHSA-cfp9-w5v9-3q4h,github:openclaw/openclaw,<2026.3.2,2026-09-03T03:35:46.568Z
+GHSA-cfp9-w5v9-3q4h,npm:openclaw,<2026.3.2,2026-09-04T05:42:14.314Z
+GHSA-cfvj-7rx7-fc7c,github:openclaw/openclaw,<2026.3.2,2026-09-03T03:35:40.146Z
+GHSA-cfvj-7rx7-fc7c,npm:openclaw,<2026.3.2,2026-09-04T05:42:14.436Z
+GHSA-cfxv-8fw8-rwpv,pypi:praisonaiagents,<1.6.58,2026-09-28T05:59:31.682Z
+GHSA-cg6c-q2hx-69h7,github:openclaw/openclaw,<2026.3.23,2026-09-03T03:35:46.520Z
+GHSA-cg6c-q2hx-69h7,npm:openclaw,<2026.3.23,2026-09-04T05:42:14.548Z
+GHSA-cg7q-fg22-4g98,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.370Z
+GHSA-cg7q-fg22-4g98,npm:openclaw,<2026.3.31,2026-09-04T05:42:14.644Z
+GHSA-ch89-h4r2-c8f8,pypi:praisonai,<4.6.58,2026-09-27T12:06:04.591Z
+GHSA-chf7-jq6g-qrwv,github:openclaw/openclaw,<2026.2.15,2026-09-03T03:35:33.778Z
+GHSA-chf7-jq6g-qrwv,npm:openclaw,<2026.2.15,2026-09-04T05:42:14.766Z
+GHSA-chfm-xgc4-47rj,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.364Z
+GHSA-chfm-xgc4-47rj,npm:openclaw,<2026.3.31,2026-09-04T05:42:14.858Z
+GHSA-chm2-m3w2-wcxm,npm:clawdbot,<=2026.1.24-3,2026-09-04T05:42:14.981Z
+GHSA-chm2-m3w2-wcxm,npm:openclaw,<2026.2.14,2026-09-04T05:42:14.979Z
+GHSA-chm3-vqcf-52rx,npm:flowise,<3.1.3,2026-09-03T03:37:56.629Z
+GHSA-chr6-w4m5-57fv,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:30.958Z
+GHSA-chr9-m4q2-76hw,github:openclaw/openclaw,<2026.5.22,2026-09-03T03:35:59.187Z
+GHSA-chr9-m4q2-76hw,npm:openclaw,<2026.5.22,2026-09-04T05:42:15.076Z
+GHSA-cjv3-m589-v3rx,npm:openclaw,<2026.2.21,2026-09-04T05:42:15.202Z
+GHSA-cm8v-2vh9-cxf3,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:52.426Z
+GHSA-cm8v-2vh9-cxf3,npm:openclaw,<2026.4.8,2026-09-04T05:42:15.308Z
+GHSA-cmfr-9m2r-xwhq,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:59.067Z
+GHSA-cmfr-9m2r-xwhq,npm:openclaw,<2026.4.8,2026-09-04T05:42:15.467Z
+GHSA-cmrh-wvq6-wm9r,github:czlonkowski/n8n-mcp,">= 2.18.7, < 2.50.2",2026-09-03T03:35:07.902Z
+GHSA-cmrh-wvq6-wm9r,npm:n8n-mcp,>=2.18.7 <2.50.2,2026-09-04T05:41:40.132Z
+GHSA-cmwv-wf9p-p8wx,github:geiserx/genieacs-mcp,<0.3.2,2026-09-03T03:35:13.388Z
+GHSA-cqgw-44wg-44rf,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.385Z
+GHSA-cqgw-44wg-44rf,npm:openclaw,<2026.3.31,2026-09-04T05:42:15.840Z
+GHSA-cqwv-9qjx-vxw2,github:openclaw/openclaw,<2026.5.6,2026-09-03T03:35:59.174Z
+GHSA-cqwv-9qjx-vxw2,npm:openclaw,<2026.5.6,2026-09-04T05:42:15.917Z
+GHSA-cr22-wjx7-2w6m,github:flux159/mcp-server-kubernetes,<3.6.0,2026-09-03T03:34:54.072Z
+GHSA-cr22-wjx7-2w6m,npm:mcp-server-kubernetes,<3.6.0,2026-09-04T05:41:42.454Z
+GHSA-cr2f-c82j-mj6q,npm:@yongot/canary-mcp-isolation,*,2026-09-11T05:46:07.209Z
+GHSA-cr8r-7g2h-6wr6,github:openclaw/openclaw,>=2026.3.22 <2026.4.5,2026-09-03T03:35:59.108Z
+GHSA-cr8r-7g2h-6wr6,npm:openclaw,>=2026.3.22 <2026.4.5,2026-09-04T05:41:48.084Z
+GHSA-crg9-c62w-j2p5,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.619Z
+GHSA-crr4-xrj9-ww8g,github:dataojitori/nocturne_memory,<2.4.1,2026-09-03T03:35:07.917Z
+GHSA-cv3r-c5h8-f4g5,github:zereight/gitlab-mcp,<2.1.27,2026-09-16T05:59:45.588Z
+GHSA-cv3r-c5h8-f4g5,npm:@zereight/mcp-gitlab,<2.1.27,2026-09-17T05:59:08.856Z
+GHSA-cv5c-mh6j-wvp9,pypi:hermes-agent,<0.15.0,2026-09-04T05:42:54.735Z
+GHSA-cv6g-cmxc-vw8j,github:zed-industries/zed,<0.218.2-pre,2026-09-03T03:34:54.044Z
+GHSA-cv7m-c9jx-vg7q,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.774Z
+GHSA-cv7m-c9jx-vg7q,npm:openclaw,<2026.2.14,2026-09-04T05:42:16.046Z
+GHSA-cvhv-7xhj-xjp8,github:siyuan-note/siyuan,<3.7.2,2026-09-03T03:35:13.358Z
+GHSA-cvrr-qhgw-2mm6,npm:flowise,<3.1.0,2026-09-03T03:37:56.718Z
+GHSA-cvrr-qhgw-2mm6,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.718Z
+GHSA-cw4q-gqg5-g38h,github:openclaw/openclaw,<2026.5.7,2026-09-03T03:36:06.310Z
+GHSA-cw4q-gqg5-g38h,npm:openclaw,<2026.5.7,2026-09-04T05:42:16.136Z
+GHSA-cwc3-p92j-g7qm,npm:flowise,<3.0.13,2026-09-03T03:37:56.739Z
+GHSA-cwf8-44x6-32c2,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.404Z
+GHSA-cwf8-44x6-32c2,npm:openclaw,<2026.3.31,2026-09-04T05:42:16.460Z
+GHSA-cwj3-vqpp-pmxr,github:openclaw/openclaw,<2026.4.23,2026-09-03T03:35:59.161Z
+GHSA-cwj3-vqpp-pmxr,npm:openclaw,<2026.4.23,2026-09-04T05:42:16.548Z
+GHSA-cwpp-5962-q4f6,github:openclaw/openclaw,<2026.5.26,2026-09-03T03:36:06.308Z
+GHSA-cwpp-5962-q4f6,npm:openclaw,<2026.5.26,2026-09-04T05:42:16.648Z
+GHSA-cwq8-6f96-g3q4,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.380Z
+GHSA-cwq8-6f96-g3q4,npm:openclaw,<2026.3.31,2026-09-04T05:42:16.782Z
+GHSA-cxmw-p77q-wchg,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.554Z
+GHSA-cxmw-p77q-wchg,npm:openclaw,<2026.3.22,2026-09-04T05:42:16.954Z
+GHSA-cxpw-2g23-2vgw,github:openclaw/openclaw,<2026.2.19,2026-09-03T03:35:33.788Z
+GHSA-cxpw-2g23-2vgw,npm:openclaw,<2026.2.19,2026-09-04T05:42:17.101Z
+GHSA-cxxj-99f7-f5wq,github:labring/fastgpt,<4.14.17,2026-09-03T03:35:07.903Z
+GHSA-f228-chmx-v6j6,npm:flowise,<3.1.0,2026-09-03T03:37:56.724Z
+GHSA-f228-chmx-v6j6,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.724Z
+GHSA-f26r-j276-ggg4,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.384Z
+GHSA-f292-66h9-fpmf,pypi:praisonai,<4.5.115,2026-09-27T12:06:04.716Z
+GHSA-f2fc-vc88-6w7q,github:siteboon/claudecodeui,<1.24.0,2026-09-03T03:35:26.378Z
+GHSA-f2h6-7xfr-xm8w,pypi:praisonai,<4.5.128,2026-09-27T12:06:04.907Z
+GHSA-f2wc-4v37-6f5h,npm:ubiquiti-agents-link-mcp,>=0.0.1 <=0.0.1 || >=0.0.2 <=0.0.2 || >=0.2.0 <=0.2.0 || >=0.2.1 <=0.2.1,2026-09-23T05:47:32.397Z
+GHSA-f397-5vjw-v2c2,github:openclaw/openclaw,<2026.5.12,2026-09-03T03:36:06.337Z
+GHSA-f397-5vjw-v2c2,npm:openclaw,<2026.5.12,2026-09-04T05:42:17.181Z
+GHSA-f3h5-h452-vp3j,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.121Z
+GHSA-f3h5-h452-vp3j,npm:openclaw,<2026.4.10,2026-09-04T05:42:17.283Z
+GHSA-f3rg-xqjj-cj9w,github:czlonkowski/n8n-mcp,<2.51.3,2026-09-03T03:35:07.919Z
+GHSA-f3rg-xqjj-cj9w,npm:n8n-mcp,<2.51.3,2026-09-04T05:41:40.219Z
+GHSA-f44p-c7w9-7xr7,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.407Z
+GHSA-f44p-c7w9-7xr7,npm:openclaw,<2026.3.28,2026-09-04T05:42:17.401Z
+GHSA-f44v-7qgw-9gh9,pypi:praisonai,>=2.6.0 <4.6.59,2026-09-27T12:06:05.038Z
+GHSA-f4p7-qx46-wc5j,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.336Z
+GHSA-f5mf-3r52-r83w,github:openclaw/openclaw,<2026.3.12,2026-09-03T03:35:46.465Z
+GHSA-f5mf-3r52-r83w,npm:openclaw,<2026.3.12,2026-09-04T05:42:17.488Z
+GHSA-f5pj-2738-996m,github:sonirico/mcp-shell,<0.6.0,2026-09-03T03:35:13.383Z
+GHSA-f693-58pc-2gfr,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.329Z
+GHSA-f693-58pc-2gfr,npm:openclaw,<2026.3.31,2026-09-04T05:42:17.592Z
+GHSA-f6h3-846h-2r8w,npm:openclaw,<2026.2.22,2026-09-04T05:42:17.755Z
+GHSA-f6hc-c5jr-878p,npm:flowise,<3.1.0,2026-09-03T03:37:56.705Z
+GHSA-f6p7-6326-vf7v,github:openclaw/openclaw,<2026.6.9,2026-09-03T03:36:06.370Z
+GHSA-f6pf-4gjx-c94r,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:40.232Z
+GHSA-f6pf-4gjx-c94r,npm:openclaw,<2026.03.28,2026-09-04T05:42:17.866Z
+GHSA-f6pj-qv47-g96w,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.433Z
+GHSA-f7fh-qg34-x2xh,github:openclaw/openclaw,<2026.4.5,2026-09-03T03:35:59.117Z
+GHSA-f7fh-qg34-x2xh,npm:openclaw,<2026.4.5,2026-09-04T05:42:17.973Z
+GHSA-f7wf-v2vw-mpcx,github:mkreyman/mcp-memory-keeper,<0.13.0,2026-09-16T05:59:52.082Z
+GHSA-f7ww-2725-qvw2,github:openclaw/openclaw,<2026.2.26,2026-09-03T03:35:40.132Z
+GHSA-f7ww-2725-qvw2,npm:openclaw,<2026.2.26,2026-09-04T05:42:18.135Z
+GHSA-f8mp-vj46-cq8v,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.190Z
+GHSA-f8mp-vj46-cq8v,npm:openclaw,<2026.2.22,2026-09-03T03:48:20.683Z
+GHSA-f8r2-vg7x-gh8m,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:46.461Z
+GHSA-f8r2-vg7x-gh8m,npm:openclaw,<2026.3.11,2026-09-04T05:42:18.330Z
+GHSA-f92m-jpv7-55p2,github:danny-avila/librechat,">= 0.8.2-rc2, < 0.8.3-rc1",2026-09-03T03:35:01.108Z
+GHSA-f934-5rqf-xx47,github:openclaw/openclaw,<2026.4.15,2026-09-03T03:35:59.134Z
+GHSA-f934-5rqf-xx47,npm:openclaw,<2026.4.15,2026-09-04T05:42:18.431Z
+GHSA-f9ff-5x35-7gfw,npm:@grackle-ai/mcp,<=0.132.1,2026-09-16T05:58:50.872Z
+GHSA-fc26-m9pf-v56q,pypi:praisonai,>=4.6.56 <4.6.59,2026-09-27T12:06:05.131Z
+GHSA-fccx-2pwj-hrq7,npm:flowise,<=1.4.3,2026-09-04T05:43:37.503Z
+GHSA-fcvx-5cxc-v5p8,github:openclaw/openclaw,<2026.5.12,2026-09-03T03:36:06.313Z
+GHSA-fcvx-5cxc-v5p8,npm:openclaw,<2026.5.12,2026-09-04T05:42:18.537Z
+GHSA-ff64-7w26-62rf,github:anthropics/claude-code,<2.1.2,2026-09-03T03:35:26.375Z
+GHSA-ff98-w8hj-qrxf,npm:openclaw,<2026.2.19,2026-09-04T05:42:18.725Z
+GHSA-ffp3-3562-8cv3,pypi:praisonaiagents,<4.5.128,2026-09-28T05:59:31.800Z
+GHSA-fg3m-vhrr-8gj6,github:openclaw/openclaw,>=2026.1.21 <2026.2.19,2026-09-03T03:35:40.152Z
+GHSA-fg3m-vhrr-8gj6,npm:openclaw,>=2026.1.21 <2026.2.19,2026-09-04T05:42:18.826Z
+GHSA-fg94-h982-f3mm,github:anthropics/claude-code,">= 0.2.54, < 2.1.163",2026-09-03T03:35:26.389Z
+GHSA-fgvx-58p6-gjwc,github:openclaw/openclaw,<2026.2.25,2026-09-03T03:35:40.170Z
+GHSA-fgvx-58p6-gjwc,npm:openclaw,<2026.2.25,2026-09-04T05:42:18.925Z
+GHSA-fh32-73r9-rgh5,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:35:52.374Z
+GHSA-fh32-73r9-rgh5,npm:openclaw,<2026.4.2,2026-09-04T05:42:19.018Z
+GHSA-fh38-965w-f6c3,github:openclaw/openclaw,>=2026.3.22 <2026.6.6,2026-09-03T03:36:06.358Z
+GHSA-fh3f-q9qw-93j9,github:openclaw/openclaw,<2026.2.15,2026-09-03T03:35:33.821Z
+GHSA-fh3f-q9qw-93j9,npm:openclaw,<2026.2.15,2026-09-04T05:42:19.131Z
+GHSA-fh3r-g96v-f578,github:arikusi/deepseek-mcp-server,">= 1.4.2, < 1.7.0",2026-09-03T03:35:13.328Z
+GHSA-fh3r-g96v-f578,npm:@arikusi/deepseek-mcp-server,>=1.4.2 <1.7.0,2026-09-03T03:22:32.271Z
+GHSA-fh8v-vgcv-pwh4,github:openclaw/openclaw,>=2026.5.12 <2026.5.26,2026-09-03T03:36:06.392Z
+GHSA-fhq6-jf5q-qxvq,github:restdb/codehooks-mcp-server,<0.2.2,2026-09-03T03:35:01.050Z
+GHSA-fhvm-j76f-qmjv,github:openclaw/openclaw,<2026.2.2,2026-09-03T03:35:33.803Z
+GHSA-fhvm-j76f-qmjv,npm:openclaw,<2026.2.1,2026-09-04T05:42:19.228Z
+GHSA-fj4g-2p96-q6m3,npm:network-ai,<5.1.3,2026-09-21T05:58:53.692Z
+GHSA-fm2f-4339-4p2f,npm:flowise,<3.1.3,2026-09-03T03:37:56.620Z
+GHSA-fm8p-53ww-hf6w,github:bytebase/dbhub,<0.22.5,2026-09-25T06:00:36.113Z
+GHSA-fm8p-53ww-hf6w,npm:@bytebase/dbhub,<0.22.5,2026-09-27T12:05:56.388Z
+GHSA-fmfg-9g7c-3vq7,github:homeassistant-ai/ha-mcp,<7.0.0,2026-09-03T03:35:01.102Z
+GHSA-fmfg-9g7c-3vq7,pypi:ha-mcp,<7.0.0,2026-09-27T12:05:52.987Z
+GHSA-fphf-69cp-h5xw,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:30.923Z
+GHSA-fq2m-6wqh-x44g,pypi:praisonai,<4.6.59,2026-09-27T12:06:05.256Z
+GHSA-fq9j-vw4w-fr6v,github:openclaw/openclaw,<2026.5.2,2026-09-03T03:36:06.297Z
+GHSA-fq9j-vw4w-fr6v,npm:openclaw,<2026.5.2,2026-09-04T05:42:19.312Z
+GHSA-fqcm-97m6-w7rm,github:openclaw/openclaw,<2026.2.24,2026-09-03T03:35:40.127Z
+GHSA-fqcm-97m6-w7rm,npm:openclaw,<2026.2.24,2026-09-04T05:42:19.430Z
+GHSA-fqgj-m2gp-mr3q,github:rtk-ai/rtk,1.0.0,2026-09-03T03:36:06.339Z
+GHSA-fqrj-m88p-qf3v,github:openclaw/openclaw,>=2026.2.19 <2026.3.31,2026-09-03T03:35:52.360Z
+GHSA-fqrj-m88p-qf3v,npm:openclaw,>=2026.2.19 <2026.3.31,2026-09-04T05:42:19.519Z
+GHSA-fqw4-mph7-2vr8,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.525Z
+GHSA-fqw4-mph7-2vr8,npm:openclaw,<=2026.3.24,2026-09-04T05:42:19.680Z
+GHSA-fr6g-7cq8-fg82,npm:flowise,<3.1.3,2026-09-03T03:37:56.627Z
+GHSA-frv4-982x-mv7m,pypi:scrapetools2,>=1.2.1 <=1.2.1 || >=1.2.0 <=1.2.0 || >=0.2.0 <=0.2.0 || >=0.2.1 <=0.2.1,2026-09-28T06:02:26.815Z
+GHSA-fv94-qvg8-xqpw,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.363Z
+GHSA-fv94-qvg8-xqpw,npm:openclaw,<2026.3.31,2026-09-04T05:42:19.871Z
+GHSA-fvcw-9w9r-pxc7,npm:flowise,<3.0.13,2026-09-03T03:37:56.736Z
+GHSA-fvcw-9w9r-pxc7,npm:flowise-components,<3.0.13,2026-09-03T03:37:56.736Z
+GHSA-fvx6-pj3r-5q4q,github:openclaw/openclaw,<8aceaf5d0f0ec552b75a792f7f0a3bfa5b091513,2026-09-03T03:35:46.512Z
+GHSA-fvx6-pj3r-5q4q,npm:openclaw,<2026.4.2,2026-09-04T05:42:19.963Z
+GHSA-fvxr-9g24-x3hf,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.374Z
+GHSA-fvxx-ggmx-3cjg,pypi:praisonai,<4.5.128,2026-09-27T12:06:05.388Z
+GHSA-fw6q-2frm-jxxr,github:openclaw/openclaw,>=2026.3.25 <2026.8.1,2026-09-26T06:00:31.320Z
+GHSA-fwgr-fpv9-vf5x,github:openclaw/openclaw,>=2026.4.20 <2026.5.28,2026-09-03T03:36:06.385Z
+GHSA-fwjq-xwfj-gv75,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.344Z
+GHSA-fwjq-xwfj-gv75,npm:openclaw,<2026.3.31,2026-09-04T05:42:20.066Z
+GHSA-g24w-m94m-59qc,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:30.900Z
+GHSA-g27f-9qjv-22pm,npm:openclaw,<2026.2.13,2026-09-04T05:42:20.168Z
+GHSA-g2f6-pwvx-r275,github:openclaw/openclaw,<2026.3.13,2026-09-03T03:35:46.484Z
+GHSA-g2f6-pwvx-r275,npm:openclaw,<2026.3.13,2026-09-04T05:42:20.270Z
+GHSA-g2gw-q38m-vjfc,github:merill/lokka,<2.1.2,2026-09-16T05:59:45.526Z
+GHSA-g2gw-q38m-vjfc,npm:@merill/lokka,<2.1.2,2026-09-27T12:05:52.885Z
+GHSA-g2hm-779g-vm32,github:openclaw/openclaw,>=2026.4.7 <2026.4.14,2026-09-03T03:35:59.101Z
+GHSA-g2hm-779g-vm32,npm:openclaw,>=2026.4.7 <2026.4.14,2026-09-04T05:42:20.375Z
+GHSA-g2jx-37x6-6438,github:arcadeai/arcade-mcp,<1.5.4,2026-09-03T03:35:01.085Z
+GHSA-g2r2-3j32-j27x,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.585Z
+GHSA-g32j-mmxr-gfq5,npm:flowise,<3.1.3,2026-09-03T03:37:56.661Z
+GHSA-g32j-mmxr-gfq5,npm:flowise-components,<3.1.3,2026-09-03T03:37:56.661Z
+GHSA-g34w-4xqq-h79m,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.773Z
+GHSA-g34w-4xqq-h79m,npm:clawdbot,<2026.2.14,2026-09-04T05:42:20.528Z
+GHSA-g34w-4xqq-h79m,npm:openclaw,<2026.2.14,2026-09-04T05:42:20.525Z
+GHSA-g353-mgv3-8pcj,github:openclaw/openclaw,<2026.3.12,2026-09-03T03:35:46.463Z
+GHSA-g353-mgv3-8pcj,npm:openclaw,<2026.3.12,2026-09-04T05:42:20.725Z
+GHSA-g374-mggx-p6xc,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.412Z
+GHSA-g374-mggx-p6xc,npm:openclaw,<2026.3.31,2026-09-04T05:42:20.818Z
+GHSA-g375-h3v6-4873,github:openclaw/openclaw,>=2026.3.31 <2026.4.10,2026-09-03T03:35:59.119Z
+GHSA-g375-h3v6-4873,npm:openclaw,>=2026.3.31 <2026.4.10,2026-09-04T05:42:20.903Z
+GHSA-g39v-cvjh-8fpf,pypi:ha-mcp,<7.5.0,2026-09-27T12:05:53.098Z
+GHSA-g3jp-jj55-jrcr,github:openclaw/clawhub,<8c2de6c506bb4efabe3f0c2ffb8370b9e23d4650,2026-09-27T12:07:17.895Z
+GHSA-g3xq-3gmv-qq8g,github:cnighswonger/claude-code-cache-fix,">= 3.5.0, < 3.5.2",2026-09-03T03:35:26.387Z
+GHSA-g55j-c2v4-pjcg,github:openclaw/openclaw,<2026.1.20,2026-09-03T03:35:33.755Z
+GHSA-g55j-c2v4-pjcg,npm:openclaw,<2026.1.20,2026-09-04T05:42:21.009Z
+GHSA-g5cg-6c7v-mmpw,github:yuna0x0/hackmd-mcp,">= 1.4.0, < 1.5.0",2026-09-03T03:34:54.038Z
+GHSA-g5cg-6c7v-mmpw,npm:hackmd-mcp,>=1.4.0 <1.5.0,2026-09-03T03:31:47.709Z
+GHSA-g5cg-8x5w-7jpm,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.305Z
+GHSA-g5cg-8x5w-7jpm,npm:openclaw,<2026.3.31,2026-09-04T05:42:21.148Z
+GHSA-g5r6-gv6m-f5jv,github:sooperset/mcp-atlassian,<0.22.0,2026-09-03T03:34:54.088Z
+GHSA-g5xv-mhgm-v5f6,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.289Z
+GHSA-g697-vv6h-r8hv,github:openclaw/openclaw,>=2026.5.12 <2026.8.1,2026-09-26T06:00:31.125Z
+GHSA-g6q9-8fvw-f7rf,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.766Z
+GHSA-g6q9-8fvw-f7rf,npm:openclaw,<2026.2.14,2026-09-04T05:42:21.270Z
+GHSA-g75x-8qqm-2vxp,github:openclaw/openclaw,>=2026.1.21 <2026.2.19,2026-09-03T03:35:40.172Z
+GHSA-g75x-8qqm-2vxp,npm:openclaw,>=2026.1.21 <2026.2.19,2026-09-04T05:42:21.362Z
+GHSA-g7cr-9h7q-4qxq,github:openclaw/openclaw,<2026.3.8,2026-09-03T03:35:46.499Z
+GHSA-g7cr-9h7q-4qxq,npm:openclaw,<2026.3.8,2026-09-04T05:42:21.478Z
+GHSA-g86v-f9qv-rh6m,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.359Z
+GHSA-g86v-f9qv-rh6m,npm:openclaw,<2026.3.28,2026-09-04T05:42:21.556Z
+GHSA-g8p2-7wf7-98mq,github:openclaw/openclaw,<2026.1.29,2026-09-03T03:35:33.747Z
+GHSA-g8p2-7wf7-98mq,npm:clawdbot,<2026.1.29,2026-09-05T05:41:21.179Z
+GHSA-g8r9-g2v8-jv6f,github:github/copilot-cli,<= 0.0.422,2026-09-03T03:35:01.100Z
+GHSA-g8xp-qx39-9jq9,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.375Z
+GHSA-g8xp-qx39-9jq9,npm:openclaw,<2026.3.31,2026-09-04T05:42:21.669Z
+GHSA-g985-wjh9-qxxc,pypi:praisonai,<4.5.139,2026-09-27T12:06:05.564Z
+GHSA-g985-wjh9-qxxc,pypi:praisonaiagents,<1.5.140,2026-09-27T12:06:05.562Z
+GHSA-g99v-8hwm-g76g,github:openclaw/openclaw,<2026.3.1,2026-09-03T03:35:40.145Z
+GHSA-g99v-8hwm-g76g,npm:openclaw,<2026.3.1,2026-09-04T05:42:21.786Z
+GHSA-g9hg-qhmf-q45m,github:modelcontextprotocol/inspector,<0.16.6,2026-09-03T03:35:01.065Z
+GHSA-g9hg-qhmf-q45m,npm:@modelcontextprotocol/inspector,<0.16.6,2026-09-04T05:41:39.398Z
+GHSA-g9rg-8vq5-mpwm,pypi:mcp-memory-service,<10.25.1,2026-09-30T06:42:16.220Z
+GHSA-gc2j-wpjv-jhrw,npm:sublinear-time-solver,<=1.5.0,2026-09-12T06:10:58.627Z
+GHSA-gc9r-867r-j85f,github:openclaw/openclaw,>=2026.4.10 <2026.4.14,2026-09-03T03:35:59.111Z
+GHSA-gc9r-867r-j85f,npm:openclaw,>=2026.4.10 <2026.4.14,2026-09-04T05:42:21.902Z
+GHSA-gcj7-r3hg-m7w6,npm:openclaw,<2026.2.26,2026-09-04T05:42:22.006Z
+GHSA-gcm4-fmcp-2f9r,github:openclaw/openclaw,<2026.8.11,2026-09-26T06:00:31.423Z
+GHSA-gcq3-mfvh-3x25,pypi:praisonai,<4.6.59,2026-09-27T12:06:05.679Z
+GHSA-gcrq-f296-2j74,github:arc53/docsgpt,">= 0.15.0, < 0.16.0",2026-09-03T03:50:00.276Z
+GHSA-gfg9-5357-hv4c,github:openclaw/openclaw,<2026.4.15,2026-09-03T03:35:59.149Z
+GHSA-gfg9-5357-hv4c,npm:openclaw,<2026.4.15,2026-09-04T05:42:22.098Z
+GHSA-gfmx-pph7-g46x,npm:openclaw,<2026.4.8,2026-09-04T05:42:22.216Z
+GHSA-gfq8-hmph-9gjv,pypi:praisonai,<4.6.58,2026-09-27T12:06:05.798Z
+GHSA-gg5m-55jj-8m5g,github:getzep/graphiti,<0.28.2,2026-09-03T03:35:01.104Z
+GHSA-gg9v-mgcp-v6m7,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:52.392Z
+GHSA-gg9v-mgcp-v6m7,npm:openclaw,<2026.3.22,2026-09-04T05:42:22.315Z
+GHSA-ghpx-6xwq-2w4w,github:openclaw/openclaw,>=2026.3.22 <2026.8.1,2026-09-26T06:00:31.205Z
+GHSA-gj9q-8w99-mp8j,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.090Z
+GHSA-gj9q-8w99-mp8j,npm:openclaw,<2026.4.10,2026-09-04T05:42:22.415Z
+GHSA-gjm7-hw8f-73rq,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.382Z
+GHSA-gjm7-hw8f-73rq,npm:openclaw,<2026.3.31,2026-09-04T05:42:22.511Z
+GHSA-gjp6-9cvg-8w93,github:cherryhq/cherry-studio,= 1.5.1,2026-09-03T03:35:01.061Z
+GHSA-gjv4-ghm7-q58q,github:flux159/mcp-server-kubernetes,<2.5.0,2026-09-03T03:35:01.054Z
+GHSA-gjv4-ghm7-q58q,npm:mcp-server-kubernetes,<2.5.0,2026-09-20T08:35:52.363Z
+GHSA-gjx9-wg9x-7gvp,npm:flowise-components,<2.2.4,2026-09-04T05:43:29.301Z
+GHSA-gmjg-hv98-qggq,pypi:praisonai,<4.6.37,2026-09-27T12:06:05.947Z
+GHSA-gmjg-hv98-qggq,pypi:praisonaiagents,<1.6.37,2026-09-27T12:06:05.944Z
+GHSA-gmmw-qg98-6j6p,npm:flowise,<3.1.3,2026-09-03T03:37:56.615Z
+GHSA-gp3q-wpq4-5c5h,npm:openclaw,<2026.2.26,2026-09-04T05:42:22.636Z
+GHSA-gp79-m99v-gjmh,github:openclaw/openclaw,<2026.5.6,2026-09-03T03:36:06.289Z
+GHSA-gp79-m99v-gjmh,npm:openclaw,<2026.5.6,2026-09-04T05:42:22.717Z
+GHSA-gq83-8q7q-9hfx,github:openclaw/openclaw,<2026.2.19,2026-09-03T03:35:40.175Z
+GHSA-gq83-8q7q-9hfx,npm:openclaw,<2026.2.19,2026-09-04T05:42:22.828Z
+GHSA-gq9c-wg68-gwj2,github:openclaw/openclaw,<2026.2.13,2026-09-03T03:35:33.807Z
+GHSA-gq9c-wg68-gwj2,npm:openclaw,<2026.2.13,2026-09-04T05:42:22.934Z
+GHSA-grc3-2j34-p6gm,github:openclaw/openclaw,<2026.5.2,2026-09-03T03:35:59.201Z
+GHSA-grc3-2j34-p6gm,npm:openclaw,<2026.5.2,2026-09-04T05:42:23.018Z
+GHSA-grrg-5cg9-58pf,pypi:praisonaiagents,<1.5.128,2026-09-28T05:59:32.179Z
+GHSA-gv46-4xfq-jv58,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.810Z
+GHSA-gv46-4xfq-jv58,npm:openclaw,<2026.2.14,2026-09-04T05:42:23.152Z
+GHSA-gv8f-wpm2-m5wr,github:siteboon/claudecodeui,<1.25.0,2026-09-03T03:35:26.379Z
+GHSA-gvpj-vm2f-2m23,github:danny-avila/librechat,<0.8.5,2026-09-03T03:35:07.931Z
+GHSA-gvpp-v77h-5w8g,github:cdeust/cortex,<3.17.1,2026-09-03T03:35:13.371Z
+GHSA-gw85-xp4q-5gp9,github:openclaw/openclaw,>=2026.2.22 <2026.2.24,2026-09-03T03:35:40.155Z
+GHSA-gw85-xp4q-5gp9,npm:openclaw,>=2026.2.22 <2026.2.24,2026-09-04T05:42:23.255Z
+GHSA-gwqp-86q6-w47g,github:openclaw/openclaw,<2026.2.23,2026-09-03T03:35:33.840Z
+GHSA-gwqp-86q6-w47g,npm:openclaw,<2026.2.23,2026-09-04T05:42:23.340Z
+GHSA-gxg4-2rrr-jhc7,github:openclaw/openclaw,<2026.5.26,2026-09-03T03:36:06.326Z
+GHSA-gxg4-2rrr-jhc7,npm:openclaw,<2026.5.26,2026-09-04T05:42:23.435Z
+GHSA-gxmw-5f7x-6g22,pypi:praisonaiagents,<1.6.58,2026-09-28T05:59:32.387Z
+GHSA-gxw4-4fc5-9gr5,npm:figma-developer-mcp,<0.6.3,2026-09-04T05:41:40.737Z
+GHSA-h2v7-xc88-xx8c,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.378Z
+GHSA-h2v7-xc88-xx8c,npm:openclaw,<2026.3.28,2026-09-04T05:42:23.557Z
+GHSA-h2vw-ph2c-jvwf,github:openclaw/openclaw,>=2026.4.5 <2026.4.20,2026-09-03T03:35:59.145Z
+GHSA-h2vw-ph2c-jvwf,npm:openclaw,>=2026.4.5 <2026.4.20,2026-09-04T05:42:23.628Z
+GHSA-h3f9-mjwj-w476,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.770Z
+GHSA-h3f9-mjwj-w476,npm:openclaw,<2026.2.14,2026-09-04T05:42:23.774Z
+GHSA-h3rm-6x7g-882f,github:openclaw/openclaw,>=2026.3.1 <2026.3.2,2026-09-03T03:35:40.143Z
+GHSA-h3rm-6x7g-882f,npm:openclaw,>=2026.3.1 <2026.3.2,2026-09-04T05:42:23.873Z
+GHSA-h3x4-hc5v-v2gm,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.511Z
+GHSA-h3x4-hc5v-v2gm,npm:openclaw,<2026.3.22,2026-09-04T05:42:23.962Z
+GHSA-h42x-xx2q-6v6g,npm:flowise,<=2.2.7,2026-09-04T05:43:37.916Z
+GHSA-h43v-27wg-5mf9,github:openclaw/openclaw,>=2026.3.22 <2026.3.31,2026-09-03T03:35:52.298Z
+GHSA-h43v-27wg-5mf9,npm:openclaw,>=2026.3.22 <2026.3.31,2026-09-04T05:42:24.102Z
+GHSA-h44j-f5r5-ph73,github:n8n-io/n8n,<2.27.4,2026-09-03T03:35:13.326Z
+GHSA-h4jx-hjr3-fhgc,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.546Z
+GHSA-h4jx-hjr3-fhgc,npm:openclaw,<2026.3.28,2026-09-04T05:42:24.231Z
+GHSA-h4w9-g9c5-vfwq,github:akutishevsky/sf-mcp-server,<1.0.3,2026-09-03T03:35:01.097Z
+GHSA-h5hg-h7rr-gpf3,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:52.348Z
+GHSA-h5hg-h7rr-gpf3,npm:openclaw,<2026.3.22,2026-09-04T05:42:24.335Z
+GHSA-h656-5vcf-cm23,npm:openclaw,<2026.2.24,2026-09-04T05:42:24.471Z
+GHSA-h669-8m4g-r2hc,github:modelcontextprotocol/ruby-sdk,<0.23.0,2026-09-03T03:34:54.085Z
+GHSA-h6c2-x2m2-mwhf,github:0xjacky/nginx-ui,<= 2.3.5,2026-09-03T03:35:01.110Z
+GHSA-h7f7-89mm-pqh6,github:openclaw/openclaw,<2026.2.15,2026-09-03T03:35:33.782Z
+GHSA-h7f7-89mm-pqh6,npm:openclaw,<2026.2.15,2026-09-04T05:42:24.564Z
+GHSA-h7wj-5v37-59r2,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.575Z
+GHSA-h89v-j3x9-8wqj,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.801Z
+GHSA-h89v-j3x9-8wqj,npm:clawdbot,<=2026.1.24-3,2026-09-04T05:42:24.679Z
+GHSA-h89v-j3x9-8wqj,npm:openclaw,<2026.2.14,2026-09-04T05:42:24.677Z
+GHSA-h97f-6pqj-q452,npm:openclaw,<2026.2.25,2026-09-04T05:42:24.799Z
+GHSA-h997-3fxj-p5j8,npm:flowise,<=1.4.3,2026-09-04T05:43:38.048Z
+GHSA-h9f9-h6gm-wc85,pypi:flyto-core,>=2.26.2 <2.26.4,2026-09-27T12:05:54.131Z
+GHSA-h9g4-589h-68xv,github:openclaw/openclaw,>=2026.1.29-beta.1 <2026.2.14,2026-09-03T03:35:33.812Z
+GHSA-h9g4-589h-68xv,npm:openclaw,>=2026.1.29-beta.1 <2026.2.14,2026-09-04T05:42:24.921Z
+GHSA-h9jh-75j7-7hhx,github:openclaw/openclaw,>=2026.6.9 <2026.8.1,2026-09-26T06:00:31.114Z
+GHSA-h9xm-j4qg-fvpg,github:openclaw/openclaw,<2026.2.23,2026-09-03T03:35:40.165Z
+GHSA-h9xm-j4qg-fvpg,npm:openclaw,<2026.2.23,2026-09-04T05:42:25.052Z
+GHSA-hc55-p739-j48w,github:modelcontextprotocol/servers,<0.6.4 || <2025.7.01,2026-09-03T03:34:54.027Z
+GHSA-hc55-p739-j48w,npm:@modelcontextprotocol/server-filesystem,<=0.6.2 || >=2025.1.14 <2025.7.1,2026-09-04T05:41:39.086Z
+GHSA-hc5h-pmr3-3497,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:46.505Z
+GHSA-hc5h-pmr3-3497,npm:openclaw,<2026.3.28,2026-09-04T05:42:25.209Z
+GHSA-hc5v-gxvj-58wh,github:mervinpraison/praisonai,<4.6.78,2026-09-03T03:35:13.337Z
+GHSA-hcm3-8f6r-6xwg,github:openclaw/openclaw,<2026.4.29,2026-09-03T03:35:59.169Z
+GHSA-hcm3-8f6r-6xwg,npm:openclaw,<2026.4.29,2026-09-04T05:42:25.288Z
+GHSA-hf68-49fm-59cq,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.541Z
+GHSA-hf68-49fm-59cq,npm:openclaw,<2026.3.22,2026-09-04T05:42:25.406Z
+GHSA-hff7-ccv5-52f8,github:openclaw/openclaw,<2026.2.21,2026-09-03T03:35:40.205Z
+GHSA-hff7-ccv5-52f8,npm:openclaw,<2026.2.21,2026-09-04T05:42:25.543Z
+GHSA-hfpr-jhpq-x4rm,npm:openclaw,<2026.3.7,2026-09-04T05:42:25.658Z
+GHSA-hgcf-4mq8-5266,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.407Z
+GHSA-hhff-fj5f-qg48,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.376Z
+GHSA-hhff-fj5f-qg48,npm:openclaw,<2026.3.31,2026-09-04T05:42:25.963Z
+GHSA-hhq4-97c2-p447,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.410Z
+GHSA-hhq4-97c2-p447,npm:openclaw,<2026.3.31,2026-09-04T05:42:26.054Z
+GHSA-hjr6-g723-hmfm,github:openclaw/openclaw,<2026.6.6,2026-09-03T03:36:06.362Z
+GHSA-hjvp-qhm6-wrh2,github:openclaw/openclaw,<2026.2.26,2026-09-03T03:35:40.219Z
+GHSA-hjvp-qhm6-wrh2,npm:openclaw,<2026.2.26,2026-09-04T05:42:26.153Z
+GHSA-hjwh-xvfw-qrwj,npm:mcp-searxng,<1.12.0,2026-09-04T05:41:41.523Z
+GHSA-hmfx-4v44-9qw9,pypi:praisonai,<4.6.58,2026-09-27T12:06:06.056Z
+GHSA-hmg2-jjjx-jcp2,npm:flowise,<3.1.2,2026-09-03T03:37:56.679Z
+GHSA-hmgh-466j-fx4c,npm:flowise,<=2.2.7-patch.1,2026-09-03T03:37:56.757Z
+GHSA-hp26-q66v-q2w7,npm:flowise,<3.1.2,2026-09-03T03:37:56.684Z
+GHSA-hpg5-cq3m-phqp,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.275Z
+GHSA-hpqj-7cj6-hfj8,npm:snyk,<1.996.0,2026-09-03T03:31:21.102Z
+GHSA-hr5v-j9h9-xjhg,github:openclaw/openclaw,<2026.3.24,2026-09-03T03:35:46.580Z
+GHSA-hr5v-j9h9-xjhg,npm:openclaw,<2026.3.24,2026-09-04T05:42:26.271Z
+GHSA-hr7p-wg7r-hg9m,pypi:flyto-core,<2.26.7,2026-09-27T12:05:54.316Z
+GHSA-hr8g-2q7x-3f4w,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.320Z
+GHSA-hr8g-2q7x-3f4w,npm:openclaw,<2026.3.31,2026-09-04T05:42:26.375Z
+GHSA-hr92-4q35-4j3m,npm:flowise,>=3.0.5 <3.0.6,2026-09-03T03:37:56.767Z
+GHSA-hv2w-8mjj-jw22,github:modelcontextprotocol/java-sdk,<0.18.3,2026-09-03T03:34:54.057Z
+GHSA-hv93-r4j3-q65f,npm:openclaw,>=2.0.0-beta3 <2026.2.12,2026-09-04T05:42:26.454Z
+GHSA-hvhp-v2gc-268q,pypi:praisonai,<4.6.40,2026-09-27T12:06:06.187Z
+GHSA-hvrp-rf83-w775,github:modelcontextprotocol/python-sdk,">= 1.23.0, < 1.27.2",2026-09-03T03:34:54.076Z
+GHSA-hw9r-h9mr-4jff,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:35:59.170Z
+GHSA-hw9r-h9mr-4jff,npm:openclaw,<2026.5.18,2026-09-04T05:42:26.566Z
+GHSA-hwg5-x759-7wjg,pypi:praisonai,<4.5.115,2026-09-27T12:06:06.349Z
+GHSA-hwhg-mrjc-8g43,github:jimprosser/obsidian-web-mcp,<0.2.0,2026-09-18T06:00:10.039Z
+GHSA-hwpp-h97w-2h3j,github:yamadashy/repomix,<1.14.1,2026-09-03T03:35:13.340Z
+GHSA-hwpq-rrpf-pgcq,github:openclaw/openclaw,<2026.2.25,2026-09-03T03:35:40.221Z
+GHSA-hwpq-rrpf-pgcq,npm:openclaw,<2026.2.25,2026-09-04T05:42:26.691Z
+GHSA-hx85-fgcw-9vrc,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:36:06.395Z
+GHSA-hxf9-rvj5-h45h,pypi:memoryos,>=2.0.34 <=2.0.34,2026-09-24T05:59:34.242Z
+GHSA-hxmv-c4g6-5fqc,pypi:praisonai,>=3.9.26 <4.6.58,2026-09-27T12:06:06.481Z
+GHSA-hxmv-c4g6-5fqc,pypi:praisonaiagents,>=0.12.12 <1.6.58,2026-09-27T12:06:06.479Z
+GHSA-hxpf-9xvq-wph8,pypi:netlicensing-mcp,<0.1.8,2026-09-27T12:06:20.504Z
+GHSA-hxvm-xjvf-93f3,github:openclaw/openclaw,<2026.4.20,2026-09-03T03:35:59.138Z
+GHSA-hxvm-xjvf-93f3,npm:openclaw,<2026.4.20,2026-09-04T05:42:26.793Z
+GHSA-j22h-9j4x-23w5,github:modelcontextprotocol/servers,<2025.12.17,2026-09-03T03:35:01.088Z
+GHSA-j22h-9j4x-23w5,pypi:mcp-server-git,<2025.12.18,2026-09-03T03:48:19.521Z
+GHSA-j26j-7qc4-3mrf,npm:openclaw,<2026.2.25,2026-09-04T05:42:26.905Z
+GHSA-j27p-hq53-9wgc,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.826Z
+GHSA-j27p-hq53-9wgc,npm:openclaw,<2026.2.14,2026-09-04T05:42:27.058Z
+GHSA-j3vx-cx2r-pvg8,npm:network-ai,<5.4.5,2026-09-20T08:35:52.571Z
+GHSA-j425-whc4-4jgc,npm:openclaw,<2026.3.7,2026-09-04T05:42:27.168Z
+GHSA-j44m-5v8f-gc9c,npm:flowise,<3.0.8,2026-09-03T03:37:56.752Z
+GHSA-j44m-5v8f-gc9c,npm:flowise-components,<3.0.8,2026-09-03T03:37:56.752Z
+GHSA-j472-gf56-x589,github:openclaw/openclaw,<2026.5.12,2026-09-03T03:36:06.286Z
+GHSA-j472-gf56-x589,npm:openclaw,<2026.5.12,2026-09-04T05:42:27.247Z
+GHSA-j4c5-89f5-f3pm,github:openclaw/openclaw,<2026.4.20,2026-09-03T03:35:59.155Z
+GHSA-j4c5-89f5-f3pm,npm:openclaw,<2026.4.20,2026-09-04T05:42:27.479Z
+GHSA-j4c9-w69r-cw33,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.572Z
+GHSA-j4c9-w69r-cw33,npm:openclaw,<2026.3.28,2026-09-04T05:42:27.581Z
+GHSA-j4cx-jvq7-79vm,github:openclaw/openclaw,<2026.6.1,2026-09-03T03:36:06.378Z
+GHSA-j4h9-wv2m-wrf7,github:anthropics/claude-code,<1.0.105,2026-09-03T03:35:26.357Z
+GHSA-j4hj-7hfh-g2f4,pypi:praisonai,<4.6.59,2026-09-27T12:06:06.614Z
+GHSA-j4mm-p864-vx7f,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.217Z
+GHSA-j4r7-8ph4-43g3,npm:faf-mcp,<2.1.3,2026-09-22T05:58:21.309Z
+GHSA-j4xf-96qf-rx69,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.178Z
+GHSA-j4xf-96qf-rx69,npm:openclaw,<2026.2.22,2026-09-04T05:42:27.666Z
+GHSA-j6c7-3h5x-99g9,github:openclaw/openclaw,>=2026.2.22 <2026.4.12,2026-09-03T03:35:59.076Z
+GHSA-j6c7-3h5x-99g9,npm:openclaw,>=2026.2.22 <2026.4.12,2026-09-04T05:42:27.787Z
+GHSA-j6r7-6fhx-77wx,github:czlonkowski/n8n-mcp,<2.56.1,2026-09-03T03:35:13.342Z
+GHSA-j6r7-6fhx-77wx,npm:n8n-mcp,<2.56.1,2026-09-04T05:41:40.313Z
+GHSA-j7h9-2jh7-g967,npm:mcp-ssh-tool,<2.1.1,2026-09-27T12:05:52.383Z
+GHSA-j7p2-qcwm-94v4,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:52.393Z
+GHSA-j7p2-qcwm-94v4,npm:openclaw,<2026.3.22,2026-09-04T05:42:27.885Z
+GHSA-j7qx-p75m-wp7g,pypi:praisonai,>=3.8.1 <4.6.59,2026-09-27T12:06:06.761Z
+GHSA-j8g8-j7fc-43v6,npm:flowise,<3.0.13,2026-09-03T03:37:56.742Z
+GHSA-j975-95f5-7wqh,github:modelcontextprotocol/python-sdk,<1.10.0,2026-09-03T03:34:54.028Z
+GHSA-j98m-w3xp-9f56,github:haris-musa/excel-mcp-server,<0.1.8,2026-09-03T03:34:54.068Z
+GHSA-j98m-w3xp-9f56,pypi:excel-mcp-server,<0.1.8,2026-09-28T13:23:18.794Z
+GHSA-j99q-93c9-h869,github:bitbonsai/mcpvault,<0.11.4,2026-09-16T05:59:45.560Z
+GHSA-j9hg-hmwf-9qx7,npm:@browserbasehq/mcp,*,2026-09-30T06:42:17.899Z
+GHSA-j9pv-rrcj-6pfx,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.354Z
+GHSA-j9pv-rrcj-6pfx,npm:openclaw,<2026.3.31,2026-09-04T05:42:27.963Z
+GHSA-jc5m-wrp2-qq38,npm:flowise,<3.0.13,2026-09-03T03:37:56.744Z
+GHSA-jccr-rrw2-vc8h,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.368Z
+GHSA-jccr-rrw2-vc8h,npm:openclaw,<2026.3.28,2026-09-04T05:42:28.059Z
+GHSA-jf25-7968-h2h5,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.103Z
+GHSA-jf25-7968-h2h5,npm:openclaw,<2026.4.10,2026-09-04T05:42:28.188Z
+GHSA-jf56-mccx-5f3f,npm:openclaw,<2026.4.8,2026-09-04T05:42:28.287Z
+GHSA-jf6w-m8jw-jfxc,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:40.236Z
+GHSA-jf6w-m8jw-jfxc,npm:openclaw,<2026.3.11,2026-09-04T05:42:28.361Z
+GHSA-jfv4-h8mc-jcp8,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.785Z
+GHSA-jfv4-h8mc-jcp8,npm:openclaw,<2026.2.14,2026-09-04T05:42:28.490Z
+GHSA-jfxc-v5g9-38xr,pypi:praisonai,<4.5.113,2026-09-27T12:06:06.928Z
+GHSA-jgh3-fggc-mcpm,github:obot-platform/obot,<0.23.0,2026-09-28T06:02:36.259Z
+GHSA-jghr-xp78-995p,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.502Z
+GHSA-jh7p-qr78-84p7,github:anthropics/claude-code,<2.0.65,2026-09-03T03:35:26.367Z
+GHSA-jhfx-v2j8-x3m6,github:openclaw/openclaw,<2026.6.8,2026-09-03T03:36:06.343Z
+GHSA-jhpv-5j76-m56h,github:openclaw/openclaw,>=2026.4.9 <2026.4.10,2026-09-03T03:35:59.081Z
+GHSA-jhpv-5j76-m56h,npm:openclaw,>=2026.4.9 <2026.4.10,2026-09-04T05:42:28.602Z
+GHSA-jj4w-pfgv-4mrm,github:obot-platform/obot,*,2026-09-28T06:02:36.279Z
+GHSA-jj54-r8gm-2fcf,github:dbt-labs/dbt-mcp,<1.17.1,2026-09-03T03:34:54.080Z
+GHSA-jj54-r8gm-2fcf,pypi:dbt-mcp,<1.17.1,2026-09-30T06:42:17.103Z
+GHSA-jj6q-rrrf-h66h,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:35:52.416Z
+GHSA-jj6q-rrrf-h66h,npm:openclaw,<2026.4.2,2026-09-04T05:42:28.703Z
+GHSA-jj82-76v6-933r,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.136Z
+GHSA-jj82-76v6-933r,npm:openclaw,<2026.2.22,2026-09-04T05:42:28.796Z
+GHSA-jjgj-cpp9-cvpv,npm:openclaw,<2026.2.21,2026-09-04T05:42:28.910Z
+GHSA-jjhp-8crj-mppq,github:roomi-fields/notebooklm-mcp,">= 1.6.0, < 2.0.3",2026-09-22T05:59:06.285Z
+GHSA-jjhp-8crj-mppq,npm:@roomi-fields/notebooklm-mcp,>=1.6.0 <2.0.3,2026-09-23T05:46:48.165Z
+GHSA-jjpc-p3xf-8g7p,github:openclaw/openclaw,>=2026.7.1 <2026.8.11,2026-09-26T06:00:31.092Z
+GHSA-jjw7-3vjf-fg5j,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.390Z
+GHSA-jjw7-3vjf-fg5j,npm:openclaw,<2026.3.31,2026-09-04T05:42:29.024Z
+GHSA-jmm5-fvh5-gf4p,github:openclaw/openclaw,<2026.2.12,2026-09-03T03:35:33.809Z
+GHSA-jmm5-fvh5-gf4p,npm:openclaw,<2026.2.12,2026-09-04T05:42:29.115Z
+GHSA-jmmg-jqc7-5qf4,github:openclaw/openclaw,<2026.2.25,2026-09-03T03:35:40.183Z
+GHSA-jmmg-jqc7-5qf4,npm:openclaw,<2026.2.25,2026-09-03T03:48:20.450Z
+GHSA-jp4j-q5fc-58gv,github:openclaw/openclaw,>=2026.2.14 <2026.3.28,2026-09-03T03:35:52.367Z
+GHSA-jp4j-q5fc-58gv,npm:openclaw,>=2026.2.14 <2026.3.28,2026-09-04T05:42:29.302Z
+GHSA-jpcj-7wfg-mqxv,pypi:stata-mcp,<1.13.0,2026-09-27T12:05:57.644Z
+GHSA-jpw9-pfvf-9f58,github:modelcontextprotocol/python-sdk,<1.27.2,2026-09-03T03:34:54.076Z
+GHSA-jq3f-vjww-8rq7,github:openclaw/openclaw,<2026.3.13,2026-09-03T03:35:46.471Z
+GHSA-jq3f-vjww-8rq7,npm:openclaw,<2026.3.13,2026-09-04T05:42:29.430Z
+GHSA-jq4x-98m3-ggq6,github:openclaw/openclaw,openclaw 2026.2.17,2026-09-03T03:35:46.583Z
+GHSA-jq4x-98m3-ggq6,npm:openclaw,<2026.2.21,2026-09-04T05:42:29.564Z
+GHSA-jqpq-mgvm-f9r6,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.827Z
+GHSA-jqpq-mgvm-f9r6,npm:openclaw,<2026.2.14,2026-09-04T05:42:29.677Z
+GHSA-jr33-mw75-7j8f,github:dbt-labs/dbt-mcp,<1.20.0,2026-09-15T06:01:19.038Z
+GHSA-jr33-mw75-7j8f,pypi:dbt-mcp,<1.20.0,2026-09-30T06:42:17.209Z
+GHSA-jr6x-2q95-fh2g,github:openclaw/openclaw,<2026.3.1,2026-09-03T03:35:40.211Z
+GHSA-jr6x-2q95-fh2g,npm:openclaw,<2026.3.1,2026-09-03T03:48:21.638Z
+GHSA-jrrm-9hc7-2v3h,github:omnigent-ai/omnigent,<0.3.0,2026-09-03T03:35:13.381Z
+GHSA-jrvc-8ff5-2f9f,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.768Z
+GHSA-jrvc-8ff5-2f9f,npm:openclaw,<2026.2.14,2026-09-04T05:42:29.903Z
+GHSA-jv2h-4p9v-wf5w,github:q00/ouroboros,<0.42.1,2026-09-03T03:35:13.364Z
+GHSA-jv6r-27ww-4gw4,github:openclaw/openclaw,<2026.2.26,2026-09-03T03:35:40.185Z
+GHSA-jv6r-27ww-4gw4,npm:openclaw,<2026.2.26,2026-09-04T05:42:30.007Z
+GHSA-jv9m-vf54-chjj,npm:flowise,<3.0.8,2026-09-03T03:37:56.754Z
+GHSA-jv9m-vf54-chjj,npm:flowise-components,<3.0.8,2026-09-03T03:37:56.754Z
+GHSA-jvcm-f35g-w78p,npm:network-ai,<5.12.2,2026-09-21T05:58:53.937Z
+GHSA-jvm4-4j77-39p6,github:openclaw/openclaw,<2026.4.29,2026-09-03T03:36:06.279Z
+GHSA-jvm4-4j77-39p6,npm:openclaw,<2026.4.29,2026-09-04T05:42:30.090Z
+GHSA-jwf4-8wf4-jf2m,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:33.838Z
+GHSA-jwf4-8wf4-jf2m,npm:openclaw,<2026.2.22,2026-09-04T05:42:30.219Z
+GHSA-jwp7-wg77-3w9v,github:apify/apify-mcp-server,<0.9.21,2026-09-03T03:35:13.347Z
+GHSA-jwp7-wg77-3w9v,npm:@apify/actors-mcp-server,<0.9.21,2026-09-04T05:41:41.271Z
+GHSA-jwrq-8g5x-5fhm,github:openclaw/openclaw,<2026.4.14,2026-09-03T03:35:59.100Z
+GHSA-jwrq-8g5x-5fhm,npm:openclaw,<2026.4.14,2026-09-04T05:42:30.318Z
+GHSA-jx74-cqjv-2c67,pypi:flyto-core,>=2.26.6 <2.26.7,2026-09-27T12:05:54.454Z
+GHSA-jxcw-qp4h-6jfq,pypi:praisonai,>=4.5.115 <4.6.61,2026-09-27T12:06:07.104Z
+GHSA-jxrq-8fm4-9p58,npm:openclaw,<2026.2.22,2026-09-04T05:42:30.425Z
+GHSA-jxx9-px88-pj69,github:czlonkowski/n8n-mcp,<2.51.2,2026-09-03T03:35:07.920Z
+GHSA-jxx9-px88-pj69,npm:n8n-mcp,<2.51.2,2026-09-04T05:41:40.412Z
+GHSA-m28f-9v8h-gg2f,github:apify/apify-mcp-server,<0.9.12,2026-09-03T03:35:19.756Z
+GHSA-m34q-h93w-vg5x,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:35:52.388Z
+GHSA-m34q-h93w-vg5x,npm:openclaw,<2026.4.2,2026-09-04T05:42:30.511Z
+GHSA-m38g-vpwj-mpg9,github:openclaw/openclaw,<2026.6.9,2026-09-03T03:36:06.347Z
+GHSA-m3mh-3mpg-37hw,github:openclaw/openclaw,<2026.3.24,2026-09-03T03:35:46.553Z
+GHSA-m3mh-3mpg-37hw,npm:openclaw,<2026.3.24,2026-09-04T05:42:30.651Z
+GHSA-m5p9-xvxj-64c8,npm:flowise,<2.1.1,2026-09-04T05:43:38.998Z
+GHSA-m69h-jm2f-2pv8,github:openclaw/openclaw,<2026.3.12,2026-09-03T03:35:46.455Z
+GHSA-m69h-jm2f-2pv8,npm:openclaw,<2026.3.12,2026-09-04T05:42:30.763Z
+GHSA-m6fx-m8hc-572m,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.310Z
+GHSA-m6fx-m8hc-572m,npm:openclaw,<2026.3.31,2026-09-04T05:42:30.864Z
+GHSA-m78m-7h3q-q938,github:openclaw/openclaw,<2026.8.2,2026-09-26T06:00:30.841Z
+GHSA-m79r-r765-5f9j,github:lobehub/lobe-chat,<1.129.4,2026-09-03T03:35:01.071Z
+GHSA-m7mq-85xj-9x33,npm:flowise,<3.1.0,2026-09-03T03:37:56.730Z
+GHSA-m7x8-2w3w-pr42,github:openclaw/openclaw,">= 2026.1.8, < 2026.2.14",2026-09-03T03:35:33.767Z
+GHSA-m7x8-2w3w-pr42,npm:openclaw,>=2026.1.8 <2026.2.14,2026-09-04T05:42:30.957Z
+GHSA-m837-xvxr-vqwg,npm:flowise,<3.1.2,2026-09-03T03:37:56.668Z
+GHSA-m866-6qv5-p2fg,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.315Z
+GHSA-m866-6qv5-p2fg,npm:openclaw,<2026.3.28,2026-09-04T05:42:31.069Z
+GHSA-m8v2-6wwh-r4gc,github:openclaw/openclaw,<2026.2.24,2026-09-03T03:35:40.129Z
+GHSA-m8v2-6wwh-r4gc,npm:openclaw,<2026.2.24,2026-09-04T05:42:31.177Z
+GHSA-m99r-2hxc-cp3q,npm:flowise,<3.1.2,2026-09-03T03:37:56.685Z
+GHSA-m99r-2hxc-cp3q,npm:flowise-components,<3.1.2,2026-09-03T03:37:56.685Z
+GHSA-m9mq-7m7q-xc6p,github:that1drifter/browse-mcp,<0.8.2,2026-09-03T03:35:13.387Z
+GHSA-mc68-q9jw-2h3v,npm:clawdbot,<2026.1.29,2026-09-05T05:41:21.412Z
+GHSA-mf5g-6r6f-ghhm,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.547Z
+GHSA-mf5g-6r6f-ghhm,npm:openclaw,<2026.3.28,2026-09-04T05:42:31.269Z
+GHSA-mfg5-7q5g-f37j,github:openclaw/openclaw,>=2026.2.21-2 <2026.2.22,2026-09-03T03:35:33.832Z
+GHSA-mfg5-7q5g-f37j,npm:@openclaw/voice-call,<2026.2.22,2026-09-04T05:42:31.349Z
+GHSA-mfg5-7q5g-f37j,npm:openclaw,<2026.2.22,2026-09-04T05:42:31.345Z
+GHSA-mfv2-4wvm-9pgp,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.553Z
+GHSA-mfwv-ch2f-9j5v,github:prolix-oc/lumiverse,<0.9.7,2026-09-03T03:35:07.915Z
+GHSA-mgq6-vr84-7m2j,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:35:59.167Z
+GHSA-mgq6-vr84-7m2j,npm:openclaw,<2026.5.18,2026-09-04T05:42:31.463Z
+GHSA-mgrq-9f93-wpp5,github:openclaw/openclaw,<2026.2.26,2026-09-03T03:35:40.216Z
+GHSA-mgrq-9f93-wpp5,npm:openclaw,<2026.2.26,2026-09-04T05:42:31.583Z
+GHSA-mgvr-6gvw-3rgr,github:openclaw/openclaw,<2026.6.6,2026-09-03T03:36:06.364Z
+GHSA-mhg7-666j-cqg4,github:anthropics/claude-code,<2.0.55,2026-09-03T03:35:26.373Z
+GHSA-mhgq-xpfq-6r66,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.401Z
+GHSA-mhgq-xpfq-6r66,npm:openclaw,<2026.3.31,2026-09-04T05:42:31.685Z
+GHSA-mhjf-v53x-7p87,npm:@memtensor/memos-cloud-openclaw-plugin,"0.1.25, 0.1.23, 0.1.21",2026-09-24T05:59:33.435Z
+GHSA-mhm4-93fw-4qr2,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:36:06.397Z
+GHSA-mhq8-78pj-5j79,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:36:06.274Z
+GHSA-mhq8-78pj-5j79,npm:openclaw,<2026.5.18,2026-09-04T05:42:31.756Z
+GHSA-mhr7-2xmv-4c4q,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.339Z
+GHSA-mhr7-2xmv-4c4q,npm:openclaw,<2026.3.31,2026-09-04T05:42:31.890Z
+GHSA-mj4p-rc52-m843,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:46.496Z
+GHSA-mj4p-rc52-m843,npm:openclaw,<2026.3.11,2026-09-04T05:42:31.961Z
+GHSA-mj59-h3q9-ghfh,github:openclaw/openclaw,<2026.4.20,2026-09-03T03:35:07.905Z
+GHSA-mj59-h3q9-ghfh,npm:openclaw,<2026.4.20,2026-09-04T05:42:32.079Z
+GHSA-mj5r-hh7j-4gxf,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.821Z
+GHSA-mj5r-hh7j-4gxf,npm:clawdbot,<=2026.1.24-3,2026-09-04T05:42:32.202Z
+GHSA-mj5r-hh7j-4gxf,npm:openclaw,<2026.2.14,2026-09-04T05:42:32.200Z
+GHSA-mm7m-wcgh-8mfq,github:openclaw/openclaw,>=2026.5.2 <2026.8.1,2026-09-26T06:00:31.147Z
+GHSA-mm9g-83wh-mhwj,github:openclaw/openclaw,>=2026.6.1 <2026.6.9,2026-09-03T03:36:06.366Z
+GHSA-mmgp-wc2j-qcv7,github:anthropics/claude-code,<2.1.53,2026-09-03T03:35:26.380Z
+GHSA-mp29-fxh8-92px,github:agentfront/frontmcp,<1.5.7,2026-09-03T03:34:54.086Z
+GHSA-mp5h-m6qj-6292,github:openclaw/openclaw,<2026.2.1,2026-09-03T03:35:33.758Z
+GHSA-mp5h-m6qj-6292,npm:openclaw,<2026.2.1,2026-09-04T05:42:32.315Z
+GHSA-mp66-rf4f-mhh8,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.522Z
+GHSA-mp66-rf4f-mhh8,npm:openclaw,<2026.3.22,2026-09-04T05:42:32.640Z
+GHSA-mpc8-jxjh-qpgh,github:openclaw/openclaw,<2026.4.25,2026-09-03T03:36:06.311Z
+GHSA-mpc8-jxjh-qpgh,npm:openclaw,<2026.4.25,2026-09-04T05:42:32.735Z
+GHSA-mq4r-h2gh-qv7x,npm:flowise,<3.0.13,2026-09-03T03:37:56.740Z
+GHSA-mq53-pc65-wjc4,npm:flowise,<3.1.2,2026-09-03T03:37:56.671Z
+GHSA-mqf9-3wx8-45cj,npm:@vite-mcp/vite-type,*,2026-09-22T05:58:56.089Z
+GHSA-mqpw-46fh-299h,github:openclaw/openclaw,<2026.2.2,2026-09-03T03:35:33.816Z
+GHSA-mqpw-46fh-299h,npm:openclaw,<2026.2.2,2026-09-04T05:42:32.835Z
+GHSA-mqr9-vqhq-3jxw,github:openclaw/openclaw,<2026.2.19,2026-09-03T03:35:40.151Z
+GHSA-mqr9-vqhq-3jxw,npm:openclaw,<2026.2.19,2026-09-04T05:42:32.951Z
+GHSA-mr32-vwc2-5j6h,github:openclaw/openclaw,>=2026.1.20 <2026.2.1,2026-09-03T03:35:33.805Z
+GHSA-mr32-vwc2-5j6h,npm:moltbot,<=0.1.0,2026-09-04T05:42:33.068Z
+GHSA-mr32-vwc2-5j6h,npm:openclaw,>=2026.1.20 <2026.2.1,2026-09-04T05:42:33.064Z
+GHSA-mr34-9552-qr95,github:openclaw/openclaw,>=2026.4.7 <2026.4.15,2026-09-03T03:35:46.587Z
+GHSA-mr34-9552-qr95,npm:openclaw,>=2026.4.7 <2026.4.15,2026-09-04T05:42:33.157Z
+GHSA-mr8w-mmvv-6hq8,github:nanbingxyz/5ire,<0.11.1,2026-09-03T03:34:54.006Z
+GHSA-mrq8-fv7v-hhjg,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.520Z
+GHSA-mrvx-jmjw-vggc,github:ihor-sokoliuk/mcp-searxng,<1.7.1,2026-09-16T05:59:45.573Z
+GHSA-mrvx-jmjw-vggc,npm:mcp-searxng,<1.7.1,2026-09-04T05:41:41.627Z
+GHSA-mv8x-fg99-32mf,pypi:hermes-agent,<0.18.0,2026-09-04T05:42:54.885Z
+GHSA-mv9j-6xhh-g383,github:openclaw/openclaw,<2026.2.12,2026-09-03T03:35:33.799Z
+GHSA-mv9j-6xhh-g383,npm:openclaw,<2026.2.12,2026-09-04T05:42:33.272Z
+GHSA-mw7w-g3mg-xqm7,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.544Z
+GHSA-mw7w-g3mg-xqm7,npm:openclaw,<=2026.3.24,2026-09-04T05:42:33.360Z
+GHSA-mwcg-wfq3-4gjc,github:openclaw/openclaw,<2026.2.25,2026-09-03T03:35:40.203Z
+GHSA-mwcg-wfq3-4gjc,npm:openclaw,<2026.2.25,2026-09-04T05:42:33.500Z
+GHSA-mwr6-3gp8-9jmj,github:orval-labs/orval,<7.18.0,2026-09-03T03:35:01.093Z
+GHSA-mwwr-p57h-56pf,github:bytebase/dbhub,<0.22.6,2026-09-25T06:00:36.125Z
+GHSA-mwwr-p57h-56pf,npm:@bytebase/dbhub,<0.22.6,2026-09-27T12:05:56.486Z
+GHSA-mwxv-35wr-4vvj,github:openclaw/openclaw,<2026.2.26,2026-09-03T03:35:40.194Z
+GHSA-mwxv-35wr-4vvj,npm:openclaw,<2026.2.26,2026-09-04T05:42:33.611Z
+GHSA-mx89-jjx9-gjr8,github:samanhappy/mcphub,<0.12.15,2026-09-03T03:35:19.780Z
+GHSA-mxjx-28vx-xjjj,npm:network-ai,>=5.0.0 <5.12.2,2026-09-21T05:58:54.116Z
+GHSA-mxxr-jv3v-6pgc,github:jlowin/fastmcp,<2.13.0,2026-09-03T03:35:01.079Z
+GHSA-p25h-9q54-ffvw,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.802Z
+GHSA-p25h-9q54-ffvw,npm:openclaw,<2026.2.14,2026-09-04T05:42:33.744Z
+GHSA-p2fh-f5fc-44hr,github:openclaw/openclaw,<2026.4.7,2026-09-03T03:35:59.198Z
+GHSA-p2fh-f5fc-44hr,npm:openclaw,<2026.5.12,2026-09-04T05:42:33.823Z
+GHSA-p39j-x9h5-q66m,github:openclaw/openclaw,<2026.4.25,2026-09-03T03:35:59.176Z
+GHSA-p39j-x9h5-q66m,npm:openclaw,<2026.4.25,2026-09-04T05:42:33.968Z
+GHSA-p3h2-2j4p-p83g,github:samanhappy/mcphub,<0.12.13,2026-09-03T03:35:19.771Z
+GHSA-p3h2-2j4p-p83g,npm:@samanhappy/mcphub,<0.12.13,2026-09-12T06:10:57.417Z
+GHSA-p3h6-v2h4-36q2,github:openclaw/openclaw,>=2026.4.5 <2026.8.1,2026-09-26T06:00:31.264Z
+GHSA-p464-m8x6-vhv8,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.413Z
+GHSA-p464-m8x6-vhv8,npm:openclaw,<2026.3.31,2026-09-04T05:42:34.065Z
+GHSA-p4h8-56qp-hpgv,npm:@aiondadotcom/mcp-ssh,<1.3.5,2026-09-12T06:10:59.487Z
+GHSA-p4pj-vh7h-6cqh,pypi:praisonai,<4.6.59,2026-09-27T12:06:07.217Z
+GHSA-p4wh-cr8m-gm6c,github:openclaw/openclaw,>=2026.2.22 <2026.2.23,2026-09-03T03:35:40.125Z
+GHSA-p4wh-cr8m-gm6c,npm:openclaw,>=2026.2.22 <2026.2.23,2026-09-04T05:42:34.148Z
+GHSA-p4x4-2r7f-wjxg,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.384Z
+GHSA-p4x4-2r7f-wjxg,npm:openclaw,<2026.3.28,2026-09-04T05:42:34.264Z
+GHSA-p536-vvpp-9mc8,github:openclaw/openclaw,<2026.2.15,2026-09-03T03:35:33.795Z
+GHSA-p536-vvpp-9mc8,npm:openclaw,<2026.2.15,2026-09-04T05:42:34.400Z
+GHSA-p5fm-wm8g-rffx,github:nanbingxyz/5ire,<0.15.3,2026-09-03T03:34:54.047Z
+GHSA-p5g8-m35v-7m82,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:25.374Z
+GHSA-p5w8-m249-4r4v,npm:flowise,<3.1.3,2026-09-03T03:37:56.642Z
+GHSA-p5xh-frrh-cmgj,github:openclaw/openclaw,>=2026.4.12 <2026.6.6,2026-09-03T03:36:06.369Z
+GHSA-p6hp-93wp-fh6p,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.542Z
+GHSA-p73f-w79w-jqr5,github:openclaw/openclaw,<2026.5.6,2026-09-03T03:36:06.263Z
+GHSA-p73f-w79w-jqr5,npm:openclaw,<2026.5.6,2026-09-04T05:42:34.529Z
+GHSA-p75f-6fp4-p57w,pypi:praisonai,<4.6.59,2026-09-27T12:06:07.306Z
+GHSA-p7gr-f84w-hqg5,github:openclaw/openclaw,<2026.3.1,2026-09-03T03:35:40.207Z
+GHSA-p7gr-f84w-hqg5,npm:openclaw,<2026.3.1,2026-09-03T03:48:21.177Z
+GHSA-p7w7-4929-vpj5,npm:@dynatrace-oss/dynatrace-mcp-server,<2.0.0,2026-09-27T12:05:55.885Z
+GHSA-p9g2-cr55-cw9c,github:cursor/cursor,<3.1.2,2026-09-10T05:45:28.782Z
+GHSA-p9wc-4fhr-78wm,github:arcadedata/arcadedb,<26.7.3,2026-09-03T03:35:13.362Z
+GHSA-pc2w-4mq8-32qw,npm:@dynatrace-oss/dynatrace-mcp-server,<1.8.7,2026-09-27T12:05:55.981Z
+GHSA-pc9j-3qc2-95wv,github:cursor/cursor,<3.0.0,2026-09-03T03:35:26.388Z
+GHSA-pchc-86f6-8758,github:openclaw/openclaw,<2026.2.13,2026-09-03T03:35:33.759Z
+GHSA-pchc-86f6-8758,npm:@openclaw/bluebubbles,<2026.2.13,2026-09-04T05:42:34.759Z
+GHSA-pchc-86f6-8758,npm:openclaw,<2026.2.13,2026-09-04T05:42:34.755Z
+GHSA-pf93-j98v-25pv,github:homeassistant-ai/ha-mcp,<7.0.0,2026-09-03T03:35:01.103Z
+GHSA-pf93-j98v-25pv,pypi:ha-mcp,<7.0.0,2026-09-27T12:05:53.193Z
+GHSA-pff6-hp53-pj54,github:arcadedata/arcadedb,>=26.4.2 <26.8.1,2026-09-03T03:35:13.375Z
+GHSA-pfm2-2mhg-8wpx,github:czlonkowski/n8n-mcp,<2.47.11,2026-09-03T03:35:07.900Z
+GHSA-pfm2-2mhg-8wpx,npm:n8n-mcp,<2.47.11,2026-09-04T05:41:40.557Z
+GHSA-pfrw-r5vr-89hw,github:openclaw/openclaw,>=2026.4.25 <2026.8.1,2026-09-26T06:00:31.286Z
+GHSA-pfv7-rr5m-qmv6,npm:openclaw,<2026.2.19,2026-09-04T05:42:34.867Z
+GHSA-pg2v-8xwh-qhcc,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.818Z
+GHSA-pg2v-8xwh-qhcc,npm:openclaw,<2026.2.14,2026-09-04T05:42:34.963Z
+GHSA-pgp4-xr4j-h5cg,pypi:hermes-agent,<0.15.0,2026-09-04T05:42:55.119Z
+GHSA-pgwh-4jj4-qm8v,pypi:flyto-core,<2.26.7,2026-09-27T12:05:54.564Z
+GHSA-phcp-xhhf-xcvq,npm:@httttt/mcp-demo,*,2026-09-23T05:47:32.378Z
+GHSA-php6-83fg-gw3g,npm:flowise,<3.1.2,2026-09-03T03:37:56.687Z
+GHSA-pj2r-f9mw-vrcq,github:mervinpraison/praisonai,<4.5.128,2026-09-03T03:35:07.881Z
+GHSA-pj2r-f9mw-vrcq,pypi:praisonai,<4.5.128,2026-09-27T12:06:07.407Z
+GHSA-pj5x-38rw-6fph,github:openclaw/openclaw,<2026.2.19,2026-09-03T03:35:40.134Z
+GHSA-pj5x-38rw-6fph,npm:openclaw,<2026.2.19,2026-09-04T05:42:35.062Z
+GHSA-pjj5-f3wm-f9m8,github:openagentplatform/dive,<0.13.0,2026-09-03T03:35:01.094Z
+GHSA-pjjr-5qhr-5w6r,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.491Z
+GHSA-pjp5-fpmr-3349,github:github/github-mcp-server,">= 0.22.0, < 1.1.2",2026-09-03T03:35:07.933Z
+GHSA-pjvx-rx66-r3fg,npm:openclaw,<2026.3.7,2026-09-04T05:42:35.189Z
+GHSA-pm96-6xpr-978x,pypi:praisonai,<4.5.128,2026-09-27T12:06:07.536Z
+GHSA-pmqc-57g8-c22c,pypi:hermes-agent,<=0.19.0,2026-09-04T05:42:55.221Z
+GHSA-pmw4-pwvc-3hx2,github:anthropics/claude-code,<0.2.111,2026-09-03T03:35:26.348Z
+GHSA-pmw7-gqwj-f954,github:danny-avila/librechat,">= v0.8.2-rc1, <= v0.8.3-rc1",2026-09-03T03:35:01.109Z
+GHSA-pph6-vfjv-vpjw,github:stacklok/toolhive,<0.29.1,2026-09-16T05:59:45.502Z
+GHSA-ppwq-6v66-5m6j,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.545Z
+GHSA-ppwq-6v66-5m6j,npm:openclaw,<2026.3.22,2026-09-04T05:42:35.288Z
+GHSA-pqh8-p93p-2rx7,npm:@dynatrace-oss/dynatrace-mcp-server,<2.1.1,2026-09-27T12:05:56.083Z
+GHSA-pr4x-3pc7-2fhw,github:samanhappy/mcphub,<1.0.32,2026-09-03T03:35:19.781Z
+GHSA-pr64-jmmf-jp54,github:stacklok/toolhive,<0.31.0,2026-09-16T05:59:45.512Z
+GHSA-pr6h-vr44-xq8j,github:obot-platform/obot,<0.23.0,2026-09-28T06:02:36.243Z
+GHSA-prwc-c6w5-mmgr,github:openclaw/openclaw,<2026.5.28,2026-09-03T03:36:06.382Z
+GHSA-pv2j-rghr-v5r9,pypi:praisonaiagents,<1.6.59,2026-09-28T05:59:32.666Z
+GHSA-pv58-549p-qh99,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.772Z
+GHSA-pv58-549p-qh99,npm:openclaw,<2026.2.14,2026-09-04T05:42:35.465Z
+GHSA-pv9q-275h-rh7x,pypi:praisonai,<4.5.128,2026-09-27T12:06:07.647Z
+GHSA-pvph-5j39-v8qc,pypi:praisonai,<4.6.58,2026-09-27T12:06:07.782Z
+GHSA-pvrj-8cg3-j5f8,github:ymw0407/auth-fetch-mcp,<3.0.2,2026-09-03T03:35:13.370Z
+GHSA-pvxx-r596-f5qj,pypi:praisonai,<4.6.58,2026-09-27T12:06:07.885Z
+GHSA-pw7h-9g6p-c378,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.557Z
+GHSA-pw7h-9g6p-c378,npm:openclaw,<2026.3.22,2026-09-04T05:42:35.580Z
+GHSA-pxwq-22vf-87fm,github:mims-harvard/tooluniverse,<=1.2.6,2026-09-03T03:35:19.763Z
+GHSA-q284-4pvr-m585,github:openclaw/openclaw,<2026.1.29,2026-09-03T03:35:33.752Z
+GHSA-q284-4pvr-m585,npm:clawdbot,<2026.1.29,2026-09-05T05:41:21.667Z
+GHSA-q2gc-xjqw-qp89,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:52.433Z
+GHSA-q2gc-xjqw-qp89,npm:openclaw,<2026.4.8,2026-09-04T05:42:35.677Z
+GHSA-q2qc-744p-66r2,github:openclaw/openclaw,>=2026.3.11 <2026.3.25,2026-09-03T03:35:46.538Z
+GHSA-q2qc-744p-66r2,npm:openclaw,>=2026.3.11 <2026.3.28,2026-09-04T05:42:35.763Z
+GHSA-q399-23r3-hfx4,github:openclaw/openclaw,<2026.3.1,2026-09-03T03:35:40.154Z
+GHSA-q399-23r3-hfx4,npm:openclaw,<2026.3.1,2026-09-04T05:42:35.880Z
+GHSA-q3jj-46pq-826r,github:openclaw/openclaw,<2026.4.22,2026-09-03T03:35:59.150Z
+GHSA-q3jj-46pq-826r,npm:openclaw,<2026.4.22,2026-09-04T05:42:35.969Z
+GHSA-q447-rj3r-2cgh,github:openclaw/openclaw,<2026.2.13,2026-09-03T03:35:33.820Z
+GHSA-q447-rj3r-2cgh,npm:clawdbot,<=2026.1.24-3,2026-09-04T05:42:36.141Z
+GHSA-q447-rj3r-2cgh,npm:openclaw,<2026.2.13,2026-09-04T05:42:36.139Z
+GHSA-q5c6-p5q5-g3px,npm:feishu-docx-mcp,*,2026-09-08T05:44:04.950Z
+GHSA-q5hj-mxqh-vv77,github:anthropics/claude-code,">= 2.1.63, < 2.1.84",2026-09-03T03:35:26.384Z
+GHSA-q5r4-47m9-5mc7,pypi:praisonai,<4.5.128,2026-09-27T12:06:08.008Z
+GHSA-q5xf-xhwf-cwqf,github:n8n-io/n8n,<2.30.1,2026-09-03T03:35:13.354Z
+GHSA-q66q-fx2p-7w4m,github:modelcontextprotocol/servers,<0.6.4 || <2025.7.01,2026-09-03T03:34:54.025Z
+GHSA-q66q-fx2p-7w4m,npm:@modelcontextprotocol/server-filesystem,<=0.6.2 || >=2025.1.14 <2025.7.1,2026-09-04T05:41:39.185Z
+GHSA-q67q-549q-p849,npm:flowise,>=2.2.8 <3.0.6,2026-09-03T03:37:56.764Z
+GHSA-q6m6-3rfx-7f62,npm:@httttt/mcp-npx-fetch-1,*,2026-09-23T05:47:32.371Z
+GHSA-q6qc-xp4q-rjq5,npm:@enderfga/claw-orchestrator,<3.5.6,2026-09-12T06:10:57.927Z
+GHSA-q6qf-4p5j-r25g,github:openclaw/openclaw,<2026.2.23,2026-09-03T03:35:40.160Z
+GHSA-q6qf-4p5j-r25g,npm:openclaw,<2026.2.23,2026-09-04T05:42:36.241Z
+GHSA-q728-gf8j-w49r,github:anthropics/claude-code,<2.0.74,2026-09-03T03:35:26.370Z
+GHSA-q7q8-3mgw-q67r,github:openclaw/openclaw,<2026.5.19,2026-09-03T03:35:59.184Z
+GHSA-q7q8-3mgw-q67r,npm:openclaw,<2026.5.19,2026-09-04T05:42:36.312Z
+GHSA-q855-8rh5-jfgq,pypi:ha-mcp,<7.10.0,2026-09-27T12:05:53.298Z
+GHSA-q87f-qc2r-2gw4,github:ihor-sokoliuk/mcp-searxng,<1.2.0,2026-09-16T05:59:45.548Z
+GHSA-q87f-qc2r-2gw4,npm:mcp-searxng,<1.2.1,2026-09-04T05:41:41.729Z
+GHSA-q8ff-7ffm-m3r9,github:openclaw/openclaw,<2026.4.23,2026-09-03T03:35:59.160Z
+GHSA-q8ff-7ffm-m3r9,npm:openclaw,<2026.4.23,2026-09-04T05:42:36.430Z
+GHSA-q99w-vh6v-q3v7,github:openclaw/openclaw,<2026.5.26,2026-09-03T03:36:06.299Z
+GHSA-q99w-vh6v-q3v7,npm:openclaw,<2026.5.26,2026-09-04T05:42:36.518Z
+GHSA-q9j5-4xr6-xqqw,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.574Z
+GHSA-q9pw-vmhh-384g,pypi:praisonaiagents,<1.6.32,2026-09-28T05:59:32.782Z
+GHSA-q9w8-cf67-r238,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.399Z
+GHSA-q9w8-cf67-r238,npm:openclaw,<2026.3.31,2026-09-04T05:42:36.653Z
+GHSA-qc36-x95h-7j53,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:46.467Z
+GHSA-qc36-x95h-7j53,npm:openclaw,<2026.3.11,2026-09-04T05:42:36.763Z
+GHSA-qcc3-jqwp-5vh2,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.333Z
+GHSA-qcc3-jqwp-5vh2,npm:openclaw,<2026.3.31,2026-09-04T05:42:36.865Z
+GHSA-qcc4-p59m-p54m,npm:openclaw,<2026.2.26,2026-09-04T05:42:36.967Z
+GHSA-qcj9-wwgw-6gm8,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.403Z
+GHSA-qcj9-wwgw-6gm8,npm:openclaw,<2026.3.31,2026-09-04T05:42:37.065Z
+GHSA-qf48-qfv4-jjm9,github:openclaw/openclaw,>=2026.2.6 <2026.3.28,2026-09-03T03:35:52.362Z
+GHSA-qf48-qfv4-jjm9,npm:openclaw,>=2026.2.6 <2026.3.28,2026-09-04T05:42:37.171Z
+GHSA-qf73-2hrx-xprp,pypi:praisonaiagents,<1.5.115,2026-09-28T05:59:32.948Z
+GHSA-qg2g-g9w3-m5h8,github:stacklok/toolhive,<0.30.1,2026-09-19T06:00:12.083Z
+GHSA-qg2g-g9w3-m5h8,github:stacklok/toolhive-studio,<0.38.0,2026-09-19T06:00:12.085Z
+GHSA-qgj5-6x35-9g6f,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.003Z
+GHSA-qgmj-c898-99rq,npm:@antv/mcp-server-chart,"0.10.10, 0.11.10",2026-09-04T05:41:44.581Z
+GHSA-qgqw-h4xq-7w8w,github:anthropics/claude-code,<2.0.72,2026-09-03T03:35:26.371Z
+GHSA-qgvm-j2hm-6m38,npm:flowise,<3.1.3,2026-09-03T03:37:56.607Z
+GHSA-qh2f-99mv-mrcf,github:openclaw/openclaw,<2026.5.12,2026-09-03T03:35:59.191Z
+GHSA-qh2f-99mv-mrcf,npm:openclaw,<2026.5.12,2026-09-04T05:42:37.254Z
+GHSA-qhrr-grqp-6x2g,npm:openclaw,<2026.2.22,2026-09-04T05:42:37.383Z
+GHSA-qj22-xqjr-v83v,npm:openclaw,<2026.2.25,2026-09-04T05:42:37.490Z
+GHSA-qj77-c3c8-9c3q,github:openclaw/openclaw,<2026.2.2,2026-09-03T03:35:33.792Z
+GHSA-qj77-c3c8-9c3q,npm:openclaw,<2026.2.2,2026-09-04T05:42:37.590Z
+GHSA-qjp4-4jvr-xqg3,github:spring-ai-community/mcp-security,<0.1.9,2026-09-03T03:34:54.070Z
+GHSA-qjpc-qf9m-xwmr,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:35:59.192Z
+GHSA-qjpc-qf9m-xwmr,npm:openclaw,<2026.5.18,2026-09-04T05:42:37.697Z
+GHSA-qjwm-vq22-4xx8,npm:@yongot/canary-mcp-test,*,2026-09-11T05:46:07.230Z
+GHSA-qm2m-28pf-hgjw,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.581Z
+GHSA-qm2m-28pf-hgjw,npm:openclaw,<=2026.3.24,2026-09-04T05:42:37.807Z
+GHSA-qm77-8qjp-4vcm,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:35:52.355Z
+GHSA-qm77-8qjp-4vcm,npm:openclaw,<2026.4.2,2026-09-04T05:42:37.901Z
+GHSA-qm9x-v7cx-7rq4,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.577Z
+GHSA-qm9x-v7cx-7rq4,npm:openclaw,<2026.3.22,2026-09-04T05:42:37.997Z
+GHSA-qmwg-qprg-3j38,github:openclaw/openclaw,<2026.4.9,2026-09-03T03:35:59.118Z
+GHSA-qmwg-qprg-3j38,npm:openclaw,<2026.4.9,2026-09-04T05:42:38.087Z
+GHSA-qpjj-47vm-64pj,github:openclaw/openclaw,>=2026.1.5 <2026.2.12,2026-09-03T03:35:33.824Z
+GHSA-qq9q-xgm3-xv9g,pypi:flyto-core,<2.26.7,2026-09-27T12:05:54.691Z
+GHSA-qq9r-63f6-v542,pypi:praisonaiagents,>=0.13.23 <1.5.128,2026-09-28T05:59:33.073Z
+GHSA-qqq7-4hxc-x63c,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:59.049Z
+GHSA-qqq7-4hxc-x63c,npm:openclaw,<2026.4.8,2026-09-04T05:42:38.207Z
+GHSA-qqvm-66q4-vf5c,npm:flowise,<3.1.0,2026-09-03T03:37:56.728Z
+GHSA-qqvm-66q4-vf5c,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.728Z
+GHSA-qrp5-gfw2-gxv4,github:openclaw/openclaw,<2026.4.20,2026-09-03T03:35:59.152Z
+GHSA-qrp5-gfw2-gxv4,npm:openclaw,<2026.4.20,2026-09-04T05:42:38.300Z
+GHSA-qrq5-wjgg-rvqw,github:openclaw/openclaw,>=2026.1.29-beta.1 <2026.2.1,2026-09-03T03:35:33.797Z
+GHSA-qrq5-wjgg-rvqw,npm:openclaw,>=2026.1.20 <2026.2.1,2026-09-04T05:42:38.410Z
+GHSA-qv3h-fq9f-f8q6,npm:@onereach/idw-apps,"0.1.3, 0.1.4, 0.1.5",2026-09-30T06:42:15.409Z
+GHSA-qvpf-j64c-jmhr,pypi:praisonai,>=3.11.0 <4.6.59,2026-09-27T12:06:08.138Z
+GHSA-qvqr-5cv7-wh35,github:modelcontextprotocol/ruby-sdk,<0.9.2,2026-09-03T03:34:54.055Z
+GHSA-qvr7-g57c-mrc7,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:46.489Z
+GHSA-qvr7-g57c-mrc7,npm:openclaw,<2026.3.11,2026-09-04T05:42:38.517Z
+GHSA-qw5r-ppcg-f8rj,github:stackloklabs/mkp,<0.4.1,2026-09-18T06:00:01.157Z
+GHSA-qw6v-5fcf-5666,npm:network-ai,<5.9.1,2026-09-21T05:58:54.305Z
+GHSA-qw7m-h363-33qw,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.386Z
+GHSA-qw99-grcx-4pvm,github:openclaw/openclaw,>=2026.1.14-1 <2026.2.12,2026-09-03T03:35:33.796Z
+GHSA-qw99-grcx-4pvm,npm:openclaw,>=2026.1.14-1 <2026.2.12,2026-09-04T05:42:38.656Z
+GHSA-qwgj-rrpj-75xm,pypi:praisonai,<4.5.128,2026-09-27T12:06:08.255Z
+GHSA-qwr9-cj2c-v3fv,github:universal-tool-calling-protocol/python-utcp,<1.1.3,2026-09-28T06:02:36.208Z
+GHSA-qx8j-g322-qj6m,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:46.516Z
+GHSA-qx8j-g322-qj6m,npm:openclaw,<2026.4.8,2026-09-04T05:42:38.751Z
+GHSA-qxfv-fcpc-w36x,github:anthropics/claude-code,<1.0.105,2026-09-03T03:35:26.355Z
+GHSA-qxgf-hmcj-3xw3,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:46.510Z
+GHSA-qxgf-hmcj-3xw3,npm:openclaw,<2026.3.28,2026-09-04T05:42:38.847Z
+GHSA-r294-2894-92j3,npm:openclaw,<2026.2.23,2026-09-04T05:42:38.959Z
+GHSA-r2xf-7jw5-pjg6,github:docker/mcp-gateway,">= 0.21.0, < 0.42.2",2026-09-16T05:59:52.019Z
+GHSA-r39h-4c2p-3jxp,github:openclaw/openclaw,<2026.4.23,2026-09-03T03:35:59.159Z
+GHSA-r39h-4c2p-3jxp,npm:openclaw,<2026.4.23,2026-09-04T05:42:39.044Z
+GHSA-r48c-v28r-pf6v,github:modelcontextprotocol/registry,<1.7.7,2026-09-03T03:35:07.911Z
+GHSA-r4f2-3m54-pp7q,pypi:praisonai,<4.5.97,2026-09-27T12:06:08.404Z
+GHSA-r4hh-pcgx-j5r2,npm:flowise,>=3.0.1 <3.0.8,2026-09-03T03:37:56.751Z
+GHSA-r54r-wmmq-mh84,github:openclaw/openclaw,<2026.3.2,2026-09-03T03:35:40.137Z
+GHSA-r54r-wmmq-mh84,npm:openclaw,<2026.3.2,2026-09-04T05:42:39.149Z
+GHSA-r5fq-947m-xm57,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.830Z
+GHSA-r5fq-947m-xm57,npm:openclaw,<2026.2.14,2026-09-04T05:42:39.262Z
+GHSA-r65x-2hqr-j5hf,github:openclaw/openclaw,<2026.2.26,2026-09-03T03:35:40.171Z
+GHSA-r65x-2hqr-j5hf,npm:openclaw,<2026.2.26,2026-09-04T05:42:39.365Z
+GHSA-r6h2-5gqq-v5v6,github:openclaw/openclaw,<2026.2.19,2026-09-03T03:35:33.785Z
+GHSA-r6h2-5gqq-v5v6,npm:openclaw,<2026.2.19,2026-09-04T05:42:39.454Z
+GHSA-r6qf-8968-wj9q,github:openclaw/openclaw,<2026.3.7,2026-09-03T03:35:40.229Z
+GHSA-r6qf-8968-wj9q,npm:openclaw,<2026.3.7,2026-09-04T05:42:39.567Z
+GHSA-r6xh-pqhr-v4xh,github:openclaw/openclaw,<2026.4.22,2026-09-03T03:35:07.896Z
+GHSA-r6xh-pqhr-v4xh,npm:openclaw,<2026.4.22,2026-09-04T05:42:39.669Z
+GHSA-r745-8hwv-h473,npm:flowise,<3.1.3,2026-09-03T03:37:56.663Z
+GHSA-r77c-2cmr-7p47,github:openclaw/openclaw,>=2026.4.10 <2026.4.14,2026-09-03T03:35:59.127Z
+GHSA-r77c-2cmr-7p47,npm:openclaw,>=2026.4.10 <2026.4.14,2026-09-04T05:42:39.776Z
+GHSA-r78r-rwrf-rjwp,github:jovancoding/network-ai,<5.4.5,2026-09-03T03:35:07.924Z
+GHSA-r78r-rwrf-rjwp,npm:network-ai,<5.7.2,2026-09-20T08:35:52.468Z
+GHSA-r7v3-x45f-g7hp,pypi:praisonai,<4.6.58,2026-09-27T12:06:08.507Z
+GHSA-r7vr-gr74-94p8,github:openclaw/openclaw,<2026.3.12,2026-09-03T03:35:40.233Z
+GHSA-r7vr-gr74-94p8,npm:openclaw,<2026.3.12,2026-09-04T05:42:39.854Z
+GHSA-r87g-78mx-3wg4,npm:@wonderwhy-er/desktop-commander,<0.2.39,2026-09-03T03:32:18.151Z
+GHSA-r88x-r7jj-f2cf,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.630Z
+GHSA-r8g4-86fx-92mq,github:openclaw/openclaw,<2026.1.30,2026-09-03T03:35:33.754Z
+GHSA-r8g4-86fx-92mq,npm:openclaw,<2026.1.30,2026-09-04T05:42:39.966Z
+GHSA-r9q5-c7qc-p26w,github:openclaw/openclaw,<2026.2.25,2026-09-03T03:35:40.138Z
+GHSA-r9q5-c7qc-p26w,npm:openclaw,<2026.2.25,2026-09-04T05:42:40.078Z
+GHSA-r9x3-wx45-2v7f,pypi:praisonai,<4.5.113,2026-09-27T12:06:08.634Z
+GHSA-rchv-x836-w7xp,npm:openclaw,<2026.3.7,2026-09-04T05:42:40.182Z
+GHSA-rcm2-22f3-pqv3,npm:firebase-tools,<13.6.0,2026-09-27T12:05:55.701Z
+GHSA-rf6h-5gpw-qrgq,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.563Z
+GHSA-rf6h-5gpw-qrgq,npm:openclaw,<2026.3.28,2026-09-04T05:42:40.282Z
+GHSA-rfqg-qgf8-xr9x,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.352Z
+GHSA-rfqg-qgf8-xr9x,npm:openclaw,<2026.3.31,2026-09-04T05:42:40.388Z
+GHSA-rg3h-x3jw-7jm5,pypi:praisonai,<4.5.149,2026-09-27T12:06:08.800Z
+GHSA-rg3h-x3jw-7jm5,pypi:praisonaiagents,<1.6.8,2026-09-27T12:06:08.802Z
+GHSA-rg5q-pp8p-f7jm,pypi:praisonai,<4.6.58,2026-09-27T12:06:08.945Z
+GHSA-rg8m-3943-vm6q,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.379Z
+GHSA-rg8m-3943-vm6q,npm:openclaw,<2026.3.31,2026-09-04T05:42:40.541Z
+GHSA-rggc-m335-3wvj,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:36:06.277Z
+GHSA-rggc-m335-3wvj,npm:openclaw,<2026.5.18,2026-09-04T05:42:40.618Z
+GHSA-rgjw-6v73-php6,github:openclaw/openclaw,>=2026.2.26 <2026.7.1,2026-09-26T06:00:31.462Z
+GHSA-rh6r-vvfc-86jq,github:openclaw/openclaw,<2026.5.22,2026-09-03T03:36:06.393Z
+GHSA-rh7v-6w34-w2rr,npm:flowise,<3.1.0,2026-09-03T03:37:56.716Z
+GHSA-rhfg-j8jq-7v2h,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.530Z
+GHSA-rhfg-j8jq-7v2h,npm:openclaw,<2026.3.28,2026-09-04T05:42:40.732Z
+GHSA-rj2p-j66c-mgqh,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.083Z
+GHSA-rj2p-j66c-mgqh,npm:openclaw,<2026.4.10,2026-09-04T05:42:40.839Z
+GHSA-rj5c-58rq-j5g5,github:jlowin/fastmcp,<2.13.0,2026-09-03T03:35:01.080Z
+GHSA-rj6p-xmxr-qj4h,github:openclaw/openclaw,<2026.4.24,2026-09-03T03:35:59.188Z
+GHSA-rj6p-xmxr-qj4h,npm:openclaw,<2026.4.24,2026-09-04T05:42:40.944Z
+GHSA-rjr6-rcgv-9m7m,github:modelcontextprotocol/ruby-sdk,<0.23.0,2026-09-03T03:34:54.082Z
+GHSA-rjvw-7vvw-549v,pypi:praisonai,>=4.5.126 <4.6.59,2026-09-27T12:06:09.046Z
+GHSA-rjxq-qqhf-8hwh,github:openclaw/openclaw,<2026.5.12,2026-09-03T03:35:07.923Z
+GHSA-rjxq-qqhf-8hwh,npm:openclaw,<2026.5.12,2026-09-04T05:42:41.021Z
+GHSA-rm2p-j3r7-4x4j,github:openclaw/openclaw,<2026.2.25,2026-09-03T03:35:40.227Z
+GHSA-rm2p-j3r7-4x4j,npm:openclaw,<2026.2.25,2026-09-04T05:42:41.152Z
+GHSA-rm45-4jx5-2927,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.068Z
+GHSA-rm59-992w-x2mv,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.527Z
+GHSA-rm59-992w-x2mv,npm:openclaw,<2026.3.22,2026-09-04T05:42:41.278Z
+GHSA-rm5c-4rmf-vvhw,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.325Z
+GHSA-rm5c-4rmf-vvhw,npm:openclaw,<2026.3.31,2026-09-04T05:42:41.356Z
+GHSA-rmxw-jxxx-4cpc,github:openclaw/openclaw,>=2026.1.14-1 <2026.2.2,2026-09-03T03:35:33.814Z
+GHSA-rmxw-jxxx-4cpc,npm:openclaw,>=2026.1.14-1 <2026.2.2,2026-09-04T05:42:41.490Z
+GHSA-rq6g-px6m-c248,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.812Z
+GHSA-rq6g-px6m-c248,npm:clawdbot,<=2026.1.24-3,2026-09-04T05:42:41.619Z
+GHSA-rq6g-px6m-c248,npm:openclaw,<2026.2.14,2026-09-04T05:42:41.617Z
+GHSA-rqfv-2mw9-78g2,github:designcomputer/mysql_mcp_server,<0.4.2,2026-09-16T05:59:45.489Z
+GHSA-rqp8-q22p-5j9q,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.536Z
+GHSA-rqp8-q22p-5j9q,npm:openclaw,<2026.3.22,2026-09-04T05:42:41.709Z
+GHSA-rqpp-rjj8-7wv8,github:openclaw/openclaw,<2026.3.12,2026-09-03T03:35:40.201Z
+GHSA-rqpp-rjj8-7wv8,npm:openclaw,<2026.3.12,2026-09-03T03:48:20.955Z
+GHSA-rqv2-m695-f8j4,github:modelcontextprotocol/registry,<1.7.7,2026-09-03T03:35:07.910Z
+GHSA-rqwg-9346-fjjv,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.311Z
+GHSA-rr55-jp92-8wp2,npm:claude-faf-mcp,<5.7.2,2026-09-12T06:10:58.993Z
+GHSA-rv2q-f2h5-6xmg,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.159Z
+GHSA-rv2q-f2h5-6xmg,npm:openclaw,<2026.2.22,2026-09-04T05:42:42.007Z
+GHSA-rv39-79c4-7459,github:openclaw/openclaw,<2026.2.2,2026-09-03T03:35:33.815Z
+GHSA-rv39-79c4-7459,npm:openclaw,<2026.2.2,2026-09-04T05:42:42.099Z
+GHSA-rvqr-hrcc-j9vv,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.569Z
+GHSA-rvqr-hrcc-j9vv,npm:openclaw,<2026.3.22,2026-09-04T05:42:42.199Z
+GHSA-rvvf-6vh3-9j43,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.341Z
+GHSA-rvvf-6vh3-9j43,npm:openclaw,<2026.3.31,2026-09-04T05:42:42.322Z
+GHSA-rw39-5899-8mxp,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:46.490Z
+GHSA-rw39-5899-8mxp,npm:openclaw,<2026.3.11,2026-09-04T05:42:42.442Z
+GHSA-rwc2-f344-q6w6,github:serverless/serverless,">= 4.29.0, < 4.29.3",2026-09-03T03:35:01.089Z
+GHSA-rwj8-p9vq-25gv,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.828Z
+GHSA-rwj8-p9vq-25gv,npm:openclaw,<2026.2.14,2026-09-04T05:42:42.555Z
+GHSA-rwp6-7w3q-75fq,github:openclaw/openclaw,>=2026.4.23 <2026.4.24,2026-09-03T03:36:06.321Z
+GHSA-rwp6-7w3q-75fq,npm:openclaw,>=2026.4.23 <2026.4.24,2026-09-04T05:42:42.700Z
+GHSA-rwrp-9823-p2xq,npm:flowise,<3.1.3,2026-09-03T03:37:56.625Z
+GHSA-rx3g-mvc3-qfjf,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.182Z
+GHSA-rx3g-mvc3-qfjf,npm:openclaw,<2026.2.22,2026-09-04T05:42:42.819Z
+GHSA-rx55-5c7h-r56r,github:mcp-router/mcp-router,<0.6.3,2026-09-03T03:35:19.759Z
+GHSA-rx78-29qr-5hq8,github:openclaw/openclaw,<2026.5.2,2026-09-03T03:36:06.335Z
+GHSA-rx78-29qr-5hq8,npm:openclaw,<2026.5.2,2026-09-04T05:42:42.893Z
+GHSA-rxmx-g7hr-8mx4,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:35:52.349Z
+GHSA-rxmx-g7hr-8mx4,npm:openclaw,<2026.4.2,2026-09-04T05:42:43.018Z
+GHSA-rxw2-pc8j-vxwm,pypi:fast-mcp-telegram,<0.19.1,2026-09-27T12:05:57.117Z
+GHSA-rxxp-482v-7mrh,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.209Z
+GHSA-rxxp-482v-7mrh,npm:openclaw,<2026.2.22,2026-09-03T03:48:21.397Z
+GHSA-v228-72c7-fx8j,github:aas-ee/open-websearch,<2.1.7,2026-09-03T03:35:07.908Z
+GHSA-v2v2-f783-358j,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:46.500Z
+GHSA-v2v2-f783-358j,npm:openclaw,<2026.3.28,2026-09-04T05:42:43.230Z
+GHSA-v2ww-5rh7-2h5v,github:openclaw/openclaw,<2026.5.12,2026-09-03T03:36:06.316Z
+GHSA-v2ww-5rh7-2h5v,npm:openclaw,<2026.5.12,2026-09-04T05:42:43.303Z
+GHSA-v38x-c887-992f,npm:flowise,<3.1.0,2026-09-03T03:37:56.698Z
+GHSA-v38x-c887-992f,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.699Z
+GHSA-v3j7-34xh-6g3w,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:33.839Z
+GHSA-v3j7-34xh-6g3w,npm:openclaw,<2026.2.22,2026-09-04T05:42:43.432Z
+GHSA-v3qc-wrwx-j3pw,github:openclaw/openclaw,<2026.3.28,2026-09-03T03:35:52.342Z
+GHSA-v3qc-wrwx-j3pw,npm:openclaw,<2026.3.28,2026-09-04T05:42:43.523Z
+GHSA-v4f6-x5g5-2g4g,github:openclaw/openclaw,>=2026.5.28 <2026.6.6,2026-09-03T03:36:06.360Z
+GHSA-v4p8-mg3p-g94g,github:berriai/litellm,">= 1.74.2, < 1.83.7",2026-09-03T03:35:07.898Z
+GHSA-v4xv-rqh3-w9mc,github:cursor/cursor,<3.0.0,2026-09-10T05:45:28.794Z
+GHSA-v54h-q2vx-vgg4,github:openclaw/openclaw,<2026.5.27,2026-09-03T03:36:06.381Z
+GHSA-v5w9-prxf-w882,npm:flowise,3.0.1,2026-09-03T03:37:56.748Z
+GHSA-v6c6-vqqg-w888,github:openclaw/openclaw,>=2026.1.5 <2026.2.14,2026-09-03T03:35:33.804Z
+GHSA-v6c6-vqqg-w888,npm:openclaw,>=2026.1.5 <2026.2.14,2026-09-04T05:42:43.665Z
+GHSA-v6ph-xcq9-qxxj,github:agentfront/frontmcp,<1.0.4,2026-09-03T03:34:54.061Z
+GHSA-v6ph-xcq9-qxxj,npm:@frontmcp/adapters,<1.0.4,2026-09-04T05:41:42.049Z
+GHSA-v6ph-xcq9-qxxj,npm:@frontmcp/sdk,<1.0.4,2026-09-04T05:41:42.046Z
+GHSA-v6ph-xcq9-qxxj,npm:mcp-from-openapi,<2.3.0,2026-09-04T05:41:42.042Z
+GHSA-v6r2-jh58-xx6w,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:35:59.178Z
+GHSA-v6r2-jh58-xx6w,npm:openclaw,<2026.5.18,2026-09-04T05:42:43.755Z
+GHSA-v6x2-2qvm-6gv8,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.225Z
+GHSA-v6x2-2qvm-6gv8,npm:openclaw,<2026.2.22,2026-09-04T05:42:43.872Z
+GHSA-v773-r54f-q32w,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.793Z
+GHSA-v773-r54f-q32w,npm:openclaw,<2026.2.14,2026-09-04T05:42:43.992Z
+GHSA-v7c4-33vf-cqqq,npm:@samanhappy/mcphub,<=0.9.10,2026-09-12T06:10:57.586Z
+GHSA-v7hx-r36p-f68m,github:openclaw/openclaw,>=2026.6.6 <2026.6.9,2026-09-03T03:36:06.350Z
+GHSA-v7px-3835-7gjx,pypi:praisonaiagents,<1.5.128,2026-09-28T05:59:33.359Z
+GHSA-v847-hxxw-3pxg,pypi:praisonai,>=4.5.87 <4.6.59,2026-09-27T12:06:09.154Z
+GHSA-v865-p3gq-hw6m,github:openclaw/openclaw,<2026.3.2,2026-09-03T03:35:40.162Z
+GHSA-v865-p3gq-hw6m,npm:openclaw,<2026.3.2,2026-09-04T05:42:44.085Z
+GHSA-v892-hwpg-jwqp,github:openclaw/openclaw,>=2026.1.16-2 <2026.2.14,2026-09-03T03:35:33.825Z
+GHSA-v892-hwpg-jwqp,npm:openclaw,>=2026.1.16-2 <2026.2.14,2026-09-04T05:42:44.198Z
+GHSA-v8cg-4474-49v8,github:openclaw/openclaw,<2026.2.26,2026-09-03T03:35:40.223Z
+GHSA-v8cg-4474-49v8,npm:openclaw,<2026.2.26,2026-09-04T05:42:44.304Z
+GHSA-v8cx-933x-r976,github:openclaw/openclaw,<2026.4.25,2026-09-03T03:35:59.181Z
+GHSA-v8cx-933x-r976,npm:openclaw,<2026.4.25,2026-09-04T05:42:44.458Z
+GHSA-v8g7-9q6v-p3x8,pypi:praisonaiagents,<1.5.128,2026-09-28T05:59:33.506Z
+GHSA-v8mm-56q4-h26q,pypi:websetup,>=0.1.0 <=0.1.0,2026-09-11T05:46:08.401Z
+GHSA-v8qf-fr4g-28p2,github:openclaw/openclaw,<2026.4.20,2026-09-03T03:35:52.311Z
+GHSA-v8qf-fr4g-28p2,npm:openclaw,<2026.4.20,2026-09-04T05:42:44.568Z
+GHSA-v8v5-c872-mf8r,github:thinkinaixyz/deepchat,<0.5.0,2026-09-03T03:35:01.087Z
+GHSA-v8vw-gw5j-w7m6,github:modelcontextprotocol/registry,">= 1.1.0, < 1.7.5",2026-09-03T03:35:07.913Z
+GHSA-v8wv-jg3q-qwpq,github:openclaw/openclaw,<2026.3.24,2026-09-03T03:35:46.507Z
+GHSA-v8wv-jg3q-qwpq,npm:openclaw,<2026.3.24,2026-09-04T05:42:44.687Z
+GHSA-v9m3-wfh8-5646,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.458Z
+GHSA-vc25-24vv-fxxm,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.470Z
+GHSA-vc32-h5mq-453v,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:52.419Z
+GHSA-vc32-h5mq-453v,npm:openclaw,<2026.4.8,2026-09-04T05:42:44.777Z
+GHSA-vc46-vw85-3wvm,pypi:praisonai,<4.5.139,2026-09-27T12:06:09.263Z
+GHSA-vc46-vw85-3wvm,pypi:praisonaiagents,<1.5.140,2026-09-27T12:06:09.261Z
+GHSA-vc8m-84rp-53hx,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.483Z
+GHSA-vcpv-j6jh-qcc2,npm:@squawk/mcp,"0.9.3, 0.9.4, 0.9.5, 0.9.2, 0.9.1",2026-09-30T06:42:13.883Z
+GHSA-vcqx-v2mg-7chx,pypi:mcp-neo4j-cypher,>=0.2.2 <=0.3.1,2026-09-03T03:35:01.067Z
+GHSA-vcv2-r9jh-99m5,github:ruvnet/agentic-flow,<2.0.14,2026-09-03T03:35:13.348Z
+GHSA-vcv2-r9jh-99m5,npm:agentic-flow,<2.0.14,2026-09-03T03:22:31.841Z
+GHSA-vcwp-f9rq-3887,github:flowiseai/flowise,<3.1.4,2026-09-16T05:59:52.034Z
+GHSA-vcx4-4qxg-mfp4,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.529Z
+GHSA-vcx4-4qxg-mfp4,npm:openclaw,<=2026.3.24,2026-09-04T05:42:44.880Z
+GHSA-vf6j-c56p-cq58,github:smn2gnt/mcp-salesforce,<0.1.10,2026-09-03T03:34:54.051Z
+GHSA-vf9j-h32g-2764,npm:mcp-package-docs,<0.1.28,2026-09-20T08:35:52.184Z
+GHSA-vffc-f7r7-rx2w,github:openclaw/openclaw,>=2026.2.19-2 <2026.2.21,2026-09-03T03:35:33.833Z
+GHSA-vffc-f7r7-rx2w,npm:openclaw,<2026.2.21,2026-09-04T05:42:44.956Z
+GHSA-vfg3-pqpq-93m4,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.539Z
+GHSA-vfg3-pqpq-93m4,npm:openclaw,<2026.3.22,2026-09-04T05:42:45.083Z
+GHSA-vfp4-8x56-j7c5,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.128Z
+GHSA-vfp4-8x56-j7c5,npm:openclaw,<2026.4.10,2026-09-04T05:42:45.190Z
+GHSA-vfw7-6rhc-6xxg,github:openclaw/openclaw,<2026.3.24,2026-09-03T03:35:52.389Z
+GHSA-vfw7-6rhc-6xxg,npm:openclaw,<2026.3.24,2026-09-04T05:42:45.617Z
+GHSA-vg22-4gmj-prxw,pypi:praisonai,<4.6.40,2026-09-27T12:06:09.438Z
+GHSA-vg6p-v9vm-6fgj,pypi:praisonaiagents,<1.6.58,2026-09-28T05:59:33.613Z
+GHSA-vhf8-cg2h-cg3p,github:n8n-io/n8n,<2.32.1 || <2.31.5,2026-09-03T03:35:13.369Z
+GHSA-vhpg-cq3w-v8p9,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:30.853Z
+GHSA-vhw5-3g5m-8ggf,github:anthropics/claude-code,<1.0.111,2026-09-03T03:35:26.369Z
+GHSA-vhwf-4x96-vqx2,github:openclaw/openclaw,<2026.3.8,2026-09-03T03:35:46.478Z
+GHSA-vhwf-4x96-vqx2,npm:openclaw,<2026.3.8,2026-09-04T05:42:45.731Z
+GHSA-vj3g-5px3-gr46,github:openclaw/openclaw,<2026.2.19,2026-09-03T03:35:33.839Z
+GHSA-vj3g-5px3-gr46,npm:openclaw,<2026.2.19,2026-09-03T03:48:19.747Z
+GHSA-vj7q-gjh5-988w,github:modelcontextprotocol/python-sdk,<1.28.1,2026-09-03T03:34:54.077Z
+GHSA-vjp8-wprm-2jw9,github:openclaw/openclaw,<2026.2.26,2026-09-03T03:35:40.222Z
+GHSA-vjp8-wprm-2jw9,npm:openclaw,<2026.2.26,2026-09-04T05:42:45.953Z
+GHSA-vjqx-cfc4-9h6v,github:modelcontextprotocol/servers,<2026.1.14,2026-09-03T03:34:54.052Z
+GHSA-vjqx-cfc4-9h6v,pypi:mcp-server-git,<2026.1.14,2026-09-04T05:42:56.826Z
+GHSA-vjx8-8p7h-82gr,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.286Z
+GHSA-vjx8-8p7h-82gr,npm:openclaw,<2026.3.31,2026-09-04T05:42:46.039Z
+GHSA-vmf9-xx9w-86wx,pypi:praisonai,>=3.10.0 <4.6.59,2026-09-27T12:06:09.564Z
+GHSA-vmf9-xx9w-86wx,pypi:praisonaiagents,>=0.6.0 <1.6.59,2026-09-27T12:06:09.562Z
+GHSA-vmhq-cqm9-6p7q,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:46.458Z
+GHSA-vmhq-cqm9-6p7q,npm:openclaw,<2026.3.11,2026-09-04T05:42:46.139Z
+GHSA-vmp7-252j-cwp7,github:zereight/gitlab-mcp,<2.1.30,2026-09-16T05:59:45.578Z
+GHSA-vmp7-252j-cwp7,npm:@zereight/mcp-gitlab,<2.1.30,2026-09-16T05:58:47.992Z
+GHSA-vmqr-rc7x-3446,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:33.837Z
+GHSA-vmqr-rc7x-3446,npm:openclaw,<2026.2.22,2026-09-04T05:42:46.251Z
+GHSA-vmv7-4m6c-3cg5,npm:flowise,<3.1.3,2026-09-03T03:37:56.652Z
+GHSA-vmv7-4m6c-3cg5,npm:flowise-components,<3.1.3,2026-09-03T03:37:56.652Z
+GHSA-vp62-r36r-9xqp,github:anthropics/claude-code,<2.1.64,2026-09-03T03:35:26.382Z
+GHSA-vphc-468g-8rfp,github:pab1it0/adx-mcp-server,<= 1.1.0,2026-09-03T03:34:54.056Z
+GHSA-vpj2-69hf-rppw,github:openclaw/openclaw,<2026.3.1,2026-09-03T03:35:40.199Z
+GHSA-vpj2-69hf-rppw,npm:openclaw,<2026.3.1,2026-09-04T05:42:46.362Z
+GHSA-vqx8-9xxw-f2m7,github:openclaw/openclaw,<2026.2.23,2026-09-03T03:35:40.213Z
+GHSA-vqx8-9xxw-f2m7,npm:openclaw,<2026.2.23,2026-09-04T05:42:46.556Z
+GHSA-vr5g-mmx7-h897,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:52.422Z
+GHSA-vr5g-mmx7-h897,npm:openclaw,<2026.4.8,2026-09-04T05:42:46.671Z
+GHSA-vr7j-7684-7gm5,github:openclaw/openclaw,<2026.6.5,2026-09-03T03:36:06.383Z
+GHSA-vr7j-g7jv-h5mp,github:openclaw/openclaw,<2026.2.17,2026-09-03T03:35:46.475Z
+GHSA-vr7j-g7jv-h5mp,npm:openclaw,<2026.2.17,2026-09-04T05:42:46.793Z
+GHSA-vrxg-gm77-7q5g,github:cursortouch/windows-mcp,<0.7.5,2026-09-03T03:35:07.925Z
+GHSA-vrxg-gm77-7q5g,pypi:windows-mcp,<0.7.5,2026-09-27T12:06:20.996Z
+GHSA-vv7q-7jx5-f767,github:prefecthq/fastmcp,<3.2.0,2026-09-03T03:35:07.870Z
+GHSA-vvgp-4c28-m3jm,github:openclaw/openclaw,<2026.2.25,2026-09-03T03:35:40.218Z
+GHSA-vvgp-4c28-m3jm,npm:openclaw,<2026.2.25,2026-09-04T05:42:46.893Z
+GHSA-vvjh-f6p9-5vcf,github:openclaw/openclaw,2026.2.17,2026-09-03T03:35:46.585Z
+GHSA-vvjh-f6p9-5vcf,npm:openclaw,<2026.2.19,2026-09-04T05:42:46.987Z
+GHSA-vw3h-q6xq-jjm5,github:openclaw/openclaw,>=2026.4.9 <2026.4.10,2026-09-03T03:35:59.080Z
+GHSA-vw3h-q6xq-jjm5,npm:openclaw,>=2026.4.9 <2026.4.10,2026-09-04T05:42:47.064Z
+GHSA-vw82-7fv8-r6gp,github:obot-platform/obot,<0.21.1,2026-09-28T06:02:36.300Z
+GHSA-vwf3-4xxj-qg6h,pypi:mcp-contextforge-gateway,<1.0.0,2026-09-30T06:42:17.571Z
+GHSA-vxgj-xg5c-p4h7,pypi:praisonaiagents,<1.6.59,2026-09-28T05:59:33.840Z
+GHSA-vxx3-6hc9-7cc3,github:openclaw/openclaw,<2026.5.12,2026-09-03T03:35:59.172Z
+GHSA-vxx3-6hc9-7cc3,npm:openclaw,<2026.5.12,2026-09-04T05:42:47.174Z
+GHSA-w235-x559-36mg,github:openclaw/openclaw,<2026.2.15,2026-09-03T03:35:33.777Z
+GHSA-w235-x559-36mg,npm:openclaw,<2026.2.15,2026-09-04T05:42:47.332Z
+GHSA-w2cg-vxx6-5xjg,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.828Z
+GHSA-w2cg-vxx6-5xjg,npm:clawdbot,<=2026.1.24-3,2026-09-04T05:42:47.453Z
+GHSA-w2cg-vxx6-5xjg,npm:openclaw,<2026.2.14,2026-09-04T05:42:47.451Z
+GHSA-w2fm-25vw-vh7f,npm:mcp-handler,<1.1.0,2026-09-04T05:41:38.998Z
+GHSA-w37c-qqfp-c67f,pypi:praisonaiagents,<1.5.90,2026-09-28T05:59:33.979Z
+GHSA-w45g-5746-x9fp,github:openclaw/openclaw,<2026.2.19,2026-09-03T03:35:33.787Z
+GHSA-w45g-5746-x9fp,npm:openclaw,<2026.2.19,2026-09-04T05:42:47.560Z
+GHSA-w47f-j8rh-wx87,npm:flowise,<3.1.0,2026-09-03T03:37:56.702Z
+GHSA-w48q-cv73-mx4w,github:modelcontextprotocol/typescript-sdk,<1.24.0,2026-09-03T03:34:54.040Z
+GHSA-w4q6-qw23-4rg7,github:github/github-mcp-server,<1.1.0,2026-09-03T03:35:13.360Z
+GHSA-w4v6-g3wm-w36c,github:openclaw/openclaw,<2026.4.29,2026-09-03T03:35:59.166Z
+GHSA-w4v6-g3wm-w36c,npm:openclaw,<2026.4.29,2026-09-04T05:42:47.636Z
+GHSA-w5c7-9qqw-6645,npm:openclaw,<2026.2.13,2026-09-04T05:42:47.758Z
+GHSA-w5ww-7chg-mxcq,github:openclaw/openclaw,<2026.5.6,2026-09-03T03:35:59.173Z
+GHSA-w5ww-7chg-mxcq,npm:openclaw,<2026.5.6,2026-09-04T05:42:47.834Z
+GHSA-w5x7-c87m-3jpc,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:30.947Z
+GHSA-w63r-vpcf-2wwf,npm:@apexfdn/apex,"1.0.32, 1.0.31, 1.0.30, 1.0.29, 1.0.28, 1.0.27, 1.0.26, 1.0.25, 1.0.24, 1.0.23, 1.0.22, 1.0.21, 1.0.20, 1.0.19, 1.0.18, 1.0.17, 1.0.16, 1.0.15, 1.0.14, 1.0.13, 1.0.12, 1.0.11, 1.0.10, 1.0.9, 1.0.8, 1.0.7, 1.0.6, 1.0.5, 1.0.4, 1.0.3, 1.0.2, 1.0.1",2026-09-04T05:42:57.280Z
+GHSA-w64r-2g3w-w8w4,github:coder/agentapi,<0.4.0,2026-09-03T03:35:26.360Z
+GHSA-w66g-j6c4-hcfc,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.300Z
+GHSA-w6h2-fr4q-xvxv,pypi:praisonai,>=4.6.10 <4.6.59,2026-09-27T12:06:09.658Z
+GHSA-w6m8-cqvj-pg5v,github:openclaw/openclaw,<2026.3.24,2026-09-03T03:35:46.576Z
+GHSA-w6m8-cqvj-pg5v,npm:openclaw,<2026.3.24,2026-09-04T05:42:47.952Z
+GHSA-w6v6-49gh-mc9w,npm:flowise,<3.1.0,2026-09-03T03:37:56.729Z
+GHSA-w6v6-49gh-mc9w,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.729Z
+GHSA-w6wx-jq6j-6mcj,github:openclaw/openclaw,<2026.4.2,2026-09-03T03:35:52.358Z
+GHSA-w6wx-jq6j-6mcj,npm:openclaw,<2026.4.2,2026-09-04T05:42:48.064Z
+GHSA-w76h-8m22-hpgh,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.195Z
+GHSA-w76h-8m22-hpgh,npm:openclaw,<2026.2.22,2026-09-04T05:42:48.209Z
+GHSA-w7j5-j98m-w679,npm:openclaw,<2026.2.21,2026-09-04T05:42:48.316Z
+GHSA-w85g-3h6x-4xh2,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.318Z
+GHSA-w85g-3h6x-4xh2,npm:openclaw,<2026.3.31,2026-09-04T05:42:48.411Z
+GHSA-w8g9-x8gx-crmm,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:59.065Z
+GHSA-w8g9-x8gx-crmm,npm:openclaw,<2026.4.8,2026-09-04T05:42:48.505Z
+GHSA-w8wf-3qvj-6xqf,github:openclaw/openclaw,<2026.6.9,2026-09-03T03:36:06.346Z
+GHSA-w9cg-v44m-4qv8,npm:openclaw,<2026.2.21,2026-09-04T05:42:48.619Z
+GHSA-w9hf-3pp7-pvxv,github:openclaw/openclaw,<2026.5.12,2026-09-03T03:36:06.295Z
+GHSA-w9hf-3pp7-pvxv,npm:openclaw,<2026.5.12,2026-09-04T05:42:48.714Z
+GHSA-wc84-j36w-pw4x,github:openclaw/openclaw,<2026.5.2,2026-09-03T03:36:06.324Z
+GHSA-wc84-j36w-pw4x,npm:openclaw,<2026.5.2,2026-09-04T05:42:48.922Z
+GHSA-wch5-xp77-fxg4,npm:flowise,<3.1.3,2026-09-03T03:37:56.623Z
+GHSA-wcxr-59v9-rxr8,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:40.235Z
+GHSA-wcxr-59v9-rxr8,npm:openclaw,<2026.3.11,2026-09-04T05:42:49.024Z
+GHSA-wf8q-wvv8-p8jf,npm:@samanhappy/mcphub,<0.12.15,2026-09-12T06:10:57.682Z
+GHSA-wfp2-v9c7-fh79,github:openclaw/openclaw,<2026.2.2,2026-09-03T03:35:33.811Z
+GHSA-wfp2-v9c7-fh79,npm:openclaw,<2026.2.2,2026-09-04T05:42:49.130Z
+GHSA-wfqf-hqwq-8wvf,github:samanhappy/mcphub,<1.0.30,2026-09-03T03:35:19.782Z
+GHSA-wg3x-7c26-97wj,github:nanbingxyz/5ire,<0.15.3,2026-09-03T03:34:54.048Z
+GHSA-wg4g-395p-mqv3,github:czlonkowski/n8n-mcp,<2.47.13,2026-09-03T03:35:07.901Z
+GHSA-wg4g-395p-mqv3,npm:n8n-mcp,<2.47.13,2026-09-04T05:41:40.658Z
+GHSA-wg86-r78f-74mp,npm:flowise,<3.1.3,2026-09-03T03:37:56.657Z
+GHSA-wg86-r78f-74mp,npm:flowise-components,<3.1.3,2026-09-03T03:37:56.657Z
+GHSA-wgpv-6j63-x5ph,npm:flowise,<3.0.6,2026-09-03T03:37:56.770Z
+GHSA-wgq8-x5wm-g4rw,github:openclaw/openclaw,>=2026.6.5 <2026.6.9,2026-09-03T03:36:06.353Z
+GHSA-wh94-p5m6-mr7j,github:openclaw/openclaw,<2026.2.18,2026-09-03T03:35:33.784Z
+GHSA-wh94-p5m6-mr7j,npm:openclaw,<2026.2.18,2026-09-04T05:42:49.328Z
+GHSA-whf9-3hcx-gq54,github:openclaw/openclaw,<2026.4.8,2026-09-03T03:35:52.431Z
+GHSA-whf9-3hcx-gq54,npm:openclaw,<2026.4.8,2026-09-04T05:42:49.415Z
+GHSA-wj33-264c-j9cq,github:cursor/cursor,<= 1.7,2026-09-03T03:35:01.076Z
+GHSA-wj55-88gf-x564,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.556Z
+GHSA-wj55-88gf-x564,npm:openclaw,<2026.3.22,2026-09-04T05:42:49.522Z
+GHSA-wj6g-v78p-6fx3,github:mervinpraison/praisonai,<4.6.58,2026-09-03T03:35:13.382Z
+GHSA-wj6g-v78p-6fx3,pypi:praisonai,<4.6.58,2026-09-27T12:06:09.772Z
+GHSA-wjfv-5qch-m5vj,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:30.935Z
+GHSA-wm45-qh3g-v83f,github:sooperset/mcp-atlassian,<0.22.0,2026-09-15T06:01:19.051Z
+GHSA-wm8r-w8pf-2v6w,github:openclaw/openclaw,<2026.2.26,2026-09-03T03:35:40.147Z
+GHSA-wm8r-w8pf-2v6w,npm:openclaw,<2026.2.26,2026-09-04T05:42:49.649Z
+GHSA-wm96-9gfh-vvgq,pypi:hermes-agent,<0.11.0,2026-09-04T05:42:55.345Z
+GHSA-wp73-f3gg-w4vr,github:openclaw/openclaw,>=2026.5.10 <2026.6.5,2026-09-03T03:36:06.374Z
+GHSA-wp74-f5hh-5f3r,npm:flowise,<3.1.3,2026-09-03T03:37:56.659Z
+GHSA-wpc6-37g7-8q4w,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.398Z
+GHSA-wpc6-37g7-8q4w,npm:openclaw,<2026.3.31,2026-09-04T05:42:49.754Z
+GHSA-wpg9-4g4v-f9rc,github:openclaw/openclaw,<2026.3.2,2026-09-03T03:35:40.193Z
+GHSA-wpg9-4g4v-f9rc,npm:openclaw,<2026.3.2,2026-09-04T05:42:49.857Z
+GHSA-wppf-h75h-6pm6,github:ihor-sokoliuk/mcp-searxng,<1.2.0,2026-09-16T05:59:45.550Z
+GHSA-wppf-h75h-6pm6,npm:mcp-searxng,<1.2.1,2026-09-04T05:41:41.831Z
+GHSA-wpph-cjgr-7c39,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.197Z
+GHSA-wpph-cjgr-7c39,npm:openclaw,<2026.2.22,2026-09-04T05:42:49.962Z
+GHSA-wppj-c6mr-83jj,github:openclaw/openclaw,<2026.4.22,2026-09-03T03:35:59.135Z
+GHSA-wppj-c6mr-83jj,npm:openclaw,<2026.4.22,2026-09-04T05:42:50.069Z
+GHSA-wq58-2pvg-5h4f,github:openclaw/openclaw,<2026.3.23,2026-09-03T03:35:46.570Z
+GHSA-wq58-2pvg-5h4f,npm:openclaw,<2026.3.23,2026-09-04T05:42:50.186Z
+GHSA-wq95-wr7m-26h4,npm:flowise,<3.0.5,2026-09-03T03:37:56.759Z
+GHSA-wqrj-vp8w-f8vh,github:apollographql/apollo-mcp-server,<1.7.0,2026-09-03T03:34:54.063Z
+GHSA-wr6m-jg37-68xh,github:openclaw/openclaw,<2026.3.1,2026-09-03T03:35:40.141Z
+GHSA-wr6m-jg37-68xh,npm:openclaw,<2026.3.1,2026-09-04T05:42:50.316Z
+GHSA-wrhw-j3f9-8vc6,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.276Z
+GHSA-wv26-j37q-2g7p,github:openclaw/openclaw,<2026.5.12,2026-09-03T03:35:59.165Z
+GHSA-wv26-j37q-2g7p,npm:openclaw,<2026.5.12,2026-09-04T05:42:50.433Z
+GHSA-wv46-v6xc-2qhf,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.582Z
+GHSA-wv46-v6xc-2qhf,npm:openclaw,<2026.3.22,2026-09-04T05:42:50.536Z
+GHSA-wv63-cq38-qg58,github:pdovhomilja/nextcrm-app,= 0.12.1,2026-09-03T03:35:13.352Z
+GHSA-wv8v-v4c5-v75j,github:sooperset/mcp-atlassian,<0.22.0,2026-09-23T05:47:36.419Z
+GHSA-wv94-5qcp-6m36,pypi:praisonai,<4.6.58,2026-09-27T12:06:09.868Z
+GHSA-wvhq-wp8g-c7vq,npm:flowise,<3.0.13,2026-09-03T03:37:56.744Z
+GHSA-wvxp-jp4w-w8wg,github:flux159/mcp-server-kubernetes,<2.9.8,2026-09-03T03:35:01.088Z
+GHSA-wvxp-jp4w-w8wg,npm:mcp-server-kubernetes,<2.9.8,2026-09-04T05:41:43.922Z
+GHSA-ww6v-v748-x7g9,github:openclaw/openclaw,<2026.2.24,2026-09-03T03:35:40.196Z
+GHSA-ww6v-v748-x7g9,npm:openclaw,<2026.2.24,2026-09-04T05:42:50.681Z
+GHSA-wwcw-jfpp-gpxw,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.103Z
+GHSA-wwfp-w96m-c6x8,github:openclaw/openclaw,>=2026.2.26 <2026.3.31,2026-09-03T03:35:52.338Z
+GHSA-wwfp-w96m-c6x8,npm:openclaw,>=2026.2.26 <2026.3.31,2026-09-04T05:42:50.793Z
+GHSA-wwx7-573h-pqwc,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.607Z
+GHSA-wxh3-g47h-q3mc,github:openclaw/openclaw,<2026.6.6,2026-09-03T03:36:06.367Z
+GHSA-wxm4-9f8p-gggv,npm:flowise,<=1.4.3,2026-09-04T05:43:41.326Z
+GHSA-wxm8-ghhq-q688,github:openclaw/openclaw,<2026.5.28,2026-09-03T03:36:06.379Z
+GHSA-wxrr-jp8m-qq7f,npm:flowise,<3.1.2,2026-09-03T03:37:56.669Z
+GHSA-x227-pf99-vffg,pypi:praisonaiagents,<1.6.59,2026-09-28T05:59:34.200Z
+GHSA-x22m-j5qq-j49m,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.800Z
+GHSA-x22m-j5qq-j49m,npm:openclaw,<2026.2.14,2026-09-04T05:42:50.896Z
+GHSA-x2cm-hg9c-mf5w,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.573Z
+GHSA-x2cm-hg9c-mf5w,npm:openclaw,<2026.3.22,2026-09-04T05:42:51.000Z
+GHSA-x2ff-j5c2-ggpr,github:openclaw/openclaw,<2026.2.25,2026-09-03T03:35:40.163Z
+GHSA-x2ff-j5c2-ggpr,npm:openclaw,<2026.2.25,2026-09-04T05:42:51.127Z
+GHSA-x2g5-fvc2-gqvp,npm:flowise,<3.0.13,2026-09-03T03:37:56.746Z
+GHSA-x2m8-53h4-6hch,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.386Z
+GHSA-x2m8-53h4-6hch,npm:openclaw,<2026.3.31,2026-09-04T05:42:51.228Z
+GHSA-x39x-9qw5-ghrf,pypi:browser-use,<0.1.45,2026-09-27T12:06:21.415Z
+GHSA-x3cv-r3g3-fpg9,github:neo4j-contrib/mcp-neo4j,<0.6.0,2026-09-03T03:35:07.887Z
+GHSA-x3cv-r3g3-fpg9,pypi:mcp-neo4j-cypher,<0.6.0,2026-09-27T12:05:52.482Z
+GHSA-x3h8-jrgh-p8jx,github:openclaw/openclaw,<2026.4.22,2026-09-03T03:35:59.140Z
+GHSA-x3h8-jrgh-p8jx,npm:openclaw,<2026.4.22,2026-09-04T05:42:51.308Z
+GHSA-x3hf-7cj6-3r4m,npm:flowise,<3.1.3,2026-09-03T03:37:56.644Z
+GHSA-x3hf-7cj6-3r4m,npm:flowise-components,<3.1.3,2026-09-03T03:37:56.644Z
+GHSA-x44h-65qv-cw74,pypi:praisonaiagents,<1.6.58,2026-09-28T05:59:34.302Z
+GHSA-x462-jjpc-q4q4,pypi:praisonaiagents,<4.5.128,2026-09-28T05:59:34.409Z
+GHSA-x4vp-4235-65hg,github:openclaw/openclaw,<2026.3.2,2026-09-03T03:35:40.169Z
+GHSA-x4vp-4235-65hg,npm:openclaw,<2026.3.2,2026-09-04T05:42:51.430Z
+GHSA-x56v-x2h6-7j34,github:anthropics/claude-code,<1.0.20,2026-09-03T03:35:26.350Z
+GHSA-x5gv-jw7f-j6xj,github:anthropics/claude-code,<1.0.4,2026-09-03T03:35:26.352Z
+GHSA-x5v6-pj28-cwwm,npm:flowise,<3.1.2,2026-09-03T03:37:56.690Z
+GHSA-x5w6-38gp-mrqh,npm:flowise,<3.1.0,2026-09-03T03:37:56.708Z
+GHSA-x629-46cc-7xgw,github:openclaw/openclaw,<2026.5.6,2026-09-03T03:36:06.306Z
+GHSA-x629-46cc-7xgw,npm:openclaw,<2026.5.6,2026-09-04T05:42:51.539Z
+GHSA-x65c-w438-c58f,github:1panel-dev/maxkb,<= 2.10.2-lts,2026-09-22T05:59:06.296Z
+GHSA-x6m9-gxvr-7jpv,pypi:praisonai,<4.5.90,2026-09-27T12:06:09.996Z
+GHSA-x6vm-w76m-8j7g,npm:flowise,<3.1.3,2026-09-03T03:37:56.650Z
+GHSA-x6vm-w76m-8j7g,npm:flowise-components,<3.1.3,2026-09-03T03:37:56.650Z
+GHSA-x783-xp3g-mqhp,pypi:praisonai,<4.5.133,2026-09-27T12:06:10.132Z
+GHSA-x7rp-qj2h-ghgw,npm:flowise,<3.0.10,2026-09-03T03:37:56.749Z
+GHSA-x7x8-95gh-42xm,github:flowiseai/flowise,<3.1.4,2026-09-16T05:59:52.048Z
+GHSA-x82f-27x3-q89c,npm:openclaw,<2026.3.1,2026-09-04T05:42:51.641Z
+GHSA-x82h-9r8v-m672,github:work90210/apifold,<7f19b52280f414f57af2b79a95333d1c8fbeece5,2026-09-03T03:35:13.356Z
+GHSA-x863-pqjw-hmgf,github:openclaw/openclaw,>=2026.3.28 <2026.5.19,2026-09-03T03:36:06.399Z
+GHSA-x8cv-xmq7-p8xp,pypi:praisonaiagents,<1.6.59,2026-09-28T05:59:34.517Z
+GHSA-x92v-rpx6-p6cw,pypi:praisonai,<4.6.59,2026-09-27T12:06:10.281Z
+GHSA-x975-rgx4-5fh4,github:appium/appium-mcp,<1.85.10,2026-09-03T03:35:13.335Z
+GHSA-x9cf-3w63-rpq9,github:openclaw/openclaw,<2026.2.19,2026-09-03T03:35:40.188Z
+GHSA-x9cf-3w63-rpq9,npm:openclaw,<2026.2.19,2026-09-04T05:42:51.740Z
+GHSA-x9vc-9ffq-p3gj,github:labs64/netlicensing-mcp,<0.1.6,2026-09-18T06:00:10.016Z
+GHSA-x9vc-9ffq-p3gj,pypi:netlicensing-mcp,<0.1.6,2026-09-27T12:06:20.784Z
+GHSA-x9vj-5m4j-9mfv,github:labring/fastgpt,<4.14.9.5,2026-09-03T03:35:07.863Z
+GHSA-xc48-889x-5qmw,github:flowiseai/flowise,<3.1.3,2026-09-03T03:35:13.365Z
+GHSA-xc48-889x-5qmw,npm:flowise,<3.1.3,2026-09-03T03:37:56.639Z
+GHSA-xc48-889x-5qmw,npm:flowise-components,<3.1.3,2026-09-03T03:37:56.639Z
+GHSA-xc7w-v5x6-cc87,github:openclaw/openclaw,<2026.2.12,2026-09-03T03:35:33.829Z
+GHSA-xc7w-v5x6-cc87,npm:openclaw,<2026.2.12,2026-09-04T05:42:51.860Z
+GHSA-xc9g-j69q-37xw,github:ruvnet/sublinear-time-solver,<1.6.0,2026-09-03T03:35:13.388Z
+GHSA-xc9g-j69q-37xw,npm:consciousness-explorer,<1.1.2,2026-09-12T06:10:58.724Z
+GHSA-xc9g-j69q-37xw,npm:sublinear-time-solver,<1.6.0,2026-09-12T06:10:58.739Z
+GHSA-xcmw-grxf-wjhj,pypi:praisonai,>=4.5.139 <4.6.32,2026-09-27T12:06:10.440Z
+GHSA-xcqx-9jf5-w339,github:ihor-sokoliuk/mcp-searxng,<1.7.1,2026-09-16T05:59:45.571Z
+GHSA-xcqx-9jf5-w339,npm:mcp-searxng,<1.7.1,2026-09-04T05:41:41.931Z
+GHSA-xf99-j42q-5w5p,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:46.469Z
+GHSA-xf99-j42q-5w5p,npm:openclaw,<2026.3.11,2026-09-04T05:42:51.997Z
+GHSA-xg6w-rmh5-r77r,github:cursor/cursor,<1.7,2026-09-03T03:35:01.075Z
+GHSA-xgf2-vxv2-rrmg,github:openclaw/openclaw,<2026.2.22,2026-09-03T03:35:40.217Z
+GHSA-xgf2-vxv2-rrmg,npm:openclaw,<2026.2.22,2026-09-04T05:42:52.110Z
+GHSA-xh72-v6v9-mwhc,github:openclaw/openclaw,<2026.4.15,2026-09-03T03:35:59.131Z
+GHSA-xh72-v6v9-mwhc,npm:openclaw,<2026.4.15,2026-09-04T05:42:52.211Z
+GHSA-xh92-rqrq-227v,npm:@mastra/mcp-docs-server,<0.17.0,2026-09-30T06:42:09.677Z
+GHSA-xhcr-cqfr-m3hv,github:dep0we/atomic-agents-stack,<1.1.0,2026-09-16T05:59:52.058Z
+GHSA-xhmj-rg95-44hv,npm:flowise,<3.1.0,2026-09-03T03:37:56.715Z
+GHSA-xhmj-rg95-44hv,npm:flowise-components,<3.1.0,2026-09-03T03:37:56.715Z
+GHSA-xhq5-45pm-2gjr,github:openclaw/openclaw,<2026.3.22,2026-09-03T03:35:46.524Z
+GHSA-xhq5-45pm-2gjr,npm:openclaw,<2026.3.22,2026-09-04T05:42:52.377Z
+GHSA-xj5p-8h7g-76m7,github:translated/lara-mcp,<0.0.12,2026-09-03T03:34:54.034Z
+GHSA-xj5p-8h7g-76m7,npm:@translated/lara-mcp,<0.0.12,2026-09-12T06:10:59.268Z
+GHSA-xj5p-w2v5-fjm6,github:stacklok/toolhive,<0.0.33,2026-09-03T03:34:54.003Z
+GHSA-xj9w-5r6q-x6v4,github:openclaw/openclaw,<2026.3.31,2026-09-03T03:35:52.347Z
+GHSA-xj9w-5r6q-x6v4,npm:openclaw,<2026.3.31,2026-09-04T05:42:52.470Z
+GHSA-xjgw-4wvw-rgm4,github:sooperset/mcp-atlassian,<0.17.0,2026-09-03T03:34:54.054Z
+GHSA-xm98-3vcf-fph7,github:ibm/mcp-context-forge,<1.0.2,2026-09-16T05:59:52.069Z
+GHSA-xm98-3vcf-fph7,pypi:mcp-contextforge-gateway,<1.0.2,2026-09-30T06:42:17.799Z
+GHSA-xmv6-r34m-62p4,npm:openclaw,<2026.2.25,2026-09-04T05:42:52.589Z
+GHSA-xmxx-7p24-h892,github:openclaw/openclaw,<2026.4.15,2026-09-03T03:35:59.130Z
+GHSA-xmxx-7p24-h892,npm:openclaw,<2026.4.15,2026-09-04T05:42:52.701Z
+GHSA-xp9r-prpg-373r,github:openclaw/openclaw,<2026.3.24,2026-09-03T03:35:46.562Z
+GHSA-xp9r-prpg-373r,npm:openclaw,<2026.3.24,2026-09-04T05:42:52.805Z
+GHSA-xpww-f6pm-cfhq,github:dbt-labs/dbt-mcp,<1.17.1,2026-09-03T03:34:54.078Z
+GHSA-xpww-f6pm-cfhq,pypi:dbt-mcp,<1.17.1,2026-09-30T06:42:17.306Z
+GHSA-xq4m-mc3c-vvg3,github:anthropics/claude-code,<1.0.93,2026-09-03T03:35:26.366Z
+GHSA-xq8g-hgh6-87hv,github:openclaw/openclaw,<2026.3.25,2026-09-03T03:35:46.523Z
+GHSA-xq8g-hgh6-87hv,npm:openclaw,<=2026.3.24,2026-09-04T05:42:52.934Z
+GHSA-xq8w-9jvx-gm3v,pypi:hermes-agent,<=0.19.0,2026-09-04T05:42:55.483Z
+GHSA-xq94-r468-qwgj,github:openclaw/openclaw,<2026.4.10,2026-09-03T03:35:59.125Z
+GHSA-xq94-r468-qwgj,npm:openclaw,<2026.4.10,2026-09-04T05:42:53.040Z
+GHSA-xr4f-mjxj-w6w5,github:openclaw/openclaw,<2026.5.4,2026-09-03T03:35:59.163Z
+GHSA-xr4f-mjxj-w6w5,npm:openclaw,<2026.5.4,2026-09-04T05:42:53.117Z
+GHSA-xr72-j7vj-vp7g,github:leshchenko1979/fast-mcp-telegram,<30.1,2026-09-29T06:04:47.803Z
+GHSA-xrmc-c5cg-rv7x,npm:safeinstall-cli,<0.10.2,2026-09-27T12:05:58.422Z
+GHSA-xrmj-5g4g-8987,npm:@dynatrace-oss/dynatrace-mcp-server,<2.0.0,2026-09-27T12:05:56.176Z
+GHSA-xrq9-jm7v-g9h7,github:openclaw/openclaw,<2026.4.20,2026-09-03T03:35:52.313Z
+GHSA-xrq9-jm7v-g9h7,npm:openclaw,<2026.4.20,2026-09-04T05:42:53.217Z
+GHSA-xv8m-365j-x6h2,github:openagentplatform/dive,<0.11.1,2026-09-03T03:34:54.045Z
+GHSA-xvhf-x56f-2hpp,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.808Z
+GHSA-xvhf-x56f-2hpp,npm:openclaw,<2026.2.14,2026-09-04T05:42:53.343Z
+GHSA-xvx8-77m6-gwg6,github:openclaw/openclaw,<2026.3.11,2026-09-03T03:35:46.493Z
+GHSA-xvx8-77m6-gwg6,npm:openclaw,<2026.3.11,2026-09-04T05:42:53.462Z
+GHSA-xw48-j584-r73h,github:openclaw/openclaw,>=2026.6.6 <2026.8.1,2026-09-26T06:00:31.308Z
+GHSA-xw4p-pw82-hqr7,github:openclaw/openclaw,<2026.2.14,2026-09-03T03:35:33.804Z
+GHSA-xw4p-pw82-hqr7,npm:openclaw,<2026.2.14,2026-09-04T05:42:53.559Z
+GHSA-xw59-hvm2-8pj6,github:modelcontextprotocol/go-sdk,<1.4.0,2026-09-03T03:34:54.058Z
+GHSA-xw77-45gv-p728,github:openclaw/openclaw,>=2026.3.7 <2026.3.11,2026-09-03T03:35:46.482Z
+GHSA-xw77-45gv-p728,npm:openclaw,>=2026.3.7 <2026.3.11,2026-09-04T05:42:53.649Z
+GHSA-xw9g-7xvv-gcjc,github:openclaw/openclaw,<2026.7.1,2026-09-26T06:00:31.550Z
+GHSA-xwcj-hwhf-h378,github:openclaw/openclaw,<2026.3.13,2026-09-03T03:35:46.495Z
+GHSA-xwcj-hwhf-h378,npm:openclaw,<2026.3.13,2026-09-04T05:42:53.737Z
+GHSA-xwjm-j929-xq7c,github:openclaw/openclaw,">= 2026.1.12, < 2026.2.13",2026-09-03T03:35:33.775Z
+GHSA-xwjm-j929-xq7c,npm:openclaw,>=2026.1.12 <2026.2.13,2026-09-04T05:42:53.868Z
+GHSA-xwmw-prc4-v3cr,github:obot-platform/obot,<0.23.0,2026-09-28T06:02:36.224Z
+GHSA-xww8-gqvh-92x9,github:openclaw/openclaw,<2026.5.18,2026-09-03T03:36:06.267Z
+GHSA-xww8-gqvh-92x9,npm:openclaw,<2026.5.18,2026-09-04T05:42:53.973Z
+GHSA-xx9p-hc9w-6p5h,github:openclaw/openclaw,<2026.8.1,2026-09-26T06:00:31.230Z
+GHSA-xxvh-5hwj-42pp,github:openclaw/openclaw,<2026.2.15,2026-09-03T03:35:33.781Z
+GHSA-xxvh-5hwj-42pp,npm:openclaw,<2026.2.15,2026-09-04T05:42:54.080Z
+MAL-2025-190909,npm:@postman/postman-mcp-server,"2.4.11, 2.4.10, 2.4.12",2026-09-03T03:22:32.053Z
+MAL-2025-190922,npm:create-mcp-use-app,"0.5.3, 0.5.4",2026-09-12T06:10:58.465Z
+MAL-2025-190923,npm:mcp-use,"1.4.2, 1.4.3",2026-09-04T05:41:41.434Z
+MAL-2025-191196,npm:@browserbasehq/mcp-server-browserbase,2.4.2,2026-09-27T12:05:56.866Z
+MAL-2025-47604,npm:postmark-mcp,>=1.0.16,2026-09-04T05:42:57.580Z
+MAL-2026-10730,npm:codeam-cli,"2.61.1, 2.61.3",2026-09-04T05:41:44.484Z
+MAL-2026-10747,npm:sensorium-mcp,3.0.95,2026-09-12T06:10:59.705Z
+MAL-2026-11198,pypi:mcp-search-server,"1.0.0, 2.0.0, 2.0.1",2026-09-27T12:06:20.913Z
+MAL-2026-12314,npm:@copilot-mcp/apex,"1.0.0, 1.0.4, 1.0.6, 1.0.8, 1.0.2, 1.0.17, 1.0.3, 1.0.16, 1.0.22, 1.0.5, 1.0.7, 1.0.1, 1.0.21",2026-09-04T05:42:57.432Z
+MAL-2026-12789,npm:fa-mcp-sdk,0.12.72,2026-09-16T05:58:51.394Z
+MAL-2026-13370,npm:llm-interceptor,"0.3.0, 0.3.1, 0.3.4, 0.3.3, 0.4.0, 0.4.1, 0.3.8",2026-09-13T06:10:15.093Z
+MAL-2026-13399,npm:agenthub-multiagent-mcp,1.57.0,2026-09-15T06:00:01.152Z
+MAL-2026-13400,npm:agenttunnels,"0.1.11, 0.1.9, 0.1.6, 0.1.5, 0.1.12, 0.1.14",2026-09-12T06:10:59.611Z
+MAL-2026-13426,pypi:xayoub-xctxteam,"0.1.0, 0.1.1, 0.1.2",2026-09-04T05:43:00.645Z
+MAL-2026-13938,npm:@kolbo/mcp,1.57.1,2026-09-04T05:41:44.170Z
+MAL-2026-14131,pypi:infogram-bot,"1.0.0, 1.2.0, 1.2.1, 1.3.0, 1.4.0, 1.5.0, 1.6.0, 1.6.1, 1.7.0, 1.8.0, 1.9.0",2026-09-04T05:43:05.351Z
+MAL-2026-15922,npm:claude-channel-discord,9.9.9,2026-09-07T05:41:15.812Z
+MAL-2026-16061,npm:@yongot/canary-mcp-isolation,"1.0.1, 1.0.0, 1.0.2",2026-09-10T05:42:58.509Z
+MAL-2026-16062,npm:@yongot/canary-mcp-test,"3.0.0, 2.0.0, 4.0.0, 1.0.0",2026-09-10T05:42:58.597Z
+MAL-2026-16121,pypi:websetup,0.1.0,2026-09-12T06:10:59.805Z
+MAL-2026-16250,pypi:marketing-mcp,0.1.0,2026-09-19T05:58:57.522Z
+MAL-2026-16268,pypi:index-forum,2.5.4,2026-09-19T05:58:57.728Z
+MAL-2026-16409,npm:ubiquiti-agents-link-mcp,"0.0.1, 0.0.2, 0.2.0, 0.2.1",2026-09-24T05:58:43.992Z
+MAL-2026-16475,pypi:memoryos,2.0.34,2026-09-25T05:59:22.648Z
+MAL-2026-17195,pypi:claudedashbord,"0.1.0, 0.1.1, 0.1.2, 0.1.3",2026-09-28T05:59:28.912Z
+MAL-2026-17199,pypi:scrapetools2,"1.2.1, 1.2.0, 0.2.0, 0.2.1",2026-09-28T13:23:19.549Z
+MAL-2026-3679,npm:@2oolkit/hyperliquid-cli,"0.2.1, 0.2.2",2026-09-17T05:59:11.365Z
+MAL-2026-4146,npm:mcp-echarts,"0.8.1, 0.9.1",2026-09-15T06:00:00.973Z
+MAL-2026-4147,npm:mcp-mermaid,"0.5.1, 0.6.1",2026-09-04T05:41:44.372Z
+MAL-2026-4498,npm:bitrix24-tasks-mcp-server,"1.5.0, 1.2.0, 1.1.0, 1.4.0, 1.5.1",2026-09-12T06:10:57.056Z
+MAL-2026-4500,npm:bricks-builder-mcp,"3.11.2, 3.10.0, 3.6.1, 3.12.3",2026-09-12T06:10:56.942Z
+MAL-2026-4675,npm:supership-scan,1.0.0,2026-09-27T12:05:56.974Z
+MAL-2026-5789,npm:claude-cup,*,2026-09-04T05:41:38.782Z
+OSV-MCPS-2025-EB70F912,npm:claude-code,*,2026-09-03T04:04:18.078Z
+SP-2025-0001,npm:postmark-mcp,>=1.0.16,2026-09-03T03:38:09.861Z
+SP-2026-0002,clawhub:aslaep123/polymarket-traiding-bot,*,2026-09-03T03:38:09.855Z
+SP-2026-0002,clawhub:pepe276/moltbookagent,*,2026-09-03T03:38:09.856Z
+SP-2026-0002,clawhub:zaycv/clawhub1,*,2026-09-03T03:38:09.855Z
+SP-2026-0002,clawhub:zaycv/clawhud,*,2026-09-03T03:38:09.854Z
+SP-2026-0004,skills.sh:getpaperclipai/design-guide,*,2026-09-03T03:38:09.860Z
+SP-2026-0004,skills.sh:getpaperclipai/paperclip,*,2026-09-03T03:38:09.858Z
+SP-2026-0004,skills.sh:getpaperclipai/paperclip-board,*,2026-09-03T03:38:09.858Z
+SP-2026-0004,skills.sh:getpaperclipai/paperclip-converting-plans-to-tasks,*,2026-09-03T03:38:09.860Z
+SP-2026-0004,skills.sh:getpaperclipai/paperclip-create-agent,*,2026-09-03T03:38:09.859Z
+SP-2026-0004,skills.sh:getpaperclipai/para-memory-files,*,2026-09-03T03:38:09.859Z
+SP-2026-0005,npm:@apexfdn/apex,*,2026-09-03T03:38:09.863Z
+SP-2026-0005,npm:@copilot-mcp/apex,*,2026-09-03T03:38:09.863Z

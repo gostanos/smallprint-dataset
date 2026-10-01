@@ -147,7 +147,9 @@ def counts(folder: str) -> dict:
             for lang in m.split(","):
                 languages[lang] += 1
 
-    real = [c for c in changes if c["field"] != "version.bump"]
+    # the live figure counts what the text says: not a version bump, and not a source that stopped listing an entry
+    # (decision 326, 29 Sep 2026); both stay in changes.csv, where the field column tells them apart
+    real = [c for c in changes if c["field"] not in ("version.bump", "source.presence")]
     field = Counter(c["field"] for c in changes)
     high = [c for c in changes if c["severity"] == "high"]
     return {

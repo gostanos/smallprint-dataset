@@ -1,28 +1,36 @@
 # Small Print record of MCP server, skill and plugin small print
 
-Small Print (https://smallprint.dev) reads the text that MCP servers, agent skills and plugins publish about themselves every night. That text is the tool names, tool descriptions, input schemas and instruction files that an AI agent reads before it uses the software, which Small Print calls "the small print". Small Print stores a fingerprint (a sha256 hash) of every version it reads, compares each version with the one before it, grades each change by a printed rule, and matches public security advisories to the versions they name.
+Small Print (https://smallprint.dev) reads the text that MCP servers, agent skills and plugins publish about themselves, in a nightly run. That text is the tool names, tool descriptions, input schemas and instruction files that an AI agent reads before it uses the software, which Small Print calls "the small print". Small Print stores a fingerprint (a sha256 hash) of every version it reads, compares each version with the one before it, grades each change by a printed rule, and matches public security advisories to the versions they name.
 
 This dataset is the metadata of that record. It lists every entry, every version with its fingerprint and tool count, every recorded change with its grade and the rule that set it, per-day change counts, the advisories matched to entries with their version ranges, and the nightly hash chain that lets anyone check that recorded fingerprints were not changed later. It holds no third-party text: no tool descriptions, schemas, instruction files, READMEs, advisory summaries or diffs. To read what a change actually said, follow the entry's `page_url` to its page on smallprint.dev.
 
-- Release: 2026-09-29 (version 2026.09.29)
-- Exported: 2026-09-29 at 14:08:36 UTC, from the live record, inside one read-only transaction, so every file describes the same moment.
+- Release: 2026-09-30 (version 2026.09.30). The earlier release, 2026-09-29, stays in its own folder; see "What changed since 2026-09-29" below.
+- Exported: 2026-09-30 at 23:19:48 UTC, from the live record, inside one read-only transaction, so every file describes the same moment.
 - Publisher: EmberStack LLC, Small Print. Licence: CC BY 4.0 (see "Licence" below).
+
+## What changed since 2026-09-29
+
+The release of 2026-09-29 was exported before two faults in the record were fixed (on 29 and 30 September 2026). Use this release instead.
+
+- About 1,415 ordinary malicious npm and PyPI packages had been made into entries because a public malware feed named them, although nothing showed them to be MCP servers, skills or plugins. They are hidden from the record now, so they and the advisories that only name them are not in this release.
+- When a release was read after a later one, it had sometimes been compared with an older version as well as with the one just before it, so one change was recorded more than once. 12,301 such extra comparisons were deleted, and each version is now compared only with the version before it.
+- Changes in whether a registry still lists an entry (field `source.presence`) stay in `changes.csv.gz`, but they are no longer counted as changes to the small print, which matches the live site.
 
 ## Files in this release
 
-Every file is UTF-8 CSV with a header row. The three large files are gzip-compressed. An empty field means the value is not on record. `2026-09-29/manifest.json` gives each file's row count, size in bytes, sha256 and columns, the export time, the record chain's newest row, and the counts described in "Checking the counts".
+Every file is UTF-8 CSV with a header row. The three large files are gzip-compressed. An empty field means the value is not on record. `2026-09-30/manifest.json` gives each file's row count, size in bytes, sha256 and columns, the export time, the record chain's newest row, and the counts described in "Checking the counts".
 
 | File | Rows | Size | One row is |
 |---|---:|---:|---|
-| `entries.csv.gz` | 92,610 | 3.7 MB | one entry: one MCP server, skill or plugin, identified once however many places list it |
-| `versions.csv.gz` | 167,786 | 8.5 MB | one version of one entry |
-| `changes.csv.gz` | 118,421 | 4.1 MB | one recorded change between two versions of an entry, or one change in whether its source still serves it |
-| `changes_by_day.csv` | 257 | 10 KB | the number of changes found on one day, for one field and one grade |
-| `advisories.csv` | 4,097 | 436 KB | one public security advisory, by identifier |
-| `advisory_matches.csv` | 4,626 | 359 KB | one advisory matched to one entry, with the version range it names |
-| `record_chain.csv` | 13 | 4 KB | one night's row of the record chain |
+| `entries.csv.gz` | 93,634 | 3.8 MB | one entry: one MCP server, skill or plugin, identified once however many places list it |
+| `versions.csv.gz` | 188,088 | 9.1 MB | one version of one entry |
+| `changes.csv.gz` | 140,874 | 4.8 MB | one recorded change between two versions of an entry, or one change in whether its source still serves it |
+| `changes_by_day.csv` | 266 | 10 KB | the number of changes found on one day, for one field and one grade |
+| `advisories.csv` | 1,625 | 185 KB | one public security advisory, by identifier |
+| `advisory_matches.csv` | 2,155 | 168 KB | one advisory matched to one entry, with the version range it names |
+| `record_chain.csv` | 14 | 5 KB | one night's row of the record chain |
 
-Of the 92,610 entries, 61,022 are MCP servers, 26,818 are agent skills and 4,770 are plugins, listed from 12 public sources. 81,637 entries have at least one version that Small Print has read. Of the 118,421 changes, 94,176 are changes to the small print itself and 24,245 are plain version bumps.
+Of the 93,634 entries, 61,895 are MCP servers, 26,950 are agent skills and 4,789 are plugins, listed from 12 public sources. 84,359 entries have at least one version that Small Print has read. Of the 118,421 changes, 94,176 are changes to the small print itself and 24,245 are plain version bumps.
 
 ## What each column means
 
@@ -101,25 +109,25 @@ Summaries, details, references and Small Print's own explanations are left out.
 | `version_range` | The affected versions, as the advisory states them: a range such as `<0.1.16`, a list of versions, or `*` when it names every version. |
 | `matched_at` | When Small Print made the match. |
 
-3,941 of the 4,097 advisories are matched to at least one of 1,748 entries. An advisory can be matched to the wrong entry, for example where two packages share a name; each match can be disputed from the entry's page.
+1,471 of the 1,625 advisories are matched to at least one of 344 entries. Advisories whose only matches are packages hidden from the record (see "What changed since 2026-09-29") are left out, so this file holds fewer advisories than the 4,230 reports smallprint.dev counts on record. An advisory can be matched to the wrong entry, for example where two packages share a name; each match can be disputed from the entry's page.
 
 ### record_chain.csv
 
-One row a night since 17 September 2026; the chain can be recomputed from the public API with https://github.com/gostanos/smallprint-action/blob/main/tools/verify-chain.mjs. Each row takes the versions whose `content_hash` was recorded since the previous row, writes them as sorted lines of `entry<TAB>version<TAB>content_hash`, hashes those lines (`entries_hash`), and hashes that together with the previous row's `chain_hash`: `chain_hash = sha256(prev_hash + "\n" + day + "\n" + through_at + "\n" + entries_hash)`. The first row starts from sixty-four zeros. `versions` is how many lines the row covers, `through_at` is its cut-off time, and `signature` is an Ed25519 signature over the `chain_hash` text, made with Small Print's key (empty on the two rows written without it).
+One row a night since 17 September 2026. https://github.com/gostanos/smallprint-action/blob/main/tools/verify-chain.mjs checks every link of the chain from the public API and recomputes the newest row's `entries_hash` and signature. An older row's `entries_hash` cannot be recomputed from the API yet, because the API rebuilds its lines from the current versions table, and a version read again since then now falls in a later window. Each row takes the versions whose `content_hash` was recorded since the previous row, writes them as sorted lines of `entry<TAB>version<TAB>content_hash`, hashes those lines (`entries_hash`), and hashes that together with the previous row's `chain_hash`: `chain_hash = sha256(prev_hash + "\n" + day + "\n" + through_at + "\n" + entries_hash)`. The first row starts from sixty-four zeros. `versions` is how many lines the row covers, `through_at` is its cut-off time, and `signature` is an Ed25519 signature over the `chain_hash` text, made with Small Print's key (empty on the two rows written without it).
 
 ## Checking the chain
 
-The newest row at export time is the row for 2026-09-29:
+The newest row at export time is the row for 2026-09-30:
 
-- `chain_hash` c83b91a142b3a950140455d6018b25c3e3d325192a8422da5ee3083da2f75119
-- `through_at` 2026-09-29T10:12:56.208Z, covering 23,002 versions
+- `chain_hash` 7bd12caf7de6f5a08770739455d4880f6833fd67d44f169b74b888a64664dd9e
+- `through_at` 2026-09-30T11:17:08.211Z, covering 23,126 versions
 
 Every row's link to the one before it and every `chain_hash` were recomputed from the rows' own fields when this release was built. The same rows are served at https://smallprint.dev/api/chain, and the lines behind any row at `https://smallprint.dev/api/chain/<day>`. The signature on the newest row was checked against the public key served at https://smallprint.dev/.well-known/smallprint-chain-key.pub:
 
 ```sh
 curl -s https://smallprint.dev/.well-known/smallprint-chain-key.pub > chain.pub
-printf %s c83b91a142b3a950140455d6018b25c3e3d325192a8422da5ee3083da2f75119 > msg.txt
-# signature column of the 2026-09-29 row, base64-decoded into sig.bin
+printf %s 7bd12caf7de6f5a08770739455d4880f6833fd67d44f169b74b888a64664dd9e > msg.txt
+# signature column of the 2026-09-30 row, base64-decoded into sig.bin
 openssl pkeyutl -verify -pubin -inkey chain.pub -rawin -in msg.txt -sigfile sig.bin
 ```
 
@@ -136,7 +144,7 @@ Advisories are read from the feeds named above and matched to entries by package
 ## What this dataset does not cover
 
 - **Published text only.** Small Print reads what a server, skill or plugin publishes about itself. It does not watch what the software does when it runs. A server can do something at run time that its description never mentions, and a change that only shows while the software runs is not in the record.
-- **Not every entry is read.** 81,637 of 92,610 entries have a read version. Some packages cannot be downloaded, some remote servers need a sign-in or do not answer, some repositories have moved, and 15,005 servers were read but declare no tools in their code, which usually means they build the list while running.
+- **Not every entry is read.** 84,359 of 93,634 entries have a read version. Some packages cannot be downloaded, some remote servers need a sign-in or do not answer, some repositories have moved, and 15,005 servers were read but declare no tools in their code, which usually means they build the list while running.
 - **A grade is a printed rule that matched, not a verdict.** A grade says which written rule matched the published words. It does not say that the software or its author did anything wrong.
 - **False alarms exist, and most high grades have been false alarms.** On 28 September 2026 Small Print audited every change then graded high or critical: 335 changes on 214 entries. 36 of them already dropped below high under the rules as they stood that night. Of the 299 that stayed high, each was read one by one with Claude, the AI model Small Print is built with, and 23 were found that a reviewer would want a person to look at and 276 false alarms, which is 92 per cent. Most false alarms were ordinary documentation that names a key, a secret or a web address, or a warning such as "never send credentials". The rules have since been narrowed (on 29 September four more false-alarm patterns stopped being graded high), and this release has 250 changes graded high. Treat a high grade as a pointer to read the change on its page, not as a finding.
 - **Change dates are detection dates.** See `detected_at` above. The record of changes begins on 3 September 2026.
@@ -148,12 +156,12 @@ Advisories are read from the feeds named above and matched to entries by package
 The statistics page (https://smallprint.dev/stats, and as JSON at https://smallprint.dev/api/stats) is counted from the same record. The release's own files reproduce its figures:
 
 ```sh
-python3 scripts/dataset.py check 2026-09-29
+python3 scripts/dataset.py check 2026-09-30
 ```
 
 The script uses only the Python standard library. It counts each figure from the CSV files, fetches /api/stats, and prints both side by side, with the listed and read counts for each source. The figures it compares are: entries, servers, skills, read entries, versions, the tool totals (total, median, servers with 50 or more tools, servers that declare none), changes other than version bumps, entries and releases with a change, description, added-tool and instruction changes, version bumps with an identical hash, high grades under the data-movement rule (`*.exfiltration`) and the override rule (`*.override`), advisories (total, matched, critical, `advisory.malware-id`, entries with an advisory), chain rows, and read versions by language. The figure called "skills" on the live page counts entries of kind `agent-skill`; its sentence gives the plugins beside it.
 
-On 2026-09-29 all 32 figures and every source's listed and read counts were equal between this release and /api/stats (statistics dated 2026-09-29). They matched because the statistics were built after the night's reads finished at 10:12 UTC, and nothing these figures count changed between then and this export at 14:08 UTC.
+On 2026-09-30, 29 of the 32 figures and every source's listed and read counts were equal between this release and /api/stats. The three that differ are the advisory figures (adv-total, adv-critical, adv-malware), and they differ by design: the live site counts every report on record, while this release leaves out advisories that only name packages hidden from the record. The release of 2026-09-29 matched on all 32.
 
 For a later check, expect some gaps, and read them this way:
 
@@ -163,7 +171,7 @@ For a later check, expect some gaps, and read them this way:
 
 ## How to cite
 
-EmberStack LLC (2026). Small Print record of MCP server, skill and plugin small print (version 2026.09.29) [Data set]. https://smallprint.dev
+EmberStack LLC (2026). Small Print record of MCP server, skill and plugin small print (version 2026.09.30) [Data set]. https://smallprint.dev
 
 Please give the release date with any figure you take from it, because the record changes every night. `CITATION.cff` in this folder carries the same details in the Citation File Format, and GitHub and most reference managers read it. In BibTeX:
 
@@ -173,7 +181,7 @@ Please give the release date with any figure you take from it, because the recor
   title  = {Small Print record of MCP server, skill and plugin small print},
   year   = {2026},
   month  = {9},
-  note   = {Version 2026.09.29, released 29 September 2026},
+  note   = {Version 2026.09.30, released 30 September 2026},
   url    = {https://smallprint.dev}
 }
 ```

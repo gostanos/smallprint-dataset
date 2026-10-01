@@ -11,8 +11,8 @@ abstract: >-
 authors:
   - name: "EmberStack LLC"
     website: "https://smallprint.dev"
-version: "2026.09.29"
-date-released: 2026-09-29
+version: "2026.09.30"
+date-released: 2026-09-30
 url: "https://smallprint.dev"
 repository-code: "https://github.com/gostanos/smallprint-dataset"
 license: CC-BY-4.0

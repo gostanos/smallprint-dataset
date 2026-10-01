@@ -1,0 +1,243 @@
+{
+  "title": "Small Print record of MCP server, skill and plugin small print",
+  "release": "2026-09-30",
+  "version": "2026.09.30",
+  "exported_at_utc": "2026-09-30T23:19:48.320Z",
+  "publisher": "EmberStack LLC, Small Print",
+  "url": "https://smallprint.dev",
+  "licence": "CC-BY-4.0",
+  "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+  "snapshot": "Every file was read inside one read-only transaction of the record database, at exported_at_utc.",
+  "chain_head": {
+    "day": "2026-09-30",
+    "versions": "23126",
+    "through_at": "2026-09-30T11:17:08.211Z",
+    "entries_hash": "622fd01be2cf16cfd65b573e1cef1db7b4e02b039260406234c7e48a95d9294e",
+    "prev_hash": "c83b91a142b3a950140455d6018b25c3e3d325192a8422da5ee3083da2f75119",
+    "chain_hash": "7bd12caf7de6f5a08770739455d4880f6833fd67d44f169b74b888a64664dd9e",
+    "signature": "pqeACZqm84rkSlu3ZWow1TR5nfrCTZEq8AK6NNeys8VtQx7V0hhKfgbE9rIeLDVuWgaiv4BU/YZexdmVQsHMCg==",
+    "created_at": "2026-09-30T11:17:17.558Z"
+  },
+  "chain_head_note": "The newest record chain row at export time (decision 138). Versions whose content hash was recorded after its through_at are in versions.csv.gz but are covered by the next night's row. Every row's link and hash were recomputed from the row's own fields when this release was built; the lines behind a row are at https://smallprint.dev/api/chain/<day>.",
+  "chain_check": {
+    "rows": 14,
+    "links_and_hashes_recomputed": true
+  },
+  "files": [
+    {
+      "file": "entries.csv.gz",
+      "rows": 93634,
+      "bytes": 3768534,
+      "sha256": "e3c260fde26b8c69a9b32ef66eefd0e945408cadc57578c362a000c49185c53a",
+      "columns": [
+        "entry",
+        "page_url",
+        "kind",
+        "source_registry",
+        "source_url",
+        "repo_url",
+        "repo_subfolder",
+        "latest_version",
+        "first_seen",
+        "last_seen",
+        "first_published_at",
+        "install_count",
+        "install_count_source",
+        "gone_at",
+        "gone_reason"
+      ]
+    },
+    {
+      "file": "versions.csv.gz",
+      "rows": 188088,
+      "bytes": 9136997,
+      "sha256": "baaba9d5857d1ec93343d454eca2e8c4819e46a8c436e6cd494b269503581ef3",
+      "columns": [
+        "entry",
+        "version",
+        "published_at",
+        "recorded_at",
+        "content_hash",
+        "tree_hash",
+        "tree_file_count",
+        "tool_count",
+        "has_instructions",
+        "read_method",
+        "version_source"
+      ]
+    },
+    {
+      "file": "changes.csv.gz",
+      "rows": 140874,
+      "bytes": 4826225,
+      "sha256": "287e9abda00d27620865e79581c09a2f0ae5827cdb8b63c043bae67cb3b97f79",
+      "columns": [
+        "change_id",
+        "entry",
+        "from_version",
+        "to_version",
+        "field",
+        "subject",
+        "severity",
+        "rule",
+        "detected_at"
+      ]
+    },
+    {
+      "file": "changes_by_day.csv",
+      "rows": 266,
+      "bytes": 10130,
+      "sha256": "16af52089f143d454717334eb8a24029ae72c4d8f6d0b8b8e58652aa3cf766d0",
+      "columns": [
+        "day",
+        "field",
+        "severity",
+        "changes",
+        "entries"
+      ]
+    },
+    {
+      "file": "advisories.csv",
+      "rows": 1625,
+      "bytes": 185232,
+      "sha256": "66ea071c5a780139c91c627bc718365987db08d6fd7cf0c774d3a179b79bc6ce",
+      "columns": [
+        "advisory_id",
+        "aliases",
+        "source",
+        "severity",
+        "rule",
+        "published",
+        "modified",
+        "withdrawn"
+      ]
+    },
+    {
+      "file": "advisory_matches.csv",
+      "rows": 2155,
+      "bytes": 167917,
+      "sha256": "be5bcb17ed5e8946535d1b5f7a55aea25ef435df22171ccf13bdc0763e450979",
+      "columns": [
+        "advisory_id",
+        "entry",
+        "version_range",
+        "matched_at"
+      ]
+    },
+    {
+      "file": "record_chain.csv",
+      "rows": 14,
+      "bytes": 4814,
+      "sha256": "dcf6c73ce1c83845712d12abb6f1d50164ba0655a77a132fc2ae7384f845112c",
+      "columns": [
+        "day",
+        "versions",
+        "through_at",
+        "entries_hash",
+        "prev_hash",
+        "chain_hash",
+        "signature",
+        "created_at"
+      ]
+    }
+  ],
+  "counts": {
+    "entries": 93634,
+    "servers": 61895,
+    "skills": 26950,
+    "plugins": 4789,
+    "read": 84359,
+    "versions": 188088,
+    "versions_hashed": 99183,
+    "tools-total": 1380108,
+    "servers-with-tools": 39688,
+    "tools-median": 7,
+    "tools-big": 2338,
+    "tools-none": 15711,
+    "changes_all_rows": 140874,
+    "drift-total": 112621,
+    "drift-assets": 9322,
+    "drift-releases": 13020,
+    "desc-changes": 24602,
+    "tools-added": 28804,
+    "tools-removed": 7210,
+    "schema-changes": 47482,
+    "instr-changes": 3705,
+    "presence-changes": 818,
+    "bumps": 28253,
+    "bumps-same": 14907,
+    "high-exfil": 178,
+    "high-override": 78,
+    "high-all": 267,
+    "critical-all": 0,
+    "adv-total": 1625,
+    "adv-linked": 1471,
+    "adv-critical": 302,
+    "adv-high": 797,
+    "adv-malware": 45,
+    "adv-assets": 344,
+    "chain-days": 14,
+    "sources": {
+      "mcp-registry": {
+        "listed": 25881,
+        "read": 20166
+      },
+      "skills.sh": {
+        "listed": 21661,
+        "read": 19076
+      },
+      "npm": {
+        "listed": 12444,
+        "read": 12267
+      },
+      "huggingface": {
+        "listed": 11191,
+        "read": 11111
+      },
+      "smithery": {
+        "listed": 6912,
+        "read": 6718
+      },
+      "clawhub": {
+        "listed": 5289,
+        "read": 5181
+      },
+      "pypi": {
+        "listed": 4878,
+        "read": 4763
+      },
+      "anthropic-plugins": {
+        "listed": 2717,
+        "read": 2614
+      },
+      "gemini": {
+        "listed": 2072,
+        "read": 2010
+      },
+      "docker": {
+        "listed": 325,
+        "read": 205
+      },
+      "github": {
+        "listed": 191,
+        "read": 177
+      },
+      "zed": {
+        "listed": 73,
+        "read": 71
+      }
+    },
+    "languages": {
+      "js": 14990,
+      "remote": 9832,
+      "python": 4926,
+      "ts": 2956,
+      "smithery-api": 1037,
+      "go": 575,
+      "rust": 360,
+      "csharp": 117,
+      "java": 29,
+      "kotlin": 2
+    }
+  }
+}
